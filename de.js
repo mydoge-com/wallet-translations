@@ -1,4 +1,4 @@
-export const en = {
+export const de = {
   translation: {
     en: "English",
     zh: "简体中文",
