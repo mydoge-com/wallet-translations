@@ -83,7 +83,7 @@ export const zh = {
     price: `价格`,
     usd: `美元`,
     txs: `交易`,
-    hr: `時間`, -context hour?
+    hr: `時間`,
     send: `发送`,
     receive: `收到`,
     buy: `买`,
