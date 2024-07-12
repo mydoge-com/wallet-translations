@@ -1,12 +1,13 @@
 export const zh = {
   translation: {
-    en: 'English',
-    zh: '简体中文',
-    ja: '日本語',
-    ko: '한국어',
-    fr: 'Français',
-    es: 'Español',
-    pt: 'Português',
+    en: `English`,
+    zh: `简体中文`,
+    ja: `日本語`,
+    ko: `한국어`,
+    fr: `Français`,
+    es: `Español`,
+    pt: `Português`,
+    de: `Deutsch`,
     preference: `偏好`,
     disable_button_vibration: `禁用按钮振动反馈`,
     back: `后退`,
@@ -82,7 +83,7 @@ export const zh = {
     price: `价格`,
     usd: `美元`,
     txs: `交易`,
-    hr: `時間`, -context hour? 
+    hr: `時間`, -context hour?
     send: `发送`,
     receive: `收到`,
     buy: `买`,
