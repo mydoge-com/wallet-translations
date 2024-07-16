@@ -113,7 +113,7 @@ export const ko = {
     save: `저장하기`,
     saved: `저장됨`,
     balance: `잔고`,
-    max: `max`,
+    max: `Max`,
     next: `다음`,
     network_fee: `네트워크 수수료`,
     max_tx_size_warning: `경고: 최대 트랜잭션 크기에 도달했습니다. 한 번에 보낼 수 있는 최대 한도입니다.`,
