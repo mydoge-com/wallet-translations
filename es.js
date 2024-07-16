@@ -9,20 +9,20 @@ export const es = {
     pt: "Português",
     de: "Deutsch",
     preference: "Preferencia",
-    disable_button_vibration: "Desactivar la vibración",
+    disable_button_vibration: "Desactivar botón de vibración",
     back: "Atrás",
     language: "Idioma",
     app_theme: "Tema de la aplicación",
     system: "Sistema",
     dark: "Oscuro",
-    light: "Claro",
-    settings: "Ajustes",
-    backup_and_security: "Seguridad y Copia de seguridad",
+    light: "Brillante",
+    settings: "Configuración",
+    backup_and_security: "Seguridad y archivo",
     manage_wallet: "Administrar billetera",
     profile: "Perfil",
     app_preferences: "Preferencias de la aplicación",
     notifications: "Notificaciones",
-    help_support: "Ayuda",
+    help_support: "Apoyo",
     about_my_doge: "Acerca de MyDoge",
     admin: "Administración",
     i_cloud: "iCloud",
@@ -34,7 +34,7 @@ export const es = {
     backup: "Respaldar",
     view_seed_phrase: "Ver frase semilla",
     pin: "PIN",
-    back_up_to: "Respaldar en",
+    back_up_to: "Archivar en",
     back_up_your_wallet: "Crea una copia de seguridad de tu billetera",
     back_up_your_wallet_description:
       "Guarda tu billetera en la nube y protégela con una contraseña. También puedes escribir tu frase semilla o copiarla en un administrador de contraseñas.",
@@ -48,7 +48,7 @@ export const es = {
     this_will_remove_all_wallet:
       "Esto eliminará todos los datos relacionados con la billetera de tu dispositivo.",
     delete_wallet: "Eliminar billetera",
-    sign_in_to_the_dogeverse: "Iniciar sesión en Dogeverse",
+    sign_in_to_the_dogeverse: "Iniciar sesión de Dogeverse",
     dogeverse_intro_description:
       "Reclama tu DogeTag, encuentra amigos, recibe pagos con tu enlace e interactúa con el contenido de Dogeverse.",
     sign_in: "Iniciar sesión",
@@ -92,7 +92,7 @@ export const es = {
     history: "Historia",
     price: "Precio",
     usd: "USD",
-    txs: "TX",
+    txs: "impuestos",
     hr: "hora",
     send: "Enviar",
     receive: "Recibir",
@@ -109,7 +109,7 @@ export const es = {
     address_copied: "Dirección copiada",
     wallet: "Billetera",
     dogeverse: "Dogeverso",
-    shop: "Comprar",
+    shop: "Tienda",
     receive_doge: "Recibir Doge",
     send_doge: "Enviar Doge",
     confirm_transaction: "Confirmar transacción",
@@ -175,7 +175,7 @@ export const es = {
     seed_phrase_warning:
       "Tu frase semilla es la clave de tu billetera. Cualquier persona con esta frase puede acceder a tus fondos. Toca para aprender más",
     copy: "Copiar",
-    hide: "Ocultar",
+    hide: "Esconder",
     show: "Mostrar",
     screenshot_detected: "Captura de pantalla detectada",
     screenshot_warning:
@@ -194,12 +194,12 @@ export const es = {
     screen_not_exist: "Esta pantalla no existe.",
     go_to_home_screen: "Ir a la pantalla de inicio",
     gift_cards: "Tarjetas de regalo",
-    backup_wallet: "Hacer una copia de seguridad de tu nueva billetera",
+    backup_wallet: "Hacer un archivo de seguridad de tu nueva billetera",
     backup_required:
-      "Se requiere una copia de seguridad para proteger tus fondos",
-    why_backups_important: "¿Por qué son importantes las copias de seguridad?",
+      "Se requiere un archivo de seguridad para proteger tus fondos",
+    why_backups_important: "¿Por qué son importantes l0s archivos de seguridad?",
     learn_about_backups:
-      "Toca para obtener información sobre las copias de seguridad",
+      "Toca para obtener información sobre los archivos de seguridad",
     backup_to: "Respaldar a",
     save_wallet_to_cloud:
       " Guarda tu billetera en la nube y protégela con una contraseña",
@@ -207,25 +207,25 @@ export const es = {
     write_down_seed_phrase:
       "Escribe tu frase semilla o guárdala en un administrador de contraseñas",
     why_backups_important_description:
-      "La autocustodia significa que nadie más puede acceder a tus fondos, ni siquiera el equipo de MyDoge. Una copia de seguridad es la única forma de restaurar tu billetera si tu dispositivo se daña, se pierde, se lo roban o se borra.",
+      "La autocustodia significa que nadie más puede acceder a tus fondos, ni siquiera el equipo de MyDoge. Un archivo de seguridad es la única forma de restaurar tu billetera si tu dispositivo se daña, se pierde, se lo roban o se borra.",
     choose_password: "Elige una contraseña",
     use_memorable_password:
       "Usa una contraseña que puedas recordar. Las contraseñas más largas son más seguras.",
     more_secure_password:
       "Usa una contraseña que pueda recordar. Las contraseñas más largas son más seguras.",
     lose_password_lose_backup:
-      "Si pierdes esta contraseña, perderás la copia de seguridad de tu billetera.",
+      "Si pierdes esta contraseña, perderás el archivo de seguridad de tu billetera.",
     password: "Contraseña",
     confirm_password: "confirmar Contraseña",
-    confirm_backup: "Confirmar copia de seguridad",
-    overwrite_backup_title: "¿Sobreescribir la copia de seguridad existente?",
+    confirm_backup: "Confirmar archivo de seguridad",
+    overwrite_backup_title: "¿Sobreescribir el archivo de seguridad existente?",
     existing_wallet_overwrite_prompt:
       "Tienes una billetera existente previamente respaldada en la nube. ¿Quieres sobreescribirla?",
-    overwrite_backup: "Sobreescribir copia de seguridad",
+    overwrite_backup: "Sobreescribir archivo de seguridad",
     import_existing_wallet: "Importar billetera existente",
     unknown_cloud_error: "Error de nube desconocido",
     unknown_cloud_error_body:
-      "Se produjo un error desconocido al realizar la copia de seguridad en la nube.",
+      "Se produjo un error desconocido al realizar el archivo de seguridad en la nube.",
     try_again_or_notify_support:
       "Inténtalo de nuevo o notifica al soporte de MyDoge.",
     enter_recovery_password: "Ingresa la contraseña de recuperación",
@@ -245,7 +245,7 @@ export const es = {
     choose_dogeverse_username: "Elige una etiqueta DogeTag",
     dogeverse_link: "Tu enlace web será",
     continue: "Continuar",
-    dogeverse_entry_title: "Has entrado en el verso",
+    dogeverse_entry_title: "Has entrado en el dogeverse",
     dogeverse_entry_body: "¡Ya estás listo para explorar Dogeverse!",
     manual_backup_title: "Escribe la frase semilla",
     save_words_order:
