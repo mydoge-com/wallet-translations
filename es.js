@@ -8,6 +8,7 @@ export const es = {
     es: "Español",
     pt: "Português",
     de: "Deutsch",
+    vn: 'Tiếng Việt',
     preference: "Preferencia",
     disable_button_vibration: "Desactivar botón de vibración",
     back: "Atrás",

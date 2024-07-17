@@ -8,6 +8,7 @@ export const ja = {
     es: `Español`,
     pt: `Português`,
     de: `Deutsch`,
+    vn: 'Tiếng Việt',
     preference: `設定`,
     disable_button_vibration: `ボタンの振動を無効にする`,
     back: `戻る`,
