@@ -92,7 +92,7 @@ export const es = {
     history: "Historia",
     price: "Precio",
     usd: "USD",
-    txs: "impuestos",
+    txs: "Txs",
     hr: "hora",
     send: "Enviar",
     receive: "Recibir",
@@ -197,7 +197,7 @@ export const es = {
     backup_wallet: "Hacer un archivo de seguridad de tu nueva billetera",
     backup_required:
       "Se requiere un archivo de seguridad para proteger tus fondos",
-    why_backups_important: "¿Por qué son importantes l0s archivos de seguridad?",
+    why_backups_important: "¿Por qué son importantes los archivos de seguridad?",
     learn_about_backups:
       "Toca para obtener información sobre los archivos de seguridad",
     backup_to: "Respaldar a",
@@ -245,7 +245,7 @@ export const es = {
     choose_dogeverse_username: "Elige una etiqueta DogeTag",
     dogeverse_link: "Tu enlace web será",
     continue: "Continuar",
-    dogeverse_entry_title: "Has entrado en el dogeverse",
+    dogeverse_entry_title: "Has entrado en el Dogeverse",
     dogeverse_entry_body: "¡Ya estás listo para explorar Dogeverse!",
     manual_backup_title: "Escribe la frase semilla",
     save_words_order:
