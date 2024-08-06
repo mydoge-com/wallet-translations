@@ -8,7 +8,7 @@ export const pt = {
     es: `Español`,
     pt: `Português`,
     de: `Deutsch`,
-    vn: 'Tiếng Việt',
+    vn: "Tiếng Việt",
     preference: `Preferência`,
     disable_button_vibration: `Desativar a vibração do botão`,
     back: `Voltar`,
@@ -331,5 +331,16 @@ export const pt = {
     delete_backup_confirmation: `Depois de apagar este backup não poderá recuperar o backup na nuvem, esta ação não pode ser revertida`,
     all_transactions: `todas as transacções`,
     pending_transactions: `Transações pendentes`,
+    view_on: "보기", // View on
+    invoice_id_copied: "송장 번호가 복사되었습니다.", // Invoice ID copied
+    gift_card: "기프트 카드", // Gift Card
+    invoice_id: "송장 번호", // Invoice ID
+    support: "지원하다", // Support
+    phone_number: "전화 번호", // Phone number
+    whatsapp_verification_notice:
+      "Whatsapp을 통해 인증 코드가 휴대폰으로 전송됩니다.", // A verification code will be sent to your phone via Whatsapp
+    via_whatsapp: "Whatsapp을 통해", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "클라우드에 기존 백업이 있지만 현재 지갑을 백업하지 않았을 수 있습니다.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };

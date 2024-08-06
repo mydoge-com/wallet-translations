@@ -8,7 +8,7 @@ export const ja = {
     es: `Español`, // Spanish
     pt: `Português`, // Portuguese
     de: `Deutsch`, // German
-    vn: 'Tiếng Việt', // Vietnamese
+    vn: "Tiếng Việt", // Vietnamese
     preference: `設定`, // Preference
     disable_button_vibration: `ボタンの振動を無効にする`, // Disable button vibration
     back: `戻る`, // Back
@@ -340,5 +340,7 @@ export const ja = {
     whatsapp_verification_notice:
       "Whatsapp であなたの電話番号にバリデーションコードが送信されます", // A verification code will be sent to your phone via Whatsapp
     via_whatsapp: "Whatsapp で送信", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "クラウド上に既存のバックアップがありますが、現在のウォレットをバックアップしていない可能性があります。", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };

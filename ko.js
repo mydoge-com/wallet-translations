@@ -331,5 +331,16 @@ export const ko = {
     delete_backup_confirmation: `이 백업을 삭제하면 클라우드 백업이 손실되며 이 작업은 취소할 수 없습니다.`,
     all_transactions: `모든 거래 내역`,
     pending_transactions: `보류중인 거래`,
+    view_on: "보기", // View on
+    invoice_id_copied: "송장 번호가 복사되었습니다.", // Invoice ID copied
+    gift_card: "기프트 카드", // Gift Card
+    invoice_id: "송장 번호", // Invoice ID
+    support: "지원하다", // Support
+    phone_number: "전화 번호", // Phone number
+    whatsapp_verification_notice:
+      "Whatsapp을 통해 인증 코드가 휴대폰으로 전송됩니다.", // A verification code will be sent to your phone via Whatsapp
+    via_whatsapp: "Whatsapp을 통해", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "클라우드에 기존 백업이 있지만 현재 지갑을 백업하지 않았을 수 있습니다.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };

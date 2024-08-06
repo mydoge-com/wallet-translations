@@ -8,7 +8,7 @@ export const fr = {
     es: `Español`,
     pt: `Português`,
     de: `Deutsch`,
-    vn: 'Tiếng Việt',
+    vn: "Tiếng Việt",
     preference: `Préférence`,
     disable_button_vibration: `Désactiver la vibration des boutons`,
     back: `Retour`,
@@ -331,5 +331,16 @@ export const fr = {
     delete_backup_confirmation: `Une fois que vous supprimez cette sauvegarde, vous perdez votre sauvegarde cloud, cette action ne peut pas être annulée`,
     all_transactions: `toutes transactions`,
     pending_transactions: `Transactions en attente`,
+    view_on: "Voir sur", // View on
+    invoice_id_copied: "Rechnungsnummer kopiert", // Invoice ID copied
+    gift_card: "Geschenkkarte", // Gift Card
+    invoice_id: "Rechnungsnummer", // Invoice ID
+    support: "Unterstützung", // Support
+    phone_number: "Telefonnummer", // Phone number
+    whatsapp_verification_notice:
+      "Über WhatsApp wird ein Bestätigungscode an Ihr Telefon gesendet", // A verification code will be sent to your phone via Whatsapp
+    via_whatsapp: "per Whatsapp", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "Sie haben ein vorhandenes Backup in der Cloud, aber möglicherweise haben Sie Ihr aktuelles Wallet nicht gesichert.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };
