@@ -337,8 +337,8 @@ export const zh = {
     invoice_id: "发票号码", // Invoice ID
     support: "支持", // Support
     phone_number: "电话号码", // Phone number
-    whatsapp_verification_notice: "验证码将通过 Whatsapp 发送到您的手机", // A verification code will be sent to your phone via Whatsapp
-    via_whatsapp: "通过 Whatsapp", // via Whatsapp
+    whatsapp_verification_notice: "验证码将通过 WhatsApp 发送到您的手机", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "通过 WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "您在云端已有备份，但您可能尚未备份当前的钱包。", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },

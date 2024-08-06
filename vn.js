@@ -388,8 +388,8 @@ export const vn = {
     support: "Ủng hộ", // Support
     phone_number: "Số điện thoại", // Phone number
     whatsapp_verification_notice:
-      "Mã xác minh sẽ được gửi đến điện thoại của bạn qua Whatsapp", // A verification code will be sent to your phone via Whatsapp
-    via_whatsapp: "qua Whatsapp", // via Whatsapp
+      "Mã xác minh sẽ được gửi đến điện thoại của bạn qua WhatsApp", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "qua WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "Bạn hiện có bản sao lưu trên đám mây nhưng có thể bạn chưa sao lưu ví hiện tại của mình.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },

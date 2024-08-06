@@ -384,8 +384,8 @@ export const en = {
     support: "Support",
     phone_number: "Phone number",
     whatsapp_verification_notice:
-      "A verification code will be sent to your phone via Whatsapp",
-    via_whatsapp: "via Whatsapp",
+      "A verification code will be sent to your phone via WhatsApp",
+    via_whatsapp: "via WhatsApp",
     you_may_not_have_backed_up_your_wallet:
       "You have an existing backup on the cloud, but you may not have backed up your current wallet.",
   },

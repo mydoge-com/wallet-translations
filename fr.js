@@ -338,8 +338,8 @@ export const fr = {
     support: "Unterstützung", // Support
     phone_number: "Telefonnummer", // Phone number
     whatsapp_verification_notice:
-      "Über WhatsApp wird ein Bestätigungscode an Ihr Telefon gesendet", // A verification code will be sent to your phone via Whatsapp
-    via_whatsapp: "per Whatsapp", // via Whatsapp
+      "Über WhatsApp wird ein Bestätigungscode an Ihr Telefon gesendet", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "per WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "Sie haben ein vorhandenes Backup in der Cloud, aber möglicherweise haben Sie Ihr aktuelles Wallet nicht gesichert.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },

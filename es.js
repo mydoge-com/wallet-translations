@@ -396,8 +396,8 @@ export const es = {
     support: "Apoyo", // Support
     phone_number: "Número de teléfono", // Phone number
     whatsapp_verification_notice:
-      "Se enviará un código de verificación a su teléfono a través de Whatsapp", // A verification code will be sent to your phone via Whatsapp
-    via_whatsapp: "a través de Whatsapp", // via Whatsapp
+      "Se enviará un código de verificación a su teléfono a través de WhatsApp", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "a través de WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "Tienes una copia de seguridad en la nube, pero puede que no hayas respaldado tu billetera actual.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },

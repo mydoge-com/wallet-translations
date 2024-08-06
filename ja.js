@@ -338,8 +338,8 @@ export const ja = {
     support: "サポート", // Support
     phone_number: "電話番号", // Phone number
     whatsapp_verification_notice:
-      "Whatsapp であなたの電話番号にバリデーションコードが送信されます", // A verification code will be sent to your phone via Whatsapp
-    via_whatsapp: "Whatsapp で送信", // via Whatsapp
+      "WhatsApp であなたの電話番号にバリデーションコードが送信されます", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "WhatsApp で送信", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "クラウド上に既存のバックアップがありますが、現在のウォレットをバックアップしていない可能性があります。", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
