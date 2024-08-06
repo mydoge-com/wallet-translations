@@ -7,3 +7,5 @@
 * `ko.js` - Korean
 * `pt.js` - Portuguese
 * `zh.js` - Chinese
+* `de.js` - German
+* `vn.js` - Vietnamese
