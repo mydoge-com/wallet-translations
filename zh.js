@@ -8,7 +8,7 @@ export const zh = {
     es: `Español`,
     pt: `Português`,
     de: `Deutsch`,
-    vn: 'Tiếng Việt',
+    vn: "Tiếng Việt",
     preference: `偏好`,
     disable_button_vibration: `禁用按钮振动反馈`,
     back: `后退`,
@@ -331,5 +331,15 @@ export const zh = {
     delete_backup_confirmation: `一旦删除此备份，您将丢失云备份，此操作无法撤消`,
     all_transactions: `所有交易`,
     pending_transactions: `待交易`,
+    view_on: "查看于", // View on
+    invoice_id_copied: "发票号码已复制", // Invoice ID copied
+    gift_card: "礼物卡", // Gift Card
+    invoice_id: "发票号码", // Invoice ID
+    support: "支持", // Support
+    phone_number: "电话号码", // Phone number
+    whatsapp_verification_notice: "验证码将通过 Whatsapp 发送到您的手机", // A verification code will be sent to your phone via Whatsapp
+    via_whatsapp: "通过 Whatsapp", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "您在云端已有备份，但您可能尚未备份当前的钱包。", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };

@@ -8,7 +8,7 @@ export const en = {
     es: "Español",
     pt: "Português",
     de: "Deutsch",
-    vn: 'Tiếng Việt',
+    vn: "Tiếng Việt",
     preference: "Preference",
     disable_button_vibration: "Disable button vibration",
     back: "Back",
@@ -377,5 +377,16 @@ export const en = {
       "Once you delete this backup, you lose your cloud backup, this action cannot be undone",
     all_transactions: "All Transactions",
     pending_transactions: "Pending Transactions",
+    view_on: "View on",
+    invoice_id_copied: "Invoice ID copied",
+    gift_card: "Gift Card",
+    invoice_id: "Invoice ID",
+    support: "Support",
+    phone_number: "Phone number",
+    whatsapp_verification_notice:
+      "A verification code will be sent to your phone via Whatsapp",
+    via_whatsapp: "via Whatsapp",
+    you_may_not_have_backed_up_your_wallet:
+      "You have an existing backup on the cloud, but you may not have backed up your current wallet.",
   },
 };

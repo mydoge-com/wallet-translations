@@ -398,5 +398,7 @@ export const es = {
     whatsapp_verification_notice:
       "Se enviará un código de verificación a su teléfono a través de Whatsapp", // A verification code will be sent to your phone via Whatsapp
     via_whatsapp: "a través de Whatsapp", // via Whatsapp
+    you_may_not_have_backed_up_your_wallet:
+      "Tienes una copia de seguridad en la nube, pero puede que no hayas respaldado tu billetera actual.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
   },
 };
