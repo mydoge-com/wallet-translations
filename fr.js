@@ -77,7 +77,7 @@ export const fr = {
     connect_twitch: `Connectez votre compte Twitch`,
     connect_x: `Connectez votre compte 𝕏`,
     create_a_post: `Créer une publication`,
-    following: `Suivant`,
+    following: `Suivi`,
     followers: `Abonnés`,
     recent_activity: `Activité récente`,
     history: `Historique`,
