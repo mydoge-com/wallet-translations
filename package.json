@@ -1,0 +1,16 @@
+{
+  "name": "wallet-translations",
+  "version": "1.0.0",
+  "description": "Translation files for MyDoge Wallet",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --fix"
+  },
+  "author": "",
+  "license": "ISC"
+}
