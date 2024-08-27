@@ -348,4 +348,18 @@ export const fr = {
       'Melden Sie sich an, um die Sicherung wiederherzustellen', // Sign in to restore backup
     sign_in_with_google: 'Mit Google anmelden', // Sign in with Google
   },
+  invoice_id_copied: "ID de facture copié",
+  gift_card: "Carte cadeau",
+  invoice_id: "ID de facture",
+  support: "Support",
+  phone_number: "Numéro de téléphone",
+  whatsapp_verification_notice:
+    "Un code de vérification sera envoyé à votre téléphone via WhatsApp",
+  via_whatsapp: "via WhatsApp",
+  you_may_not_have_backed_up_your_wallet:
+    "Vous avez une sauvegarde existante dans le cloud, mais vous n'avez peut-être pas sauvegardé votre portefeuille actuel.",
+  signed_in_as: "Connecté en tant que",
+  sign_in_to_restore_backup:
+    "Connectez-vous pour restaurer la sauvegarde",
+  sign_in_with_google: "Se connecter avec Google",
 };
