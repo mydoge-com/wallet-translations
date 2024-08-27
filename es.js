@@ -10,6 +10,8 @@ export const es = {
     pt: "Português", // Português
     de: "Deutsch", // Deutsch
     vn: "Tiếng Việt", // Tiếng Việt
+    ru: "Русский", // Русский
+    tr: "Türkçe", // Türkçe
     preference: "Preferencia", // Preference
     disable_button_vibration: "Desactivar botón de vibración", // Disable button vibration
     back: "Atrás", // Back

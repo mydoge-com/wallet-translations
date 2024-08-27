@@ -10,6 +10,8 @@ export const ko = {
     pt: "Português",
     de: "Deutsch",
     vn: "Tiếng Việt",
+    ru: "Русский",
+    tr: "Türkçe",
     preference: "환경설정",
     disable_button_vibration: "버튼 진동 비활성화",
     back: "뒤쪽에",

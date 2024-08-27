@@ -11,6 +11,7 @@ export const ru = {
     de: "Deutsch",
     vn: "Tiếng Việt",
     ru: "Русский",
+    tr: "Türkçe",
     preference: "Предпочтения",
     disable_button_vibration: "Отключить вибрацию кнопок",
     back: "Назад",
