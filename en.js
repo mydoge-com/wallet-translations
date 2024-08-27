@@ -1,3 +1,4 @@
+// English
 export const en = {
   translation: {
     en: "English",
@@ -388,5 +389,8 @@ export const en = {
     via_whatsapp: "via WhatsApp",
     you_may_not_have_backed_up_your_wallet:
       "You have an existing backup on the cloud, but you may not have backed up your current wallet.",
+    signed_in_as: "Signed in as",
+    sign_in_to_restore_backup: "Sign in to restore backup",
+    sign_in_with_google: "Sign in with Google",
   },
 };

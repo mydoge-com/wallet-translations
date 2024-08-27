@@ -1,3 +1,4 @@
+// Spanish translation
 export const es = {
   translation: {
     en: "English", // English

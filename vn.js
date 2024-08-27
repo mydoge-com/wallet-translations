@@ -1,13 +1,14 @@
+// Vietnamese translation
 export const vn = {
   translation: {
-    en: `English`,
-    zh: `简体中文`,
-    ja: `日本語`,
-    ko: `한국어`,
-    fr: `Français`,
-    es: `Español`,
-    pt: `Português`,
-    de: `Deutsch`,
+    en: "English",
+    zh: "简体中文",
+    ja: "日本語",
+    ko: "한국어",
+    fr: "Français",
+    es: "Español",
+    pt: "Português",
+    de: "Deutsch",
     vn: "Tiếng Việt",
     preference: "Tùy chỉnh",
     disable_button_vibration: "Tắt rung",
@@ -392,5 +393,9 @@ export const vn = {
     via_whatsapp: "qua WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "Bạn hiện có bản sao lưu trên đám mây nhưng có thể bạn chưa sao lưu ví hiện tại của mình.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
+    signed_in_as: "Đăng nhập như", // Signed in as
+    sign_in_to_restore_backup:
+      "Đăng nhập để khôi phục bản sao lưu", // Sign in to restore backup
+    sign_in_with_google: "Đăng nhập với Google", // Sign in with Google
   },
 };
