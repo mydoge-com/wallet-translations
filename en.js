@@ -1,3 +1,4 @@
+// English
 export const en = {
   translation: {
     en: 'English',
