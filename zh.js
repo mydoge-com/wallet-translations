@@ -10,6 +10,8 @@ export const zh = {
     pt: "Português",
     de: "Deutsch",
     vn: "Tiếng Việt",
+    ru: "Русский",
+    tr: "Türkçe",
     preference: "偏好",
     disable_button_vibration: "禁用按钮振动反馈",
     back: "后退",

@@ -11,6 +11,7 @@ export const tr = {
     de: "Deutsch",
     vn: "Tiếng Việt",
     tr: "Türkçe",
+    ru: "Русский",
     preference: "Tercih",
     disable_button_vibration: "Düğme titreşimini devre dışı bırak",
     back: "Geri",

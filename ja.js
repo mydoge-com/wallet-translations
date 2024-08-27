@@ -10,6 +10,8 @@ export const ja = {
     pt: "Português", // Portuguese
     de: "Deutsch", // German
     vn: "Tiếng Việt", // Vietnamese
+    ru: "Русский", // Russian
+    tr: "Türkçe", // Turkish
     preference: "設定", // Preference
     disable_button_vibration: "ボタンの振動を無効にする", // Disable button vibration
     back: "戻る", // Back

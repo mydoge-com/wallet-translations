@@ -10,6 +10,8 @@ export const vn = {
     pt: "Português",
     de: "Deutsch",
     vn: "Tiếng Việt",
+    ru: "Русский",
+    tr: "Türkçe",
     preference: "Tùy chỉnh",
     disable_button_vibration: "Tắt rung",
     back: "Quay lại",
