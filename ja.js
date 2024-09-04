@@ -349,5 +349,6 @@ export const ja = {
     sign_in_to_restore_backup:
       "バックアップを復元するにはログインしてください", // Sign in to restore backup
     sign_in_with_google: "Google でログイン", // Sign in with Google
+    sign_in_to_backup: "バックアップするにはログインしてください", // Sign in to backup
   },
 };

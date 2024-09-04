@@ -346,5 +346,6 @@ export const ru = {
     signed_in_as: "Вы вошли как",
     sign_in_to_restore_backup: "Войдите, чтобы восстановить резервную копию",
     sign_in_with_google: "Войти через Google",
+    sign_in_to_backup: "Войдите, чтобы создать резервную копию",
   },
 };

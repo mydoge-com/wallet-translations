@@ -349,5 +349,6 @@ export const pt = {
     sign_in_to_restore_backup:
       "백업을 복원하려면 로그인하세요", // Sign in to restore backup
     sign_in_with_google: "Google로 로그인", // Sign in with Google
+    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup
   },
 };

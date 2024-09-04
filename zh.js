@@ -347,5 +347,6 @@ export const zh = {
     signed_in_as: "登录为", // Signed in as
     sign_in_to_restore_backup: "登录以恢复备份", // Sign in to restore backup
     sign_in_with_google: "使用 Google 登录", // Sign in with Google
+    sign_in_to_backup: "登录以备份", // Sign in to backup
   },
 };

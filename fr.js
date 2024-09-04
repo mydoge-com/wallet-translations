@@ -349,5 +349,6 @@ export const fr = {
     sign_in_to_restore_backup:
       "Connectez-vous pour restaurer la sauvegarde",
     sign_in_with_google: "Se connecter avec Google",
+    sign_in_to_backup: "Se connecter pour sauvegarder",
   },
 };

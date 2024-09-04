@@ -368,5 +368,6 @@ export const tr = {
     signed_in_as: "Şu şekilde giriş yapıldı:",
     sign_in_to_restore_backup: "Yedeklemeyi geri yüklemek için giriş yapın",
     sign_in_with_google: "Google ile giriş yap",
+    sign_in_to_backup: "Yedeklemek için giriş yapın",
   },
 };

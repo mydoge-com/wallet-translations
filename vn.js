@@ -399,5 +399,6 @@ export const vn = {
     sign_in_to_restore_backup:
       "Đăng nhập để khôi phục bản sao lưu", // Sign in to restore backup
     sign_in_with_google: "Đăng nhập với Google", // Sign in with Google
+    sign_in_to_backup: "Đăng nhập để sao lưu", // Sign in to backup
   },
 };
