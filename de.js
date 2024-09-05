@@ -349,5 +349,6 @@ export const de = {
     sign_in_to_restore_backup:
       "Melden Sie sich an, um die Sicherung wiederherzustellen", // Sign in to restore backup
     sign_in_with_google: "Mit Google anmelden", // Sign in with Google
+    sign_in_to_backup: "Melden Sie sich an, um die Sicherung zu sichern", // Sign in to backup
   },
 };

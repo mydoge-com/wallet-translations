@@ -403,5 +403,9 @@ export const es = {
     via_whatsapp: "a través de WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
       "Tienes una copia de seguridad en la nube, pero puede que no hayas respaldado tu billetera actual.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
+    signed_in_as: "Iniciado como", // Signed in as
+    sign_in_to_restore_backup: "Iniciar sesión para restaurar la copia de seguridad", // Sign in to restore backup
+    sign_in_with_google: "Iniciar sesión con Google", // Sign in with Google
+    sign_in_to_backup: "Iniciar sesión para respaldar", // Sign in to backup
   },
 };

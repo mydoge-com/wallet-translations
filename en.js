@@ -394,5 +394,6 @@ export const en = {
     signed_in_as: "Signed in as",
     sign_in_to_restore_backup: "Sign in to restore backup",
     sign_in_with_google: "Sign in with Google",
+    sign_in_to_backup: "Sign in to backup",
   },
 };
