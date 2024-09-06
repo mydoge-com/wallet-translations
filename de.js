@@ -395,5 +395,33 @@ export const de = {
     ban_user: "Benutzer sperren", // Ban user
     ban_user_confirmation: "Bist du sicher, dass du diesen Benutzer sperren möchtest?", // Are you sure you want to ban this user?
     ban: "Sperren", // Ban
+    x_account_linked_to_another_user: "𝕏-Konto mit einem anderen Benutzer verknüpft. Um es zu trennen, melde dich mit dem anderen Telefonnummer und gehe zurück zu diesem Bildschirm", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Unerwarteter Fehler, kontaktieren Sie den Support",
+    not_a_valid_dogecoin_address: "Keine gültige Dogecoin-Adresse",
+    balance_too_low_deposit_more_doge: "Guthaben zu niedrig. Zahlen Sie mehr DOGE ein.",
+    error_preparing_transaction: "Fehler beim Vorbereiten der Transaktion",
+    error_sending_transaction: "Fehler beim Senden der Transaktion",
+    max_transaction_size_allowed_for: "Maximale erlaubte Transaktionsgröße für",
+    qr_code_saved_to_gallery: "QR-Code in der Galerie gespeichert",
+    error_saving_qr_code: "Fehler beim Speichern des QR-Codes",
+    cannot_send_to_your_own_address: "Kann nicht an die eigene Adresse senden",
+    unsupported_format_or_not_a_doge_address: "Nicht unterstütztes Format oder keine DOGE-Adresse",
+    qr_not_found_in_file: "QR-Code nicht in der Datei gefunden",
+    unknown_file_error: "Unbekannter Dateifehler",
+    invalid_address: "Ungültige Adresse",
+    error_preparing_transaction_try_again: "Fehler beim Vorbereiten der Transaktion. Bitte versuchen Sie es erneut.",
+    error_processing_transaction_please_try_again: "Fehler bei der Verarbeitung der Transaktion. Bitte versuchen Sie es erneut.",
+    minimum_tip_amount_is: "Der Mindestbetrag für Trinkgeld ist",
+    backup_failed: "Sicherung fehlgeschlagen",
+    backup_successful: "Sicherung erfolgreich",
+    copied_to_clipboard: "In die Zwischenablage kopiert",
+    seed_phrase_correct: "Seed-Phrase korrekt",
+    incorrect_phrase: "Falsche Phrase",
+    incorrect_pin: "Falsche PIN",
+    pin_updated: "PIN aktualisiert",
+    wallet_unlocked_you_may_enter_your_new_pin: "Wallet entsperrt. Sie können Ihre neue PIN eingeben",
+    label_cannot_be_empty: "Bezeichnung darf nicht leer sein",
+    address_saved: "Adresse gespeichert",
+    label_already_exists: "Bezeichnung existiert bereits",
   },
 };

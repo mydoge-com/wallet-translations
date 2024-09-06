@@ -436,5 +436,33 @@ export const vn = {
     ban_user: "Cấm người dùng", // Ban user
     ban_user_confirmation: "Bạn có chắc chắn muốn cấm người dùng này không?", // Are you sure you want to ban this user?
     ban: "Cấm", // Ban
+    x_account_linked_to_another_user: "Tài khoản 𝕏 được liên kết với một người dùng khác. Để bỏ liên kết, vui lòng đăng nhập bằng số điện thoại khác và trở lại màn hình này", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Lỗi không mong đợi, vui lòng liên hệ hỗ trợ", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "Không phải là địa chỉ Dogecoin hợp lệ", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Số dư quá thấp. Vui lòng nạp thêm DOGE.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "Lỗi khi chuẩn bị giao dịch", // Error preparing transaction
+    error_sending_transaction: "Lỗi khi gửi giao dịch", // Error sending transaction
+    max_transaction_size_allowed_for: "Kích thước giao dịch tối đa cho phép cho", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "Mã QR đã được lưu vào thư viện", // QR code saved to gallery
+    error_saving_qr_code: "Lỗi khi lưu mã QR", // Error saving QR code
+    cannot_send_to_your_own_address: "Không thể gửi đến địa chỉ của chính bạn", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "Định dạng không được hỗ trợ hoặc không phải là địa chỉ DOGE", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "Không tìm thấy mã QR trong tệp", // QR not found in file
+    unknown_file_error: "Lỗi tệp không xác định", // Unknown file error
+    invalid_address: "Địa chỉ không hợp lệ", // Invalid address
+    error_preparing_transaction_try_again: "Lỗi khi chuẩn bị giao dịch. Vui lòng thử lại.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "Lỗi khi xử lý giao dịch. Vui lòng thử lại.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "Số tiền tip tối thiểu là", // Minimum tip amount is
+    backup_failed: "Sao lưu thất bại", // Backup failed
+    backup_successful: "Sao lưu thành công", // Backup successful
+    copied_to_clipboard: "Đã sao chép vào bộ nhớ tạm", // Copied to clipboard
+    seed_phrase_correct: "Cụm từ khôi phục chính xác", // Seed phrase correct
+    incorrect_phrase: "Cụm từ không chính xác", // Incorrect phrase
+    incorrect_pin: "Mã PIN không chính xác", // Incorrect PIN
+    pin_updated: "Đã cập nhật mã PIN", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Ví đã được mở khóa. Bạn có thể nhập mã PIN mới", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "Nhãn không thể để trống", // Label cannot be empty
+    address_saved: "Đã lưu địa chỉ", // Address saved
+    label_already_exists: "Nhãn đã tồn tại", // Label already exists
   },
 };

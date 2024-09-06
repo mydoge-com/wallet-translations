@@ -393,5 +393,33 @@ export const zh = {
     ban_user: "封禁用户", // Ban user
     ban_user_confirmation: "您确定要封禁这个用户吗？", // Are you sure you want to ban this user?
     ban: "封禁", // Ban
+    x_account_linked_to_another_user: "𝕏 账户已链接到另一个用户。要取消链接，请使用另一个电话号码登录并返回此屏幕", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "意外错误，请联系支持", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "不是有效的狗狗币地址", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "余额太低。请存入更多 DOGE。", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "准备交易时出错", // Error preparing transaction
+    error_sending_transaction: "发送交易时出错", // Error sending transaction
+    max_transaction_size_allowed_for: "允许的最大交易规模为", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "二维码已保存到相册", // QR code saved to gallery
+    error_saving_qr_code: "保存二维码时出错", // Error saving QR code
+    cannot_send_to_your_own_address: "不能发送到自己的地址", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "不支持的格式或不是 DOGE 地址", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "文件中未找到二维码", // QR not found in file
+    unknown_file_error: "未知文件错误", // Unknown file error
+    invalid_address: "无效地址", // Invalid address
+    error_preparing_transaction_try_again: "准备交易时出错。请重试。", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "处理交易时出错。请重试。", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "最低打赏金额为", // Minimum tip amount is
+    backup_failed: "备份失败", // Backup failed
+    backup_successful: "备份成功", // Backup successful
+    copied_to_clipboard: "已复制到剪贴板", // Copied to clipboard
+    seed_phrase_correct: "助记词正确", // Seed phrase correct
+    incorrect_phrase: "短语不正确", // Incorrect phrase
+    incorrect_pin: "PIN 不正确", // Incorrect PIN
+    pin_updated: "PIN 已更新", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "钱包已解锁。您可以输入新的 PIN", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "标签不能为空", // Label cannot be empty
+    address_saved: "地址已保存", // Address saved
+    label_already_exists: "标签已存在", // Label already exists
   },
 };

@@ -395,5 +395,33 @@ export const ko = {
     ban_user: "사용자 차단", // Ban user
     ban_user_confirmation: "이 사용자를 차단하시겠습니까?", // Are you sure you want to ban this user?
     ban: "차단", // Ban
+    x_account_linked_to_another_user: "𝕏 계정이 다른 사용자에게 연결되어 있습니다. 링크를 해제하려면 다른 전화 번호를 사용하여 로그인하고 이 화면으로 돌아와 주세요", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "예상치 못한 오류가 발생했습니다. 지원팀에 문의하세요", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "유효한 도지코인 주소가 아닙니다", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "잔액이 부족합니다. 더 많은 DOGE를 입금하세요.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "거래 준비 중 오류가 발생했습니다", // Error preparing transaction
+    error_sending_transaction: "거래 전송 중 오류가 발생했습니다", // Error sending transaction
+    max_transaction_size_allowed_for: "허용된 최대 거래 크기", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR 코드가 갤러리에 저장되었습니다", // QR code saved to gallery
+    error_saving_qr_code: "QR 코드 저장 중 오류가 발생했습니다", // Error saving QR code
+    cannot_send_to_your_own_address: "자신의 주소로 보낼 수 없습니다", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "지원되지 않는 형식이거나 DOGE 주소가 아닙니다", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "파일에서 QR을 찾을 수 없습니다", // QR not found in file
+    unknown_file_error: "알 수 없는 파일 오류", // Unknown file error
+    invalid_address: "유효하지 않은 주소", // Invalid address
+    error_preparing_transaction_try_again: "거래 준비 중 오류가 발생했습니다. 다시 시도해 주세요.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "거래 처리 중 오류가 발생했습니다. 다시 시도해 주세요.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "최소 팁 금액은", // Minimum tip amount is
+    backup_failed: "백업 실패", // Backup failed
+    backup_successful: "백업 성공", // Backup successful
+    copied_to_clipboard: "클립보드에 복사되었습니다", // Copied to clipboard
+    seed_phrase_correct: "시드 구문이 올바릅니다", // Seed phrase correct
+    incorrect_phrase: "잘못된 구문", // Incorrect phrase
+    incorrect_pin: "잘못된 PIN", // Incorrect PIN
+    pin_updated: "PIN이 업데이트되었습니다", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "지갑이 잠금 해제되었습니다. 새 PIN을 입력할 수 있습니다", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "라벨은 비워둘 수 없습니다", // Label cannot be empty
+    address_saved: "주소가 저장되었습니다", // Address saved
+    label_already_exists: "라벨이 이미 존재합니다", // Label already exists
   },
 };

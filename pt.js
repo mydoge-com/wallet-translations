@@ -392,6 +392,33 @@ export const pt = {
     ban_user: "Banir usuário", // Ban user
     ban_user_confirmation: "Tem certeza de que deseja banir este usuário?", // Are you sure you want to ban this user?
     ban: "Banir", // Ban
-
+    x_account_linked_to_another_user: "𝕏 conta vinculada a outro usuário. Para desvincular, por favor, entre usando o outro número de telefone e volte para esta tela", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Erro inesperado, entre em contato com o suporte",
+    not_a_valid_dogecoin_address: "Não é um endereço Dogecoin válido",
+    balance_too_low_deposit_more_doge: "Saldo muito baixo. Deposite mais DOGE.",
+    error_preparing_transaction: "Erro ao preparar a transação",
+    error_sending_transaction: "Erro ao enviar a transação",
+    max_transaction_size_allowed_for: "Tamanho máximo de transação permitido para",
+    qr_code_saved_to_gallery: "Código QR salvo na galeria",
+    error_saving_qr_code: "Erro ao salvar o código QR",
+    cannot_send_to_your_own_address: "Não é possível enviar para o seu próprio endereço",
+    unsupported_format_or_not_a_doge_address: "Formato não suportado ou não é um endereço DOGE",
+    qr_not_found_in_file: "QR não encontrado no arquivo",
+    unknown_file_error: "Erro de arquivo desconhecido",
+    invalid_address: "Endereço inválido",
+    error_preparing_transaction_try_again: "Erro ao preparar a transação. Por favor, tente novamente.",
+    error_processing_transaction_please_try_again: "Erro ao processar a transação. Por favor, tente novamente.",
+    minimum_tip_amount_is: "O valor mínimo de gorjeta é",
+    backup_failed: "Falha no backup",
+    backup_successful: "Backup bem-sucedido",
+    copied_to_clipboard: "Copiado para a área de transferência",
+    seed_phrase_correct: "Frase-semente correta",
+    incorrect_phrase: "Frase incorreta",
+    incorrect_pin: "PIN incorreto",
+    pin_updated: "PIN atualizado",
+    wallet_unlocked_you_may_enter_your_new_pin: "Carteira desbloqueada. Você pode inserir seu novo PIN",
+    label_cannot_be_empty: "O rótulo não pode estar vazio",
+    address_saved: "Endereço salvo",
+    label_already_exists: "O rótulo já existe",
   },
 };

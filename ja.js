@@ -395,5 +395,23 @@ export const ja = {
     ban_user: "ユーザーを禁止する", // Ban user
     ban_user_confirmation: "このユーザーを禁止してもよろしいですか?", // Are you sure you want to ban this user?
     ban: "禁止する", // Ban
+    x_account_linked_to_another_user: "𝕏アカウントは他のユーザーにリンクされています。リンクを解除するには、他の電話番号を使用してログインし、この画面に戻ってください", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "予期しないエラー、サポートにお問い合わせください", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "無効なDogecoinアドレス", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "残高が低すぎます。もっとDogeを預けてください。", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "取引の準備中にエラーが発生しました", // Error preparing transaction
+    error_processing_transaction_please_try_again: "取引の処理中にエラーが発生しました。もう一度お試しください。", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "最小のチップ額は", // Minimum tip amount is
+    backup_failed: "バックアップに失敗しました", // Backup failed
+    backup_successful: "バックアップに成功しました", // Backup successful
+    copied_to_clipboard: "クリップボードにコピーしました", // Copied to clipboard
+    seed_phrase_correct: "シードフレーズが正しい", // Seed phrase correct
+    incorrect_phrase: "無効なフレーズ", // Invalid phrase
+    incorrect_pin: "無効なPIN", // Invalid PIN
+    pin_updated: "PINが更新されました", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "ウォレットがロック解除されました。新しいPINを入力してください", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "ラベルを入力してください", // Label cannot be empty
+    address_saved: "アドレスが保存されました", // Address saved
+    label_already_exists: "ラベルは既に存在します", // Label already exists
   },
 };

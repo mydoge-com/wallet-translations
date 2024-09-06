@@ -413,5 +413,33 @@ export const tr = {
     ban_user: "Kullanıcıyı yasakla", // Ban user
     ban_user_confirmation: "Bu kullanıcıyı yasaklamak istediğinizden emin misiniz?", // Are you sure you want to ban this user?
     ban: "Yasakla", // Ban
+    x_account_linked_to_another_user: "𝕏 hesabı başka bir kullanıcıya bağlıdır. Bağlantıyı kaldırmak için lütfen diğer telefon numarasını kullanarak giriş yapın ve bu ekrandan geri dönün", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Beklenmeyen hata, destek ile iletişime geçin", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "Geçerli bir Dogecoin adresi değil", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Bakiye çok düşük. Daha fazla DOGE yatırın.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "İşlem hazırlanırken hata oluştu", // Error preparing transaction
+    error_sending_transaction: "İşlem gönderilirken hata oluştu", // Error sending transaction
+    max_transaction_size_allowed_for: "İzin verilen maksimum işlem boyutu:", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR kodu galeriye kaydedildi", // QR code saved to gallery
+    error_saving_qr_code: "QR kodu kaydedilirken hata oluştu", // Error saving QR code
+    cannot_send_to_your_own_address: "Kendi adresinize gönderemezsiniz", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "Desteklenmeyen format veya DOGE adresi değil", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "Dosyada QR bulunamadı", // QR not found in file
+    unknown_file_error: "Bilinmeyen dosya hatası", // Unknown file error
+    invalid_address: "Geçersiz adres", // Invalid address
+    error_preparing_transaction_try_again: "İşlem hazırlanırken hata oluştu. Lütfen tekrar deneyin.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "İşlem işlenirken hata oluştu. Lütfen tekrar deneyin.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "Minimum bahşiş miktarı:", // Minimum tip amount is
+    backup_failed: "Yedekleme başarısız oldu", // Backup failed
+    backup_successful: "Yedekleme başarılı", // Backup successful
+    copied_to_clipboard: "Panoya kopyalandı", // Copied to clipboard
+    seed_phrase_correct: "Tohum kelimesi doğru", // Seed phrase correct
+    incorrect_phrase: "Yanlış ifade", // Incorrect phrase
+    incorrect_pin: "Yanlış PIN", // Incorrect PIN
+    pin_updated: "PIN güncellendi", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Cüzdan kilidi açıldı. Yeni PIN'inizi girebilirsiniz", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "Etiket boş olamaz", // Label cannot be empty
+    address_saved: "Adres kaydedildi", // Address saved
+    label_already_exists: "Etiket zaten mevcut", // Label already exists
   },
 };

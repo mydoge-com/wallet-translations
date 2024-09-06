@@ -392,5 +392,21 @@ export const fr = {
     ban_user: "Bannir l'utilisateur", // Ban user
     ban_user_confirmation: "Êtes-vous sûr de vouloir bannir cet utilisateur ?", // Are you sure you want to ban this user?
     ban: "Bannir", // Ban
+    x_account_linked_to_another_user: "Compte 𝕏 lié à un autre utilisateur. Pour délier, connectez-vous avec le numéro de téléphone sur l'autre appareil et revenez à cette écran", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Erreur inattendue, contactez le support", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "Adresse Dogecoin non valide", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Solde insuffisant. Déposez plus de DOGE.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "Erreur lors de la préparation de la transaction", // Error preparing transaction
+    error_sending_transaction: "Erreur lors de l'envoi de la transaction", // Error sending transaction
+    max_transaction_size_allowed_for: "Taille de transaction maximale autorisée pour", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR code enregistré dans la galerie", // QR code saved to gallery
+    seed_phrase_correct: "Phrase de départ correcte", // Seed phrase correct
+    incorrect_phrase: "Phrase incorrecte", // Incorrect phrase
+    incorrect_pin: "Code PIN incorrect", // Incorrect PIN
+    pin_updated: "Code PIN mis à jour", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Portefeuille déverrouillé. Vous pouvez entrer votre nouveau code PIN", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "Le label ne peut pas être vide", // Label cannot be empty
+    address_saved: "Adresse enregistrée", // Address saved
+    label_already_exists: "Le label existe déjà", // Label already exists
   },
 };

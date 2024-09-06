@@ -452,5 +452,34 @@ export const es = {
     ban_user: "Banear usuario", // Ban user
     ban_user_confirmation: "¿Estás seguro de que quieres banear a este usuario?", // Are you sure you want to ban this user?
     ban: "Banear", // Ban
+    x_account_linked_to_another_user: "𝕏 cuenta vinculada a otro usuario. Para desvincular, inicia sesión con el otro número de teléfono y vuelve a esta pantalla", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Error inesperado, contacta con soporte", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "No es una dirección de Dogecoin válida", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Saldo insuficiente. Deposita más DOGE.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "Error al preparar la transacción", // Error preparing transaction
+    error_sending_transaction: "Error al enviar la transacción", // Error sending transaction
+    max_transaction_size_allowed_for: "Tamaño máximo de transacción permitido para", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "Código QR guardado en la galería", // QR code saved to gallery
+    error_saving_qr_code: "Error al guardar el código QR", // Error saving QR code
+    cannot_send_to_your_own_address: "No se puede enviar a su propia dirección", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "Formato no compatible o no una dirección DOGE", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "QR no encontrado en el archivo", // QR not found in file
+    unknown_file_error: "Error de archivo desconocido", // Unknown file error
+    invalid_address: "Dirección inválida", // Invalid address
+    error_preparing_transaction_try_again: "Error al preparar la transacción. Por favor, inténtalo de nuevo.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "Error al procesar la transacción. Por favor, inténtalo de nuevo.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "El mínimo de propina es", // Minimum tip amount is
+    backup_failed: "Copia de seguridad fallida", // Backup failed
+    backup_successful: "Copia de seguridad exitosa", // Backup successful
+    copied_to_clipboard: "Copiado al portapapeles", // Copied to clipboard
+    seed_phrase_correct: "Frase semilla correcta", // Seed phrase correct
+    incorrect_phrase: "Frase incorrecta", // Incorrect phrase
+    incorrect_pin: "PIN incorrecto", // Incorrect PIN
+    pin_updated: "PIN actualizado", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Billetera desbloqueada. Puedes entrar tu nuevo PIN", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "El label no puede estar vacío", // Label cannot be empty
+    address_saved: "Dirección guardada", // Address saved
+    label_already_exists: "El label ya existe", // Label already exists
+
   },
 };
