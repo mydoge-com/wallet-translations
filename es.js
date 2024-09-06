@@ -407,5 +407,50 @@ export const es = {
     sign_in_to_restore_backup: "Iniciar sesión para restaurar la copia de seguridad", // Sign in to restore backup
     sign_in_with_google: "Iniciar sesión con Google", // Sign in with Google
     sign_in_to_backup: "Iniciar sesión para respaldar", // Sign in to backup
+    delete_meme: "¿Eliminar meme?", // Delete meme?
+    delete_meme_confirmation: "Esto eliminará el meme de tu perfil y del Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "¡Meme guardado en la galería!", // Meme saved to gallery!
+    error_saving_meme: "Error al guardar el meme.", // Error saving meme.
+    report_or_block: "¿Reportar o bloquear?", // Report or Block?
+    report_block_description: "MyDoge revisará todos los memes reportados para detectar cualquier actividad que incumpla con nuestras pautas. También puedes bloquear el perfil para dejar de ver sus publicaciones.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "¿Reportar o bloquear?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "¿Estás seguro de que quieres cancelar esta propina?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Sí, cancelar", // Yes, cancel
+    allow_photos_access: "¿Permitir acceso a fotos?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Habilita el acceso a fotos para publicar memes.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "No se puede subir un video de más de 60 segundos", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Inicia sesión para publicar memes", // Sign in to post memes
+    hidden_profiles_cannot_post: "Los perfiles ocultos no pueden publicar", // Hidden profiles cannot post
+    error_posting_meme: "Error al publicar el meme", // Error posting meme
+    unsupported_file: "Archivo no compatible", // Unsupported file
+    unsupported_media_type: "Tipo de medio no compatible", // Unsupported media type
+    no_security_enabled: "Sin seguridad habilitada", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Se requiere código de acceso/Touch ID/Face ID para usar tu billetera. ¿Quieres ver cómo habilitarlo?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Sí, muéstrame cómo", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "El meme ya no se publicará", // The meme will no longer be posted
+    retry_post: "¿Reintentar publicación?", // Retry post?
+    retry_post_confirmation: "El meme se publicará de nuevo", // The meme will be posted again
+    pins_dont_match_please_retry: "Los PIN no coinciden. Por favor, inténtalo de nuevo", // Pins don't match. Please retry
+    invalid_phrase: "Frase inválida", // Invalid phrase
+    WARNING: "ADVERTENCIA", // WARNING
+    username_must_be_at_least_4_characters: "Los nombres de usuario deben tener al menos 4 caracteres", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Los nombres de usuario solo deben contener A-Z, 0-9 y _", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Nombre de usuario no disponible", // Username not available
+    username_available: "Nombre de usuario disponible", // Username available
+    error_try_again_or_contact_support: "Error. Inténtalo de nuevo o contacta con soporte.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Habilita el acceso a fotos para cambiar tu avatar.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Palabra de frase semilla inválida", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "no es una palabra de frase semilla de MyDoge", // is not a MyDoge seed phrase word
+    wallet_not_found: "¡Billetera no encontrada!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "¡Has introducido una o más palabras no estándar! Esto importará una billetera que puede tener problemas de compatibilidad. Solo procede si estás seguro de que esta es tu frase.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Advertencia", // Warning
+    import: "Importar", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive no está habilitado", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "¿Quieres ver cómo habilitarlo?", // Do you want to see how to enable it?
+    backup_deleted: "Copia de seguridad eliminada", // Backup deleted
+    error_deleting_backup: "Error al eliminar la copia de seguridad", // Error deleting backup
+    ban_user: "Banear usuario", // Ban user
+    ban_user_confirmation: "¿Estás seguro de que quieres banear a este usuario?", // Are you sure you want to ban this user?
+    ban: "Banear", // Ban
   },
 };

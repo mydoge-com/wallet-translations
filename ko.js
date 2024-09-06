@@ -349,6 +349,51 @@ export const ko = {
     sign_in_to_restore_backup:
       "백업을 복원하려면 로그인하세요", // Sign in to restore backup
     sign_in_with_google: "Google로 로그인", // Sign in with Google
-    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup
+    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup,
+    delete_meme: "밈을 삭제하시겠습니까?", // Delete meme?
+    delete_meme_confirmation: "이렇게 하면 프로필과 Dogeverse에서 밈이 제거됩니다.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "밈이 갤러리에 저장되었습니다!", // Meme saved to gallery!
+    error_saving_meme: "밈 저장 중 오류가 발생했습니다.", // Error saving meme.
+    report_or_block: "신고 또는 차단하시겠습니까?", // Report or Block?
+    report_block_description: "MyDoge는 당사 지침에 반하는 모든 활동에 대해 보고된 모든 밈을 검토합니다. 프로필을 차단하여 해당 게시물을 더 이상 볼 수도 없습니다.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "신고 또는 차단하시겠습니까?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "이 팁을 취소하시겠습니까?", // Are you sure you want to cancel this tip?
+    yes_cancel: "네, 취소합니다", // Yes, cancel
+    allow_photos_access: "사진 접근을 허용하시겠습니까?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "밈을 게시하려면 사진 접근을 활성화하세요.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "60초보다 긴 동영상은 업로드할 수 없습니다", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "밈을 게시하려면 로그인하세요", // Sign in to post memes
+    hidden_profiles_cannot_post: "숨겨진 프로필은 게시할 수 없습니다", // Hidden profiles cannot post
+    error_posting_meme: "밈 게시 중 오류가 발생했습니다", // Error posting meme
+    unsupported_file: "지원되지 않는 파일", // Unsupported file
+    unsupported_media_type: "지원되지 않는 미디어 유형", // Unsupported media type
+    no_security_enabled: "보안이 활성화되지 않음", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "지갑을 사용하려면 암호/Touch ID/Face ID가 필요합니다. 활성화 방법을 보시겠습니까?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "네, 방법을 보여주세요", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "밈이 더 이상 게시되지 않습니다", // The meme will no longer be posted
+    retry_post: "게시를 다시 시도하시겠습니까?", // Retry post?
+    retry_post_confirmation: "밈이 다시 게시됩니다", // The meme will be posted again
+    pins_dont_match_please_retry: "PIN이 일치하지 않습니다. 다시 시도해 주세요", // Pins don't match. Please retry
+    invalid_phrase: "유효하지 않은 구문", // Invalid phrase
+    WARNING: "경고", // WARNING
+    username_must_be_at_least_4_characters: "사용자 이름은 최소 4자 이상이어야 합니다", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "사용자 이름은 A-Z, 0-9 및 _만 포함해야 합니다", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "사용할 수 없는 사용자 이름입니다", // Username not available
+    username_available: "사용 가능한 사용자 이름입니다", // Username available
+    error_try_again_or_contact_support: "오류가 발생했습니다. 다시 시도하거나 지원팀에 문의하세요.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "아바타를 변경하려면 사진 접근을 활성화하세요.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "유효하지 않은 시드 구문 단어", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "는 MyDoge 시드 구문 단어가 아닙니다", // is not a MyDoge seed phrase word
+    wallet_not_found: "지갑을 찾을 수 없습니다!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "하나 이상의 비표준 단어를 입력했습니다! 이는 호환성 문제가 있을 수 있는 지갑을 가져옵니다. 이것이 귀하의 구문이라고 확신하는 경우에만 진행하세요.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "경고", // Warning
+    import: "가져오기", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive가 활성화되지 않았습니다", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "활성화 방법을 보시겠습니까?", // Do you want to see how to enable it?
+    backup_deleted: "백업이 삭제되었습니다", // Backup deleted
+    error_deleting_backup: "백업 삭제 중 오류가 발생했습니다", // Error deleting backup
+    ban_user: "사용자 차단", // Ban user
+    ban_user_confirmation: "이 사용자를 차단하시겠습니까?", // Are you sure you want to ban this user?
+    ban: "차단", // Ban
   },
 };

@@ -391,5 +391,50 @@ export const vn = {
       "Đăng nhập để khôi phục bản sao lưu", // Sign in to restore backup
     sign_in_with_google: "Đăng nhập với Google", // Sign in with Google
     sign_in_to_backup: "Đăng nhập để sao lưu", // Sign in to backup
+    delete_meme: "Xóa meme?", // Delete meme?
+    delete_meme_confirmation: "Điều này sẽ xóa meme khỏi hồ sơ của bạn và Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "Meme đã được lưu vào thư viện!", // Meme saved to gallery!
+    error_saving_meme: "Lỗi khi lưu meme.", // Error saving meme.
+    report_or_block: "Báo cáo hoặc Chặn?", // Report or Block?
+    report_block_description: "MyDoge sẽ xem xét tất cả các meme bị báo cáo về bất kỳ hoạt động nào vi phạm hướng dẫn của chúng tôi. Bạn cũng có thể chặn hồ sơ để ngừng nhìn thấy các bài đăng của họ.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "Báo cáo hoặc Chặn?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "Bạn có chắc chắn muốn hủy tiền tip này không?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Có, hủy bỏ", // Yes, cancel
+    allow_photos_access: "Cho phép truy cập Ảnh?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Bật quyền truy cập ảnh để đăng meme.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "Không thể tải lên video dài hơn 60 giây", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Đăng nhập để đăng meme", // Sign in to post memes
+    hidden_profiles_cannot_post: "Hồ sơ ẩn không thể đăng bài", // Hidden profiles cannot post
+    error_posting_meme: "Lỗi khi đăng meme", // Error posting meme
+    unsupported_file: "Tệp không được hỗ trợ", // Unsupported file
+    unsupported_media_type: "Loại phương tiện không được hỗ trợ", // Unsupported media type
+    no_security_enabled: "Chưa bật Bảo mật", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Yêu cầu Mã khóa/Touch ID/Face ID để sử dụng ví của bạn. Bạn có muốn xem cách bật nó không?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Có, chỉ cho tôi cách", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "Meme sẽ không còn được đăng nữa", // The meme will no longer be posted
+    retry_post: "Thử đăng lại?", // Retry post?
+    retry_post_confirmation: "Meme sẽ được đăng lại", // The meme will be posted again
+    pins_dont_match_please_retry: "Mã PIN không khớp. Vui lòng thử lại", // Pins don't match. Please retry
+    invalid_phrase: "Cụm từ không hợp lệ", // Invalid phrase
+    WARNING: "CẢNH BÁO", // WARNING
+    username_must_be_at_least_4_characters: "Tên người dùng phải có ít nhất 4 ký tự", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Tên người dùng chỉ được chứa A-Z, 0-9 và _", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Tên người dùng không khả dụng", // Username not available
+    username_available: "Tên người dùng khả dụng", // Username available
+    error_try_again_or_contact_support: "Lỗi. Thử lại hoặc liên hệ hỗ trợ.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Bật quyền truy cập ảnh để thay đổi ảnh đại diện của bạn.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Từ trong cụm từ khôi phục không hợp lệ", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "không phải là từ trong cụm từ khôi phục MyDoge", // is not a MyDoge seed phrase word
+    wallet_not_found: "Không tìm thấy Ví!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Bạn đã nhập một hoặc nhiều từ không chuẩn! Điều này sẽ nhập một ví có thể gặp vấn đề về tương thích. Chỉ tiếp tục nếu bạn chắc chắn đây là cụm từ của bạn.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Cảnh báo", // Warning
+    import: "Nhập", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive chưa được bật", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "Bạn có muốn xem cách bật nó không?", // Do you want to see how to enable it?
+    backup_deleted: "Đã xóa bản sao lưu", // Backup deleted
+    error_deleting_backup: "Lỗi khi xóa bản sao lưu", // Error deleting backup
+    ban_user: "Cấm người dùng", // Ban user
+    ban_user_confirmation: "Bạn có chắc chắn muốn cấm người dùng này không?", // Are you sure you want to ban this user?
+    ban: "Cấm", // Ban
   },
 };

@@ -347,5 +347,50 @@ export const fr = {
     sign_in_to_restore_backup: "Connectez-vous pour restaurer la sauvegarde", // Sign in to restore backup
     sign_in_with_google: "Se connecter avec Google", // Sign in with Google
     sign_in_to_backup: "Se connecter pour sauvegarder", // Sign in to backup
+    delete_meme: "Supprimer le mème ?", // Delete meme?
+    delete_meme_confirmation: "Cela supprimera le mème de votre profil et du Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "Mème enregistré dans la galerie !", // Meme saved to gallery!
+    error_saving_meme: "Erreur lors de l'enregistrement du mème.", // Error saving meme.
+    report_or_block: "Signaler ou bloquer ?", // Report or Block?
+    report_block_description: "MyDoge examinera tous les mèmes signalés pour toute activité contraire à nos directives. Vous pouvez également bloquer le profil pour ne plus voir leurs publications.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "Signaler ou bloquer ?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "Êtes-vous sûr de vouloir annuler ce pourboire ?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Oui, annuler", // Yes, cancel
+    allow_photos_access: "Autoriser l'accès aux photos ?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Activez l'accès aux photos pour pouvoir publier des mèmes.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "Impossible de télécharger une vidéo de plus de 60 secondes", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Connectez-vous pour publier des mèmes", // Sign in to post memes
+    hidden_profiles_cannot_post: "Les profils cachés ne peuvent pas publier", // Hidden profiles cannot post
+    error_posting_meme: "Erreur lors de la publication du mème", // Error posting meme
+    unsupported_file: "Fichier non pris en charge", // Unsupported file
+    unsupported_media_type: "Type de média non pris en charge", // Unsupported media type
+    no_security_enabled: "Aucune sécurité activée", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Un code d'accès/Touch ID/Face ID est requis pour utiliser votre portefeuille. Voulez-vous voir comment l'activer ?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Oui, montrez-moi comment", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "Le mème ne sera plus publié", // The meme will no longer be posted
+    retry_post: "Réessayer la publication ?", // Retry post?
+    retry_post_confirmation: "Le mème sera publié à nouveau", // The meme will be posted again
+    pins_dont_match_please_retry: "Les codes PIN ne correspondent pas. Veuillez réessayer", // Pins don't match. Please retry
+    invalid_phrase: "Phrase invalide", // Invalid phrase
+    WARNING: "AVERTISSEMENT", // WARNING
+    username_must_be_at_least_4_characters: "Les noms d'utilisateur doivent comporter au moins 4 caractères", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Les noms d'utilisateur ne doivent contenir que A-Z, 0-9 et _", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Nom d'utilisateur non disponible", // Username not available
+    username_available: "Nom d'utilisateur disponible", // Username available
+    error_try_again_or_contact_support: "Erreur. Réessayez ou contactez le support.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Activez l'accès aux photos pour pouvoir changer votre avatar.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Mot de phrase de départ invalide", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "n'est pas un mot de phrase de départ MyDoge", // is not a MyDoge seed phrase word
+    wallet_not_found: "Portefeuille non trouvé !", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Vous avez saisi un ou plusieurs mots non standard ! Cela importera un portefeuille qui pourrait avoir des problèmes de compatibilité. Ne procédez que si vous êtes sûr que c'est votre phrase.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Avertissement", // Warning
+    import: "Importer", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive non activé", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "Voulez-vous voir comment l'activer ?", // Do you want to see how to enable it?
+    backup_deleted: "Sauvegarde supprimée", // Backup deleted
+    error_deleting_backup: "Erreur lors de la suppression de la sauvegarde", // Error deleting backup
+    ban_user: "Bannir l'utilisateur", // Ban user
+    ban_user_confirmation: "Êtes-vous sûr de vouloir bannir cet utilisateur ?", // Are you sure you want to ban this user?
+    ban: "Bannir", // Ban
   },
 };

@@ -350,5 +350,50 @@ export const de = {
       "Melden Sie sich an, um die Sicherung wiederherzustellen", // Sign in to restore backup
     sign_in_with_google: "Mit Google anmelden", // Sign in with Google
     sign_in_to_backup: "Melden Sie sich an, um die Sicherung zu sichern", // Sign in to backup
+    delete_meme: "Meme löschen?", // Delete meme?
+    delete_meme_confirmation: "Dies entfernt das Meme von deinem Profil und aus dem Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "Meme in der Galerie gespeichert!", // Meme saved to gallery!
+    error_saving_meme: "Fehler beim Speichern des Memes.", // Error saving meme.
+    report_or_block: "Melden oder Blockieren?", // Report or Block?
+    report_block_description: "MyDoge überprüft alle gemeldeten Memes auf Aktivitäten, die gegen unsere Richtlinien verstoßen. Du kannst das Profil auch blockieren, um dessen Beiträge nicht mehr zu sehen.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "Melden oder Blockieren?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "Bist du sicher, dass du dieses Trinkgeld stornieren möchtest?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Ja, stornieren", // Yes, cancel
+    allow_photos_access: "Fotozugriff erlauben?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Aktiviere den Fotozugriff, um Memes zu posten.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "Videos länger als 60 Sekunden können nicht hochgeladen werden", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Melde dich an, um Memes zu posten", // Sign in to post memes
+    hidden_profiles_cannot_post: "Versteckte Profile können keine Beiträge erstellen", // Hidden profiles cannot post
+    error_posting_meme: "Fehler beim Posten des Memes", // Error posting meme
+    unsupported_file: "Nicht unterstützte Datei", // Unsupported file
+    unsupported_media_type: "Nicht unterstützter Medientyp", // Unsupported media type
+    no_security_enabled: "Keine Sicherheit aktiviert", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Passcode/Touch ID/Face ID ist erforderlich, um deine Wallet zu nutzen. Möchtest du sehen, wie man es aktiviert?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Ja, zeig mir wie", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "Das Meme wird nicht mehr gepostet", // The meme will no longer be posted
+    retry_post: "Beitrag erneut versuchen?", // Retry post?
+    retry_post_confirmation: "Das Meme wird erneut gepostet", // The meme will be posted again
+    pins_dont_match_please_retry: "PINs stimmen nicht überein. Bitte versuche es erneut", // Pins don't match. Please retry
+    invalid_phrase: "Ungültige Phrase", // Invalid phrase
+    WARNING: "WARNUNG", // WARNING
+    username_must_be_at_least_4_characters: "Benutzernamen müssen mindestens 4 Zeichen lang sein", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Benutzernamen dürfen nur A-Z, 0-9 und _ enthalten", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Benutzername nicht verfügbar", // Username not available
+    username_available: "Benutzername verfügbar", // Username available
+    error_try_again_or_contact_support: "Fehler. Versuche es erneut oder kontaktiere den Support.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Aktiviere den Fotozugriff, um dein Avatar zu ändern.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Ungültiges Seed-Phrase-Wort", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "ist kein MyDoge-Seed-Phrase-Wort", // is not a MyDoge seed phrase word
+    wallet_not_found: "Wallet nicht gefunden!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Du hast ein oder mehrere nicht standardmäßige Wörter eingegeben! Dies wird eine Wallet importieren, die möglicherweise Kompatibilitätsprobleme hat. Fahre nur fort, wenn du sicher bist, dass dies deine Phrase ist.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Warnung", // Warning
+    import: "Importieren", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive nicht aktiviert", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "Möchtest du sehen, wie man es aktiviert?", // Do you want to see how to enable it?
+    backup_deleted: "Backup gelöscht", // Backup deleted
+    error_deleting_backup: "Fehler beim Löschen des Backups", // Error deleting backup
+    ban_user: "Benutzer sperren", // Ban user
+    ban_user_confirmation: "Bist du sicher, dass du diesen Benutzer sperren möchtest?", // Are you sure you want to ban this user?
+    ban: "Sperren", // Ban
   },
 };

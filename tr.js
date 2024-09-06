@@ -368,5 +368,50 @@ export const tr = {
     sign_in_to_restore_backup: "Yedeklemeyi geri yüklemek için giriş yapın", // Sign in to restore backup
     sign_in_with_google: "Google ile giriş yap", // Sign in with Google
     sign_in_to_backup: "Yedeklemek için giriş yapın", // Sign in to backup
+    delete_meme: "Meme'i sil?", // Delete meme?
+    delete_meme_confirmation: "Bu, meme'i profilinizden ve Dogeverse'den kaldıracaktır.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "Meme galeriye kaydedildi!", // Meme saved to gallery!
+    error_saving_meme: "Meme kaydedilirken hata oluştu.", // Error saving meme.
+    report_or_block: "Bildir veya Engelle?", // Report or Block?
+    report_block_description: "MyDoge, bildirilen tüm memeleri yönergelerimize aykırı herhangi bir faaliyet için inceleyecektir. Ayrıca, gönderilerini görmemek için profili engelleyebilirsiniz.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "Bildir veya Engelle?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "Bu bahşişi iptal etmek istediğinizden emin misiniz?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Evet, iptal et", // Yes, cancel
+    allow_photos_access: "Fotoğraf Erişimine İzin Ver?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Meme paylaşmak için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "60 saniyeden uzun video yüklenemez", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Meme paylaşmak için giriş yapın", // Sign in to post memes
+    hidden_profiles_cannot_post: "Gizli profiller paylaşım yapamaz", // Hidden profiles cannot post
+    error_posting_meme: "Meme paylaşılırken hata oluştu", // Error posting meme
+    unsupported_file: "Desteklenmeyen dosya", // Unsupported file
+    unsupported_media_type: "Desteklenmeyen medya türü", // Unsupported media type
+    no_security_enabled: "Güvenlik Etkinleştirilmedi", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Cüzdanınızı kullanmak için Şifre/Touch ID/Face ID gereklidir. Nasıl etkinleştirileceğini görmek ister misiniz?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Evet, nasıl yapılacağını göster", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "Meme artık paylaşılmayacak", // The meme will no longer be posted
+    retry_post: "Gönderiyi yeniden dene?", // Retry post?
+    retry_post_confirmation: "Meme tekrar paylaşılacak", // The meme will be posted again
+    pins_dont_match_please_retry: "PIN'ler eşleşmiyor. Lütfen tekrar deneyin", // Pins don't match. Please retry
+    invalid_phrase: "Geçersiz ifade", // Invalid phrase
+    WARNING: "UYARI", // WARNING
+    username_must_be_at_least_4_characters: "Kullanıcı adı en az 4 karakter olmalıdır", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Kullanıcı adı sadece A-Z, 0-9 ve _ içermelidir", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Kullanıcı adı mevcut değil", // Username not available
+    username_available: "Kullanıcı adı mevcut", // Username available
+    error_try_again_or_contact_support: "Hata. Tekrar deneyin veya destek ile iletişime geçin.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Avatarınızı değiştirmek için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Geçersiz tohum kelimesi", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "MyDoge tohum kelimesi değil", // is not a MyDoge seed phrase word
+    wallet_not_found: "Cüzdan Bulunamadı!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Bir veya daha fazla standart olmayan kelime girdiniz! Bu, uyumluluk sorunları olabilecek bir cüzdanı içe aktaracaktır. Yalnızca bu ifadenin sizin olduğundan eminseniz devam edin.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Uyarı", // Warning
+    import: "İçe Aktar", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive etkinleştirilmedi", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "Nasıl etkinleştirileceğini görmek ister misiniz?", // Do you want to see how to enable it?
+    backup_deleted: "Yedekleme silindi", // Backup deleted
+    error_deleting_backup: "Yedekleme silinirken hata oluştu", // Error deleting backup
+    ban_user: "Kullanıcıyı yasakla", // Ban user
+    ban_user_confirmation: "Bu kullanıcıyı yasaklamak istediğinizden emin misiniz?", // Are you sure you want to ban this user?
+    ban: "Yasakla", // Ban
   },
 };

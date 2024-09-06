@@ -348,5 +348,50 @@ export const zh = {
     sign_in_to_restore_backup: "登录以恢复备份", // Sign in to restore backup
     sign_in_with_google: "使用 Google 登录", // Sign in with Google
     sign_in_to_backup: "登录以备份", // Sign in to backup
+    delete_meme: "删除表情包？", // Delete meme?
+    delete_meme_confirmation: "这将从您的个人资料和 Dogeverse 中删除该表情包。", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "表情包已保存到相册！", // Meme saved to gallery!
+    error_saving_meme: "保存表情包时出错。", // Error saving meme.
+    report_or_block: "举报或屏蔽？", // Report or Block?
+    report_block_description: "MyDoge 将审查所有被举报的表情包，看是否有任何违反我们准则的行为。您还可以屏蔽该个人资料，以阻止看到他们的帖子。", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "举报或屏蔽？", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "您确定要取消这笔小费吗？", // Are you sure you want to cancel this tip?
+    yes_cancel: "是的，取消", // Yes, cancel
+    allow_photos_access: "允许照片访问权限？", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "启用照片访问权限以发布表情包。", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "无法上传超过 60 秒的视频", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "登录以发布表情包", // Sign in to post memes
+    hidden_profiles_cannot_post: "隐藏的个人资料无法发帖", // Hidden profiles cannot post
+    error_posting_meme: "发布表情包时出错", // Error posting meme
+    unsupported_file: "不支持的文件", // Unsupported file
+    unsupported_media_type: "不支持的媒体类型", // Unsupported media type
+    no_security_enabled: "未启用安全措施", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "使用您的钱包需要密码/Touch ID/Face ID。您想了解如何启用它吗？", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "是的，告诉我怎么做", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "表情包将不再发布", // The meme will no longer be posted
+    retry_post: "重试发布？", // Retry post?
+    retry_post_confirmation: "表情包将再次发布", // The meme will be posted again
+    pins_dont_match_please_retry: "PIN 不匹配。请重试", // Pins don't match. Please retry
+    invalid_phrase: "无效短语", // Invalid phrase
+    WARNING: "警告", // WARNING
+    username_must_be_at_least_4_characters: "用户名必须至少包含 4 个字符", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "用户名只能包含 A-Z、0-9 和 _", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "用户名不可用", // Username not available
+    username_available: "用户名可用", // Username available
+    error_try_again_or_contact_support: "错误。请重试或联系支持。", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "启用照片访问权限以更改您的头像。", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "无效的助记词", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "不是 MyDoge 助记词", // is not a MyDoge seed phrase word
+    wallet_not_found: "未找到钱包！", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "您输入了一个或多个非标准单词！这将导入可能存在兼容性问题的钱包。只有在确定这是您的短语时才继续。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "警告", // Warning
+    import: "导入", // Import
+    iCloud_Drive_not_enabled: "未启用 iCloud Drive", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "您想了解如何启用它吗？", // Do you want to see how to enable it?
+    backup_deleted: "备份已删除", // Backup deleted
+    error_deleting_backup: "删除备份时出错", // Error deleting backup
+    ban_user: "封禁用户", // Ban user
+    ban_user_confirmation: "您确定要封禁这个用户吗？", // Are you sure you want to ban this user?
+    ban: "封禁", // Ban
   },
 };
