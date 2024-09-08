@@ -347,5 +347,78 @@ export const ru = {
     sign_in_to_restore_backup: "Войдите, чтобы восстановить резервную копию", // Sign in to restore backup
     sign_in_with_google: "Войти через Google", // Sign in with Google
     sign_in_to_backup: "Войдите, чтобы создать резервную копию", // Sign in to backup
+    delete_meme: "Удалить мем?", // Delete meme?
+    delete_meme_confirmation: "Это удалит мем из вашего профиля и Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "Мем сохранен в галерею!", // Meme saved to gallery!
+    error_saving_meme: "Ошибка при сохранении мема.", // Error saving meme.
+    report_or_block: "Пожаловаться или заблокировать?", // Report or Block?
+    report_block_description: "MyDoge проверит все мемы, на которые поступили жалобы, на предмет нарушения наших правил. Вы также можете заблокировать профиль, чтобы не видеть его посты.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "Пожаловаться или заблокировать?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "Вы уверены, что хотите отменить эти чаевые?", // Are you sure you want to cancel this tip?
+    yes_cancel: "Да, отменить", // Yes, cancel
+    allow_photos_access: "Разрешить доступ к фото?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "Включите доступ к фото, чтобы публиковать мемы.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "Нельзя загрузить видео длиннее 60 секунд", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "Войдите, чтобы публиковать мемы", // Sign in to post memes
+    hidden_profiles_cannot_post: "Скрытые профили не могут публиковать", // Hidden profiles cannot post
+    error_posting_meme: "Ошибка при публикации мема", // Error posting meme
+    unsupported_file: "Неподдерживаемый файл", // Unsupported file
+    unsupported_media_type: "Неподдерживаемый тип медиа", // Unsupported media type
+    no_security_enabled: "Безопасность не включена", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "Для использования вашего кошелька требуется пароль/Touch ID/Face ID. Хотите узнать, как это включить?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "Да, покажите мне как", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "Мем больше не будет опубликован", // The meme will no longer be posted
+    retry_post: "Повторить публикацию?", // Retry post?
+    retry_post_confirmation: "Мем будет опубликован снова", // The meme will be posted again
+    pins_dont_match_please_retry: "PIN-коды не совпадают. Пожалуйста, попробуйте снова", // Pins don't match. Please retry
+    invalid_phrase: "Недействительная фраза", // Invalid phrase
+    WARNING: "ПРЕДУПРЕЖДЕНИЕ", // WARNING
+    username_must_be_at_least_4_characters: "Имя пользователя должно содержать не менее 4 символов", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "Имя пользователя должно содержать только A-Z, 0-9 и _", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "Имя пользователя недоступно", // Username not available
+    username_available: "Имя пользователя доступно", // Username available
+    error_try_again_or_contact_support: "Ошибка. Попробуйте снова или обратитесь в службу поддержки.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "Включите доступ к фото, чтобы изменить ваш аватар.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "Недействительное слово сид-фразы", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "не является словом сид-фразы MyDoge", // is not a MyDoge seed phrase word
+    wallet_not_found: "Кошелек не найден!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Вы ввели одно или несколько нестандартных слов! Это импортирует кошелек, который может иметь проблемы совместимости. Продолжайте только если вы уверены, что это ваша фраза.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "Предупреждение", // Warning
+    import: "Импорт", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive не включен", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "Хотите узнать, как его включить?", // Do you want to see how to enable it?
+    backup_deleted: "Резервная копия удалена", // Backup deleted
+    error_deleting_backup: "Ошибка при удалении резервной копии", // Error deleting backup
+    ban_user: "Заблокировать пользователя", // Ban user
+    ban_user_confirmation: "Вы уверены, что хотите заблокировать этого пользователя?", // Are you sure you want to ban this user?
+    ban: "Заблокировать", // Ban
+    x_account_linked_to_another_user: "𝕏 аккаунт связан с другим пользователем. Чтобы отвязать, войдите в систему, используя другой номер телефона, и вернитесь на этот экран", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "Неожиданная ошибка, обратитесь в службу поддержки", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "Недействительный адрес Dogecoin", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Баланс слишком низкий. Пополните счет DOGE.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "Ошибка при подготовке транзакции", // Error preparing transaction
+    error_sending_transaction: "Ошибка при отправке транзакции", // Error sending transaction
+    max_transaction_size_allowed_for: "Максимальный разрешенный размер транзакции для", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR-код сохранен в галерею", // QR code saved to gallery
+    error_saving_qr_code: "Ошибка при сохранении QR-кода", // Error saving QR code
+    cannot_send_to_your_own_address: "Нельзя отправить на свой собственный адрес", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "Неподдерживаемый формат или не адрес DOGE", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "QR-код не найден в файле", // QR not found in file
+    unknown_file_error: "Неизвестная ошибка файла", // Unknown file error
+    invalid_address: "Недействительный адрес", // Invalid address
+    error_preparing_transaction_try_again: "Ошибка при подготовке транзакции. Пожалуйста, попробуйте снова.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "Ошибка при обработке транзакции. Пожалуйста, попробуйте снова.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "Минимальная сумма чаевых", // Minimum tip amount is
+    backup_failed: "Резервное копирование не удалось", // Backup failed
+    backup_successful: "Резервное копирование успешно выполнено", // Backup successful
+    copied_to_clipboard: "Скопировано в буфер обмена", // Copied to clipboard
+    seed_phrase_correct: "Сид-фраза верна", // Seed phrase correct
+    incorrect_phrase: "Неверная фраза", // Incorrect phrase
+    incorrect_pin: "Неверный PIN-код", // Incorrect PIN
+    pin_updated: "PIN-код обновлен", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Кошелек разблокирован. Вы можете ввести новый PIN-код", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "Метка не может быть пустой", // Label cannot be empty
+    address_saved: "Адрес сохранен", // Address saved
+    label_already_exists: "Метка уже существует", // Label already exists
   },
 };

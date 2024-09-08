@@ -350,5 +350,68 @@ export const ja = {
       "バックアップを復元するにはログインしてください", // Sign in to restore backup
     sign_in_with_google: "Google でログイン", // Sign in with Google
     sign_in_to_backup: "バックアップするにはログインしてください", // Sign in to backup
+    delete_meme: "ミームを削除しますか?", // Delete meme?
+    delete_meme_confirmation: "これによりミームがあなたのプロフィールとDogeverseから削除されます。", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "ミームをギャラリーに保存しました！", // Meme saved to gallery!
+    error_saving_meme: "ミームの保存中にエラーが発生しました。", // Error saving meme.
+    report_or_block: "報告またはブロックしますか?", // Report or Block?
+    report_block_description: "MyDogeは報告されたすべてのミームを、ガイドラインに反するアクティビティがないか確認します。プロフィールをブロックして、投稿が表示されないようにすることもできます。", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "報告またはブロックしますか?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "このチップをキャンセルしてもよろしいですか?", // Are you sure you want to cancel this tip?
+    yes_cancel: "はい、キャンセルします", // Yes, cancel
+    allow_photos_access: "写真へのアクセスを許可しますか?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "ミームを投稿するには写真へのアクセスを有効にしてください。", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "60秒を超える動画はアップロードできません", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "ミームを投稿するにはサインインしてください", // Sign in to post memes
+    hidden_profiles_cannot_post: "非表示のプロフィールは投稿できません", // Hidden profiles cannot post
+    error_posting_meme: "ミームの投稿中にエラーが発生しました", // Error posting meme
+    unsupported_file: "サポートされていないファイル", // Unsupported file
+    unsupported_media_type: "サポートされていないメディアタイプ", // Unsupported media type
+    no_security_enabled: "セキュリティが有効になっていません", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "ウォレットを使用するにはパスコード/Touch ID/Face IDが必要です。有効にする方法を確認しますか?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "はい、方法を教えてください", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "ミームは投稿されなくなります", // The meme will no longer be posted
+    retry_post: "投稿を再試行しますか?", // Retry post?
+    retry_post_confirmation: "ミームが再度投稿されます", // The meme will be posted again
+    pins_dont_match_please_retry: "PINが一致しません。もう一度お試しください", // Pins don't match. Please retry
+    invalid_phrase: "無効なフレーズ", // Invalid phrase
+    WARNING: "警告", // WARNING
+    username_must_be_at_least_4_characters: "ユーザー名は4文字以上である必要があります", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "ユーザー名には A-Z、0-9、_ のみを使用できます", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "ユーザー名は利用できません", // Username not available
+    username_available: "ユーザー名は利用可能です", // Username available
+    error_try_again_or_contact_support: "エラーが発生しました。もう一度お試しいただくか、サポートにお問い合わせください。", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "アバターを変更するには写真へのアクセスを有効にしてください。", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "無効なシードフレーズの単語", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "はMyDogeのシードフレーズの単語ではありません", // is not a MyDoge seed phrase word
+    wallet_not_found: "ウォレットが見つかりません！", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "1つ以上の非標準の単語を入力しました！これにより、互換性の問題がある可能性のあるウォレットがインポートされます。これがあなたのフレーズであることを確信している場合のみ続行してください。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "警告", // Warning
+    import: "インポート", // Import
+    iCloud_Drive_not_enabled: "iCloudドライブが有効になっていません", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "有効にする方法を確認しますか?", // Do you want to see how to enable it?
+    backup_deleted: "バックアップが削除されました", // Backup deleted
+    error_deleting_backup: "バックアップの削除中にエラーが発生しました", // Error deleting backup
+    ban_user: "ユーザーを禁止する", // Ban user
+    ban_user_confirmation: "このユーザーを禁止してもよろしいですか?", // Are you sure you want to ban this user?
+    ban: "禁止する", // Ban
+    x_account_linked_to_another_user: "𝕏アカウントは他のユーザーにリンクされています。リンクを解除するには、他の電話番号を使用してログインし、この画面に戻ってください", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "予期しないエラー、サポートにお問い合わせください", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "無効なDogecoinアドレス", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "残高が低すぎます。もっとDogeを預けてください。", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "取引の準備中にエラーが発生しました", // Error preparing transaction
+    error_processing_transaction_please_try_again: "取引の処理中にエラーが発生しました。もう一度お試しください。", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "最小のチップ額は", // Minimum tip amount is
+    backup_failed: "バックアップに失敗しました", // Backup failed
+    backup_successful: "バックアップに成功しました", // Backup successful
+    copied_to_clipboard: "クリップボードにコピーしました", // Copied to clipboard
+    seed_phrase_correct: "シードフレーズが正しい", // Seed phrase correct
+    incorrect_phrase: "無効なフレーズ", // Invalid phrase
+    incorrect_pin: "無効なPIN", // Invalid PIN
+    pin_updated: "PINが更新されました", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "ウォレットがロック解除されました。新しいPINを入力してください", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "ラベルを入力してください", // Label cannot be empty
+    address_saved: "アドレスが保存されました", // Address saved
+    label_already_exists: "ラベルは既に存在します", // Label already exists
   },
 };

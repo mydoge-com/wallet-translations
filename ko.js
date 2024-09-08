@@ -349,6 +349,79 @@ export const ko = {
     sign_in_to_restore_backup:
       "백업을 복원하려면 로그인하세요", // Sign in to restore backup
     sign_in_with_google: "Google로 로그인", // Sign in with Google
-    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup
+    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup,
+    delete_meme: "밈을 삭제하시겠습니까?", // Delete meme?
+    delete_meme_confirmation: "이렇게 하면 프로필과 Dogeverse에서 밈이 제거됩니다.", // This will remove the meme from your profile and the Dogeverse.
+    meme_saved_to_gallery: "밈이 갤러리에 저장되었습니다!", // Meme saved to gallery!
+    error_saving_meme: "밈 저장 중 오류가 발생했습니다.", // Error saving meme.
+    report_or_block: "신고 또는 차단하시겠습니까?", // Report or Block?
+    report_block_description: "MyDoge는 당사 지침에 반하는 모든 활동에 대해 보고된 모든 밈을 검토합니다. 프로필을 차단하여 해당 게시물을 더 이상 볼 수도 없습니다.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_or_block_user: "신고 또는 차단하시겠습니까?", // Report or Block?
+    are_you_sure_you_want_to_cancel_this_tip: "이 팁을 취소하시겠습니까?", // Are you sure you want to cancel this tip?
+    yes_cancel: "네, 취소합니다", // Yes, cancel
+    allow_photos_access: "사진 접근을 허용하시겠습니까?", // Allow Photos Access?
+    enable_photo_access_in_order_to_post_memes: "밈을 게시하려면 사진 접근을 활성화하세요.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds: "60초보다 긴 동영상은 업로드할 수 없습니다", // Cannot upload a video longer than 60 seconds
+    sign_in_to_post_memes: "밈을 게시하려면 로그인하세요", // Sign in to post memes
+    hidden_profiles_cannot_post: "숨겨진 프로필은 게시할 수 없습니다", // Hidden profiles cannot post
+    error_posting_meme: "밈 게시 중 오류가 발생했습니다", // Error posting meme
+    unsupported_file: "지원되지 않는 파일", // Unsupported file
+    unsupported_media_type: "지원되지 않는 미디어 유형", // Unsupported media type
+    no_security_enabled: "보안이 활성화되지 않음", // No Security Enabled
+    passcode_touch_id_face_id_required_to_use_your_wallet: "지갑을 사용하려면 암호/Touch ID/Face ID가 필요합니다. 활성화 방법을 보시겠습니까?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    yes_show_me_how: "네, 방법을 보여주세요", // Yes, show me how
+    the_meme_will_no_longer_be_posted: "밈이 더 이상 게시되지 않습니다", // The meme will no longer be posted
+    retry_post: "게시를 다시 시도하시겠습니까?", // Retry post?
+    retry_post_confirmation: "밈이 다시 게시됩니다", // The meme will be posted again
+    pins_dont_match_please_retry: "PIN이 일치하지 않습니다. 다시 시도해 주세요", // Pins don't match. Please retry
+    invalid_phrase: "유효하지 않은 구문", // Invalid phrase
+    WARNING: "경고", // WARNING
+    username_must_be_at_least_4_characters: "사용자 이름은 최소 4자 이상이어야 합니다", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore: "사용자 이름은 A-Z, 0-9 및 _만 포함해야 합니다", // Usernames must contain only A-Z, 0-9, and _
+    username_not_available: "사용할 수 없는 사용자 이름입니다", // Username not available
+    username_available: "사용 가능한 사용자 이름입니다", // Username available
+    error_try_again_or_contact_support: "오류가 발생했습니다. 다시 시도하거나 지원팀에 문의하세요.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar: "아바타를 변경하려면 사진 접근을 활성화하세요.", // Enable photo access in order to change your avatar.
+    invalid_seed_phrase_word: "유효하지 않은 시드 구문 단어", // Invalid seed phrase word
+    is_not_a_mydoge_seed_phrase_word: "는 MyDoge 시드 구문 단어가 아닙니다", // is not a MyDoge seed phrase word
+    wallet_not_found: "지갑을 찾을 수 없습니다!", // Wallet Not Found!
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "하나 이상의 비표준 단어를 입력했습니다! 이는 호환성 문제가 있을 수 있는 지갑을 가져옵니다. 이것이 귀하의 구문이라고 확신하는 경우에만 진행하세요.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    warning: "경고", // Warning
+    import: "가져오기", // Import
+    iCloud_Drive_not_enabled: "iCloud Drive가 활성화되지 않았습니다", // iCloud Drive not enabled
+    do_you_want_to_see_how_to_enable_it: "활성화 방법을 보시겠습니까?", // Do you want to see how to enable it?
+    backup_deleted: "백업이 삭제되었습니다", // Backup deleted
+    error_deleting_backup: "백업 삭제 중 오류가 발생했습니다", // Error deleting backup
+    ban_user: "사용자 차단", // Ban user
+    ban_user_confirmation: "이 사용자를 차단하시겠습니까?", // Are you sure you want to ban this user?
+    ban: "차단", // Ban
+    x_account_linked_to_another_user: "𝕏 계정이 다른 사용자에게 연결되어 있습니다. 링크를 해제하려면 다른 전화 번호를 사용하여 로그인하고 이 화면으로 돌아와 주세요", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support: "예상치 못한 오류가 발생했습니다. 지원팀에 문의하세요", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "유효한 도지코인 주소가 아닙니다", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "잔액이 부족합니다. 더 많은 DOGE를 입금하세요.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "거래 준비 중 오류가 발생했습니다", // Error preparing transaction
+    error_sending_transaction: "거래 전송 중 오류가 발생했습니다", // Error sending transaction
+    max_transaction_size_allowed_for: "허용된 최대 거래 크기", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR 코드가 갤러리에 저장되었습니다", // QR code saved to gallery
+    error_saving_qr_code: "QR 코드 저장 중 오류가 발생했습니다", // Error saving QR code
+    cannot_send_to_your_own_address: "자신의 주소로 보낼 수 없습니다", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "지원되지 않는 형식이거나 DOGE 주소가 아닙니다", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "파일에서 QR을 찾을 수 없습니다", // QR not found in file
+    unknown_file_error: "알 수 없는 파일 오류", // Unknown file error
+    invalid_address: "유효하지 않은 주소", // Invalid address
+    error_preparing_transaction_try_again: "거래 준비 중 오류가 발생했습니다. 다시 시도해 주세요.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "거래 처리 중 오류가 발생했습니다. 다시 시도해 주세요.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "최소 팁 금액은", // Minimum tip amount is
+    backup_failed: "백업 실패", // Backup failed
+    backup_successful: "백업 성공", // Backup successful
+    copied_to_clipboard: "클립보드에 복사되었습니다", // Copied to clipboard
+    seed_phrase_correct: "시드 구문이 올바릅니다", // Seed phrase correct
+    incorrect_phrase: "잘못된 구문", // Incorrect phrase
+    incorrect_pin: "잘못된 PIN", // Incorrect PIN
+    pin_updated: "PIN이 업데이트되었습니다", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "지갑이 잠금 해제되었습니다. 새 PIN을 입력할 수 있습니다", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "라벨은 비워둘 수 없습니다", // Label cannot be empty
+    address_saved: "주소가 저장되었습니다", // Address saved
+    label_already_exists: "라벨이 이미 존재합니다", // Label already exists
   },
 };
