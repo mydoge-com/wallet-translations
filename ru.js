@@ -1,7 +1,7 @@
 // Russian translation
 export const ru = {
   translation: {
-    en: "Английский", // English
+    en: "English", // English
     zh: "简体中文", // 简体中文
     ja: "日本語", // 日本語
     ko: "한국어", // 한국어
