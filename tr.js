@@ -1,7 +1,7 @@
 // Turkish translation
 export const tr = {
   translation: {
-    en: "İngilizce", // English
+    en: "English", // English
     zh: "简体中文", // 简体中文
     ja: "日本語", // 日本語
     ko: "한국어", // 한국어
@@ -10,8 +10,8 @@ export const tr = {
     pt: "Português", // Português
     de: "Deutsch", // Deutsch
     vn: "Tiếng Việt", // Tiếng Việt
-    tr: "Türkçe", // Türkçe
     ru: "Русский", // Русский
+    tr: "Türkçe", // Türkçe
     preference: "Tercih", // Preference
     disable_button_vibration: "Düğme titreşimini devre dışı bırak", // Disable button vibration
     back: "Geri", // Back
