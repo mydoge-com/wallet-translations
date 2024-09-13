@@ -421,5 +421,10 @@ export const zh = {
     label_cannot_be_empty: "标签不能为空", // Label cannot be empty
     address_saved: "地址已保存", // Address saved
     label_already_exists: "标签已存在", // Label already exists
+    too_many_requests_please_try_again_later: "请求次数过多。请稍后再试。", // Too many requests. Please try again later.
+    invalid_code: "无效的代码。", // Invalid code.
+    unsupported_country: "不支持的国家", // Unsupported country
+    invalid_phone_number: "无效的电话号码。\n使用格式 \"+<国家代码><电话号码>\"\n不能使用 VOIP 或固定电话号码。", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "无效的电话号码。请使用格式 \"+<国家代码><电话号码>\" 并确保它不是 VOIP 或固定电话号码。", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

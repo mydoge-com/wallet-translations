@@ -441,5 +441,10 @@ export const tr = {
     label_cannot_be_empty: "Etiket boş olamaz", // Label cannot be empty
     address_saved: "Adres kaydedildi", // Address saved
     label_already_exists: "Etiket zaten mevcut", // Label already exists
+    too_many_requests_please_try_again_later: "Çok fazla istek. Lütfen daha sonra tekrar deneyin.", // Too many requests. Please try again later.
+    invalid_code: "Geçersiz kod.", // Invalid code.
+    unsupported_country: "Desteklenmeyen ülke", // Unsupported country
+    invalid_phone_number: "Geçersiz telefon numarası.\n\"+<ülke kodu><telefon numarası>\" formatını kullanın.\nVOIP veya sabit telefon numaraları kullanılamaz.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Geçersiz telefon numarası. Lütfen \"+<ülke kodu><telefon numarası>\" formatını kullanın ve VOIP veya sabit telefon numaraları olmadığından emin olun.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

@@ -413,5 +413,10 @@ export const ja = {
     label_cannot_be_empty: "ラベルを入力してください", // Label cannot be empty
     address_saved: "アドレスが保存されました", // Address saved
     label_already_exists: "ラベルは既に存在します", // Label already exists
+    too_many_requests_please_try_again_later: "リクエストが多すぎます。後でもう一度お試しください。", // Too many requests. Please try again later.
+    invalid_code: "無効なコード。", // Invalid code.
+    unsupported_country: "サポートされていない国", // Unsupported country
+    invalid_phone_number: "無効な電話番号。\n「+<国コード><電話番号>」の形式を使用してください。\nVOIPまたは固定電話番号は使用できません。", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "無効な電話番号。\n「+<国コード><電話番号>」の形式を使用してください。\nVOIPまたは固定電話番号は使用できません。", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

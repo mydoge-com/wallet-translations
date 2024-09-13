@@ -396,32 +396,37 @@ export const de = {
     ban_user_confirmation: "Bist du sicher, dass du diesen Benutzer sperren möchtest?", // Are you sure you want to ban this user?
     ban: "Sperren", // Ban
     x_account_linked_to_another_user: "𝕏-Konto mit einem anderen Benutzer verknüpft. Um es zu trennen, melde dich mit dem anderen Telefonnummer und gehe zurück zu diesem Bildschirm", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
-    unexpected_error_contact_support: "Unerwarteter Fehler, kontaktieren Sie den Support",
-    not_a_valid_dogecoin_address: "Keine gültige Dogecoin-Adresse",
-    balance_too_low_deposit_more_doge: "Guthaben zu niedrig. Zahlen Sie mehr DOGE ein.",
-    error_preparing_transaction: "Fehler beim Vorbereiten der Transaktion",
-    error_sending_transaction: "Fehler beim Senden der Transaktion",
-    max_transaction_size_allowed_for: "Maximale erlaubte Transaktionsgröße für",
-    qr_code_saved_to_gallery: "QR-Code in der Galerie gespeichert",
-    error_saving_qr_code: "Fehler beim Speichern des QR-Codes",
-    cannot_send_to_your_own_address: "Kann nicht an die eigene Adresse senden",
-    unsupported_format_or_not_a_doge_address: "Nicht unterstütztes Format oder keine DOGE-Adresse",
-    qr_not_found_in_file: "QR-Code nicht in der Datei gefunden",
-    unknown_file_error: "Unbekannter Dateifehler",
-    invalid_address: "Ungültige Adresse",
-    error_preparing_transaction_try_again: "Fehler beim Vorbereiten der Transaktion. Bitte versuchen Sie es erneut.",
-    error_processing_transaction_please_try_again: "Fehler bei der Verarbeitung der Transaktion. Bitte versuchen Sie es erneut.",
-    minimum_tip_amount_is: "Der Mindestbetrag für Trinkgeld ist",
-    backup_failed: "Sicherung fehlgeschlagen",
-    backup_successful: "Sicherung erfolgreich",
-    copied_to_clipboard: "In die Zwischenablage kopiert",
-    seed_phrase_correct: "Seed-Phrase korrekt",
+    unexpected_error_contact_support: "Unerwarteter Fehler, kontaktieren Sie den Support", // Unexpected error, contact support
+    not_a_valid_dogecoin_address: "Keine gültige Dogecoin-Adresse", // Not a valid Dogecoin address
+    balance_too_low_deposit_more_doge: "Guthaben zu niedrig. Zahlen Sie mehr DOGE ein.", // Balance too low. Deposit more DOGE.
+    error_preparing_transaction: "Fehler beim Vorbereiten der Transaktion", // Error preparing transaction
+    error_sending_transaction: "Fehler beim Senden der Transaktion", // Error sending transaction
+    max_transaction_size_allowed_for: "Maximale erlaubte Transaktionsgröße für", // Max transaction size allowed for
+    qr_code_saved_to_gallery: "QR-Code in der Galerie gespeichert", // QR code saved to gallery
+    error_saving_qr_code: "Fehler beim Speichern des QR-Codes", // Error saving QR code
+    cannot_send_to_your_own_address: "Kann nicht an die eigene Adresse senden", // Cannot send to your own address
+    unsupported_format_or_not_a_doge_address: "Nicht unterstütztes Format oder keine DOGE-Adresse", // Unsupported format or not a DOGE address
+    qr_not_found_in_file: "QR-Code nicht in der Datei gefunden", // QR not found in file
+    unknown_file_error: "Unbekannter Dateifehler", // Unknown file error
+    invalid_address: "Ungültige Adresse", // Invalid address
+    error_preparing_transaction_try_again: "Fehler beim Vorbereiten der Transaktion. Bitte versuchen Sie es erneut.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again: "Fehler bei der Verarbeitung der Transaktion. Bitte versuchen Sie es erneut.", // Error processing transaction. Please try again.
+    minimum_tip_amount_is: "Der Mindestbetrag für Trinkgeld ist", // Minimum tip amount is
+    backup_failed: "Sicherung fehlgeschlagen", // Backup failed
+    backup_successful: "Sicherung erfolgreich", // Backup successful
+    copied_to_clipboard: "In die Zwischenablage kopiert", // Copied to clipboard
+    seed_phrase_correct: "Seed-Phrase korrekt", // Seed-Phrase correct
     incorrect_phrase: "Falsche Phrase",
-    incorrect_pin: "Falsche PIN",
-    pin_updated: "PIN aktualisiert",
-    wallet_unlocked_you_may_enter_your_new_pin: "Wallet entsperrt. Sie können Ihre neue PIN eingeben",
-    label_cannot_be_empty: "Bezeichnung darf nicht leer sein",
-    address_saved: "Adresse gespeichert",
-    label_already_exists: "Bezeichnung existiert bereits",
+    incorrect_pin: "Falsche PIN", // Incorrect PIN
+    pin_updated: "PIN aktualisiert", // PIN updated
+    wallet_unlocked_you_may_enter_your_new_pin: "Wallet entsperrt. Sie können Ihre neue PIN eingeben", // Wallet unlocked. You may enter your new PIN
+    label_cannot_be_empty: "Bezeichnung darf nicht leer sein", // Label cannot be empty
+    address_saved: "Adresse gespeichert", // Address saved
+    label_already_exists: "Bezeichnung existiert bereits", // Label already exists
+    too_many_requests_please_try_again_later: "Zu viele Anfragen. Bitte versuchen Sie es später erneut.", // Too many requests. Please try again later.
+    invalid_code: "Ungültiger Code.", // Invalid code.
+    unsupported_country: "Nicht unterstützte Länder", // Unsupported country
+    invalid_phone_number: "Ungültige Telefonnummer.\nVerwenden Sie das Format \"+<Ländercode><Telefonnummer>\"\nKann nicht VOIP oder Festnetznummern verwenden.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Ungültige Telefonnummer. Bitte verwenden Sie das Format \"+<Ländercode><Telefonnummer>\" und stellen Sie sicher, dass es keine VOIP oder Festnetznummer ist.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

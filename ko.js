@@ -423,5 +423,10 @@ export const ko = {
     label_cannot_be_empty: "라벨은 비워둘 수 없습니다", // Label cannot be empty
     address_saved: "주소가 저장되었습니다", // Address saved
     label_already_exists: "라벨이 이미 존재합니다", // Label already exists
+    too_many_requests_please_try_again_later: "너무 많은 요청이 있습니다. 나중에 다시 시도해 주세요.", // Too many requests. Please try again later.
+    invalid_code: "잘못된 코드.", // Invalid code.
+    unsupported_country: "지원되지 않는 국가", // Unsupported country
+    invalid_phone_number: "유효하지 않은 전화 번호.\n\"+<국가 코드><전화 번호>\" 형식을 사용하세요.\nVOIP 또는 고정 전화 번호는 사용할 수 없습니다.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "유효하지 않은 전화 번호. 형식 \"+<국가 코드><전화 번호>\"을 사용하고 VOIP 또는 고정 전화 번호가 아닌지 확인하세요.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };
