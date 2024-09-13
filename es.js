@@ -480,6 +480,10 @@ export const es = {
     label_cannot_be_empty: "El label no puede estar vacío", // Label cannot be empty
     address_saved: "Dirección guardada", // Address saved
     label_already_exists: "El label ya existe", // Label already exists
-
+    too_many_requests_please_try_again_later: "Demasiadas solicitudes. Por favor, inténtalo de nuevo más tarde.", // Too many requests. Please try again later.
+    invalid_code: "Código inválido.", // Invalid code.
+    unsupported_country: "País no compatible", // Unsupported country
+    invalid_phone_number: "Número de teléfono no válido.\nUsa el formato \"+<Código del país><Número de teléfono>\"\nNo se puede usar VOIP o números de teléfono fijos.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Número de teléfono no válido. Por favor, usa el formato \"+<Código del país><Número de teléfono>\" y asegúrate de que no sea un número VOIP o de teléfono fijo.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

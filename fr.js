@@ -408,5 +408,10 @@ export const fr = {
     label_cannot_be_empty: "Le label ne peut pas être vide", // Label cannot be empty
     address_saved: "Adresse enregistrée", // Address saved
     label_already_exists: "Le label existe déjà", // Label already exists
+    too_many_requests_please_try_again_later: "Trop de demandes. Veuillez réessayer plus tard.", // Too many requests. Please try again later.
+    invalid_code: "Code invalide.", // Invalid code.
+    unsupported_country: "Pays non compatible", // Unsupported country
+    invalid_phone_number: "Numéro de téléphone non valide.\nUtilisez le format \"+<code du pays><numéro de téléphone>\"\nNe peut pas utiliser VOIP ou numéros de téléphone fixes.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Numéro de téléphone non valide. Veuillez utiliser le format \"+<code du pays><numéro de téléphone>\" et vérifier qu'il ne s'agit pas d'un numéro VOIP ou de téléphone fixe.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

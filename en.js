@@ -468,5 +468,10 @@ export const en = {
     label_cannot_be_empty: "Label cannot be empty",
     address_saved: "Address saved",
     label_already_exists: "Label already exists",
+    too_many_requests_please_try_again_later: "Too many requests. Please try again later.",
+    invalid_code: "Invalid code.",
+    unsupported_country: "Unsupported country",
+    invalid_phone_number: "Invalid phone number.\nUse format \"+<country code><phone number>\"\nCan not use VOIP or landline numbers.",
+    invalid_phone_number_error: "Invalid phone number. Please use the format \"+<country code><phone number>\" and ensure it is not a VOIP or landline number.",
   },
 };

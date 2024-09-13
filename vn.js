@@ -464,5 +464,10 @@ export const vn = {
     label_cannot_be_empty: "Nhãn không thể để trống", // Label cannot be empty
     address_saved: "Đã lưu địa chỉ", // Address saved
     label_already_exists: "Nhãn đã tồn tại", // Label already exists
+    too_many_requests_please_try_again_later: "Quá nhiều yêu cầu. Vui lòng thử lại sau.", // Too many requests. Please try again later.
+    invalid_code: "Mã không hợp lệ.", // Invalid code.
+    unsupported_country: "Quốc gia không được hỗ trợ", // Unsupported country
+    invalid_phone_number: "Số điện thoại không hợp lệ.\nSử dụng định dạng \"+<mã quốc gia><số điện thoại>\"\nKhông thể sử dụng VOIP hoặc số điện thoại cố định.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Số điện thoại không hợp lệ. Vui lòng sử dụng định dạng \"+<mã quốc gia><số điện thoại>\" và đảm bảo nó không phải là số VOIP hoặc điện thoại cố định.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

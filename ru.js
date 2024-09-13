@@ -420,5 +420,10 @@ export const ru = {
     label_cannot_be_empty: "Метка не может быть пустой", // Label cannot be empty
     address_saved: "Адрес сохранен", // Address saved
     label_already_exists: "Метка уже существует", // Label already exists
+    too_many_requests_please_try_again_later: "Слишком много запросов. Пожалуйста, попробуйте снова позже.", // Too many requests. Please try again later.
+    invalid_code: "Неверный код.", // Invalid code.
+    unsupported_country: "Неподдерживаемая страна", // Unsupported country
+    invalid_phone_number: "Недействительный номер телефона.\nИспользуйте формат \"+<код страны><номер телефона>\"\nНе может использовать VOIP или номера телефонов.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error: "Недействительный номер телефона. Пожалуйста, используйте формат \"+<код страны><номер телефона>\" и убедитесь, что он не является номером VOIP или телефона.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
   },
 };

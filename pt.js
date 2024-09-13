@@ -420,5 +420,10 @@ export const pt = {
     label_cannot_be_empty: "O rótulo não pode estar vazio",
     address_saved: "Endereço salvo",
     label_already_exists: "O rótulo já existe",
+    too_many_requests_please_try_again_later: "Muitas solicitações. Por favor, tente novamente mais tarde.",
+    invalid_code: "Código inválido.",
+    unsupported_country: "País não suportado",
+    invalid_phone_number: "Número de telefone inválido.\nUse o formato \"+<código do país><número de telefone>\"\nNão pode usar VOIP ou números de telefone fixos.",
+    invalid_phone_number_error: "Número de telefone inválido. Por favor, use o formato \"+<código do país><número de telefone>\" e certifique-se de que não é um número VOIP ou de telefone fixo.",
   },
 };
