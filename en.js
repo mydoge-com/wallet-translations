@@ -396,24 +396,30 @@ export const en = {
     sign_in_with_google: "Sign in with Google",
     sign_in_to_backup: "Sign in to backup",
     delete_meme: "Delete meme?",
-    delete_meme_confirmation: "This will remove the meme from your profile and the Dogeverse.",
+    delete_meme_confirmation:
+      "This will remove the meme from your profile and the Dogeverse.",
     meme_saved_to_gallery: "Meme saved to gallery!",
     error_saving_meme: "Error saving meme.",
     report_or_block: "Report or Block?",
-    report_block_description: "MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.",
+    report_block_description:
+      "MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.",
     report_or_block_user: "Report or Block?",
-    are_you_sure_you_want_to_cancel_this_tip: "Are you sure you want to cancel this tip?",
+    are_you_sure_you_want_to_cancel_this_tip:
+      "Are you sure you want to cancel this tip?",
     yes_cancel: "Yes, cancel",
     allow_photos_access: "Allow Photos Access?",
-    enable_photo_access_in_order_to_post_memes: "Enable photo access in order to post memes.",
-    cannot_upload_a_video_longer_than_60_seconds: "Cannot upload a video longer than 60 seconds",
+    enable_photo_access_in_order_to_post_memes:
+      "Enable photo access in order to post memes.",
+    cannot_upload_a_video_longer_than_60_seconds:
+      "Cannot upload a video longer than 60 seconds",
     sign_in_to_post_memes: "Sign in to post memes",
     hidden_profiles_cannot_post: "Hidden profiles cannot post",
     error_posting_meme: "Error posting meme",
     unsupported_file: "Unsupported file",
     unsupported_media_type: "Unsupported media type",
     no_security_enabled: "No Security Enabled",
-    passcode_touch_id_face_id_required_to_use_your_wallet: "Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?",
+    passcode_touch_id_face_id_required_to_use_your_wallet:
+      "Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?",
     yes_show_me_how: "Yes, show me how",
     the_meme_will_no_longer_be_posted: "The meme will no longer be posted",
     retry_post: "Retry post?",
@@ -421,16 +427,20 @@ export const en = {
     pins_dont_match_please_retry: "PINS don't match. Please retry",
     invalid_phrase: "Invalid phrase",
     WARNING: "WARNING",
-    username_must_be_at_least_4_characters: "Usernames must be at least 4 characters",
-    username_must_contain_only_a_z_0_9_and_underscore: "Usernames must contain only A-Z, 0-9, and _",
+    username_must_be_at_least_4_characters:
+      "Usernames must be at least 4 characters",
+    username_must_contain_only_a_z_0_9_and_underscore:
+      "Usernames must contain only A-Z, 0-9, and _",
     username_not_available: "Username not available",
     username_available: "Username available",
     error_try_again_or_contact_support: "Error. Try again or contact support.",
-    enable_photo_access_in_order_to_change_your_avatar: "Enable photo access in order to change your avatar.",
+    enable_photo_access_in_order_to_change_your_avatar:
+      "Enable photo access in order to change your avatar.",
     invalid_seed_phrase_word: "Invalid seed phrase word",
     is_not_a_mydoge_seed_phrase_word: "is not a MyDoge seed phrase word",
     wallet_not_found: "Wallet Not Found!",
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.",
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+      "You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.",
     warning: "Warning",
     import: "Import",
     iCloud_Drive_not_enabled: "iCloud Drive not enabled",
@@ -440,7 +450,8 @@ export const en = {
     ban_user: "Ban user",
     ban_user_confirmation: "Are you sure you want to ban this user?",
     ban: "Ban",
-    x_account_linked_to_another_user: "𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen",
+    x_account_linked_to_another_user:
+      "𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen",
     unexpected_error_contact_support: "Unexpected error, contact support",
     not_a_valid_dogecoin_address: "Not a valid Dogecoin address",
     balance_too_low_deposit_more_doge: "Balance too low. Deposit more DOGE.",
@@ -450,12 +461,15 @@ export const en = {
     qr_code_saved_to_gallery: "QR code saved to gallery",
     error_saving_qr_code: "Error saving QR code",
     cannot_send_to_your_own_address: "Cannot send to your own address",
-    unsupported_format_or_not_a_doge_address: "Unsupported format or not a DOGE address",
+    unsupported_format_or_not_a_doge_address:
+      "Unsupported format or not a DOGE address",
     qr_not_found_in_file: "QR not found in file",
     unknown_file_error: "Unknown file error",
     invalid_address: "Invalid address",
-    error_preparing_transaction_try_again: "Error preparing transaction. Please try again.",
-    error_processing_transaction_please_try_again: "Error processing transaction. Please try again.",
+    error_preparing_transaction_try_again:
+      "Error preparing transaction. Please try again.",
+    error_processing_transaction_please_try_again:
+      "Error processing transaction. Please try again.",
     minimum_tip_amount_is: "Minimum tip amount is",
     backup_failed: "Backup failed",
     backup_successful: "Backup successful",
@@ -464,14 +478,21 @@ export const en = {
     incorrect_phrase: "Incorrect phrase",
     incorrect_pin: "Incorrect PIN",
     pin_updated: "PIN updated",
-    wallet_unlocked_you_may_enter_your_new_pin: "Wallet unlocked. You may enter your new PIN",
+    wallet_unlocked_you_may_enter_your_new_pin:
+      "Wallet unlocked. You may enter your new PIN",
     label_cannot_be_empty: "Label cannot be empty",
     address_saved: "Address saved",
     label_already_exists: "Label already exists",
-    too_many_requests_please_try_again_later: "Too many requests. Please try again later.",
+    too_many_requests_please_try_again_later:
+      "Too many requests. Please try again later.",
     invalid_code: "Invalid code.",
     unsupported_country: "Unsupported country",
-    invalid_phone_number: "Invalid phone number.\nUse format \"+<country code><phone number>\"\nCan not use VOIP or landline numbers.",
-    invalid_phone_number_error: "Invalid phone number. Please use the format \"+<country code><phone number>\" and ensure it is not a VOIP or landline number.",
+    invalid_phone_number:
+      "Invalid phone number.\nUse format \"+<country code><phone number>\"\nCan not use VOIP or landline numbers.",
+    invalid_phone_number_error:
+      "Invalid phone number. Please use the format \"+<country code><phone number>\" and ensure it is not a VOIP or landline number.",
+    amount_mismatch: "Amount mismatch. Please try again.",
+    amount_mismatch_warning:
+      "Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.",
   },
 };

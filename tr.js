@@ -32,7 +32,8 @@ export const tr = {
     i_cloud: "iCloud", // iCloud
     cloud: "bulut", // cloud
     youve_backed_up_to: "Yedeklediğiniz yer:", // You've backed up to
-    you_havent_created_a_cloud_backup: "Henüz bir Bulut Yedeklemesi oluşturmadınız", // You haven't created a Cloud Backup
+    you_havent_created_a_cloud_backup:
+      "Henüz bir Bulut Yedeklemesi oluşturmadınız", // You haven't created a Cloud Backup
     manage: "Yönet", // Manage
     backup: "Yedekle", // Backup
     view_seed_phrase: "Tohum Kelimelerini Görüntüle", // View Seed Phrase
@@ -73,7 +74,8 @@ export const tr = {
     social_connect: "Sosyal Bağlantı", // Social Connect
     profile_privacy: "Profil Gizliliği", // Profile Privacy
     profile_is_public: "Profil Herkese Açık", // Profile is Public
-    show_wallet_address_and_tip_button: "Cüzdan adresini ve Bahşiş düğmesini göster", // Show wallet address and Tip button
+    show_wallet_address_and_tip_button:
+      "Cüzdan adresini ve Bahşiş düğmesini göster", // Show wallet address and Tip button
     preferences: "Tercihler", // Preferences
     confirm_x_tips: "𝕏 Bahşişlerini Onayla", // Confirm 𝕏 Tips
     tips_received: "Alınan Bahşişler", // Tips Received
@@ -188,13 +190,15 @@ export const tr = {
     read_mydogetip_faq: "MyDogeTip SSS'yi oku", // Read the MyDogeTip FAQ
     connect_with_x: "𝕏 ile bağlan", // Connect with 𝕏
     start_receive_tips_twitch: "Twitch'te bahşiş almaya başla", // Start receiving tips on Twitch
-    visit_mydogetv_twitch: "Daha fazla bilgi için Twitch'te MyDogeTV'yi ziyaret edin", // Visit MyDogeTV on Twitch for more info
+    visit_mydogetv_twitch:
+      "Daha fazla bilgi için Twitch'te MyDogeTV'yi ziyaret edin", // Visit MyDogeTV on Twitch for more info
     connect_with_twitch: "Twitch ile bağlan", // Connect with Twitch
     screen_not_exist: "Bu ekran mevcut değil.", // This screen doesn't exist.
     go_to_home_screen: "Ana Ekrana Git", // Go to Home Screen
     gift_cards: "Hediye Kartları", // Gift Cards
     backup_wallet: "Yeni cüzdanınızı yedekleyin", // Back up your new wallet
-    backup_required: "Fonlarınızı güvence altına almak için yedekleme gereklidir", // A backup is required to secure your funds
+    backup_required:
+      "Fonlarınızı güvence altına almak için yedekleme gereklidir", // A backup is required to secure your funds
     why_backups_important: "Yedeklemeler neden önemlidir?", // Why are backups important?
     learn_about_backups: "Yedeklemeler hakkında bilgi almak için dokunun", // Tap to learn about backups
     backup_to: "Yedekleme yeri:", // Backup to
@@ -206,21 +210,28 @@ export const tr = {
     why_backups_important_description:
       "Kendi gözetiminiz, MyDoge ekibi de dahil olmak üzere başka kimsenin fonlarınıza erişemeyeceği anlamına gelir. Yedekleme, cihazınız hasar görürse, kaybolursa veya çalınırsa ya da silinirse cüzdanınızı geri yüklemenin tek yoludur.", // Self-custody means that nobody else can access your funds, not even the MyDoge team. A backup is the only way to restore your wallet if your device is damaged, lost or stolen, or erased.
     choose_password: "Bir şifre seçin", // Choose a password
-    use_memorable_password: "Lütfen hatırlayabileceğiniz bir şifre kullanın. Daha uzun şifreler daha güvenlidir.", // Please use a password you can remember. Longer passwords are more secure.
-    more_secure_password: "Lütfen hatırlayabileceğiniz bir şifre kullanın. Daha uzun şifreler daha güvenlidir.", // Please use a password you can remember. Longer passwords are more secure.
-    lose_password_lose_backup: "Bu şifreyi kaybederseniz, cüzdan yedeklemenizi kaybedersiniz.", // If you lose this password you will lose your wallet backup.
+    use_memorable_password:
+      "Lütfen hatırlayabileceğiniz bir şifre kullanın. Daha uzun şifreler daha güvenlidir.", // Please use a password you can remember. Longer passwords are more secure.
+    more_secure_password:
+      "Lütfen hatırlayabileceğiniz bir şifre kullanın. Daha uzun şifreler daha güvenlidir.", // Please use a password you can remember. Longer passwords are more secure.
+    lose_password_lose_backup:
+      "Bu şifreyi kaybederseniz, cüzdan yedeklemenizi kaybedersiniz.", // If you lose this password you will lose your wallet backup.
     password: "Şifre", // Password
     confirm_password: "Şifreyi Onayla", // Confirm Password
     confirm_backup: "Yedeklemeyi Onayla", // Confirm Backup
     overwrite_backup_title: "Mevcut yedeklemenin üzerine yazılsın mı?", // Overwrite existing backup?
-    existing_wallet_overwrite_prompt: "Bulutta daha önce kaydedilmiş bir cüzdanınız var. Üzerine yazmak istiyor musunuz?", // You have an existing wallet previously backed up to the cloud. Do you want to overwrite it?
+    existing_wallet_overwrite_prompt:
+      "Bulutta daha önce kaydedilmiş bir cüzdanınız var. Üzerine yazmak istiyor musunuz?", // You have an existing wallet previously backed up to the cloud. Do you want to overwrite it?
     overwrite_backup: "Yedeklemenin Üzerine Yaz", // Overwrite backup
     import_existing_wallet: "Mevcut Cüzdanı İçe Aktar", // Import existing wallet
     unknown_cloud_error: "Bilinmeyen Bulut Hatası", // Unknown Cloud Error
-    unknown_cloud_error_body: "Buluta yedekleme sırasında bilinmeyen bir hata oluştu.", // There was an unknown error while backing up to the cloud.
-    try_again_or_notify_support: "Lütfen tekrar deneyin veya MyDoge desteğine bildirin.", // Please try again or notify MyDoge support.
+    unknown_cloud_error_body:
+      "Buluta yedekleme sırasında bilinmeyen bir hata oluştu.", // There was an unknown error while backing up to the cloud.
+    try_again_or_notify_support:
+      "Lütfen tekrar deneyin veya MyDoge desteğine bildirin.", // Please try again or notify MyDoge support.
     enter_recovery_password: "Kurtarma şifresini girin", // Enter Recovery Password
-    enter_cloud_password_description: "Tohum Kelimelerinizi bulutta saklamak için kullandığınız şifreyi girin", // Enter the password you used to store your seed phrase on the cloud
+    enter_cloud_password_description:
+      "Tohum Kelimelerinizi bulutta saklamak için kullandığınız şifreyi girin", // Enter the password you used to store your seed phrase on the cloud
     import_wallet: "Cüzdanı İçe Aktar", // Import wallet
     imported_wallet_title: "Cüzdanınızı içe aktardınız", // You've imported your wallet
     imported_wallet_success: "Cüzdanınızı başarıyla içe aktardınız!", // You've successfully imported your wallet!
@@ -238,11 +249,15 @@ export const tr = {
     dogeverse_entry_title: "Verse'e girdiniz", // You've entered the verse
     dogeverse_entry_body: "Artık Dogeverse'i keşfetmeye hazırsınız!", // You're now ready to explore the Dogeverse!
     manual_backup_title: "Tohum Kelimelerini Yaz", // Write down Seed Phrase
-    save_words_order: "Bu kelimeleri sırasıyla kaydedin. Onları yazın ve güvenli bir yerde saklayın veya bir şifre yöneticisine kopyalayın.", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
-    seed_phrase_key: "Tohum Kelimeleriniz cüzdanınızın anahtarıdır. Bu kelimeler ile herkes fonlarınıza erişebilir. Daha fazla bilgi için dokunun", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
+    save_words_order:
+      "Bu kelimeleri sırasıyla kaydedin. Onları yazın ve güvenli bir yerde saklayın veya bir şifre yöneticisine kopyalayın.", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
+    seed_phrase_key:
+      "Tohum Kelimeleriniz cüzdanınızın anahtarıdır. Bu kelimeler ile herkes fonlarınıza erişebilir. Daha fazla bilgi için dokunun", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
     written_down: "Bunu yazdım", // I've written it down
-    screenshot_alert: "Tohum kelimelerinizin ekran görüntüleri veya diğer dijital kopyaları üçüncü taraflara sızabilir.", // Screenshots or other digital copies of your Seed Phrase could leak to a third party.
-    seed_phrase_access: "Tohum Kelimelerinize sahip olan herkes fonlarınıza erişebilir. Tohum Kelimelerinizi kimseyle paylaşmayın. MyDoge, Tohum Kelimelerinizi sizin için kaydetmez. Cihazınız hasar görürse, kaybolursa veya çalınırsa ya da başka bir şekilde erişilemez hale gelirse, Tohum Kelimeleriniz cüzdanınızı kurtarmanın tek yoludur.", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
+    screenshot_alert:
+      "Tohum kelimelerinizin ekran görüntüleri veya diğer dijital kopyaları üçüncü taraflara sızabilir.", // Screenshots or other digital copies of your Seed Phrase could leak to a third party.
+    seed_phrase_access:
+      "Tohum Kelimelerinize sahip olan herkes fonlarınıza erişebilir. Tohum Kelimelerinizi kimseyle paylaşmayın. MyDoge, Tohum Kelimelerinizi sizin için kaydetmez. Cihazınız hasar görürse, kaybolursa veya çalınırsa ya da başka bir şekilde erişilemez hale gelirse, Tohum Kelimeleriniz cüzdanınızı kurtarmanın tek yoludur.", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
     icloud_backup: "iCloud Yedeklemesi", // iCloud Backup
     cloud_backup: "Bulut Yedeklemesi", // Cloud Backup
     dont_lose_wallet: "Cüzdanınızı kaybetmeyin!", // Don't lose your wallet!
@@ -251,29 +266,37 @@ export const tr = {
     google_drive: "Google Drive", // Google Drive
     do_this_later: "Bunu daha sonra yapacağım", // I'll do this later
     confirm_seed_phrase: "Tohum Kelimelerini Onayla", // Confirm seed phrase
-    select_correct_word: "Lütfen aşağıdaki listeden her pozisyon için doğru kelimeyi seçin.", // Please select the correct word in each position from the list below.
+    select_correct_word:
+      "Lütfen aşağıdaki listeden her pozisyon için doğru kelimeyi seçin.", // Please select the correct word in each position from the list below.
     enter_seed_phrase: "Tohum Kelimelerini Girin", // Enter Seed Phrase
-    enter_seed_phrase_instructions: "Mevcut bir cüzdanı geri yüklemek için 12 kelimelik Tohum Kelimelerinizi girin", // Enter your 12 word Seed Phrase to restore your existing wallet
+    enter_seed_phrase_instructions:
+      "Mevcut bir cüzdanı geri yüklemek için 12 kelimelik Tohum Kelimelerinizi girin", // Enter your 12 word Seed Phrase to restore your existing wallet
     paste: "Yapıştır", // Paste
     restore_wallet: "Cüzdanı Geri Yükle", // Restore Wallet
     wallet_imported: "Cüzdan içe aktarıldı!", // Wallet imported!
     wallet_imported_body: "Cüzdanınız kullanıma hazır.", // Your wallet is ready to use.
     restore_existing_wallet: "Mevcut cüzdanınızı geri yükleyin", // Restore your existing wallet
-    restore_existing_wallet_instructions: "Zaten bir cüzdanınız var mı? Hadi onu geri getirelim!", // So you've got a wallet already? Let's bring it back up then!
+    restore_existing_wallet_instructions:
+      "Zaten bir cüzdanınız var mı? Hadi onu geri getirelim!", // So you've got a wallet already? Let's bring it back up then!
     restore_from: "Şuradan geri yükle:", // Restore from
     restore_from_cloud_description: "Cüzdanınızı şuradan geri yükleyin:", // Restore your wallet from your
     restore_with_seed_phrase: "Tohum Kelimeleri ile geri yükle", // Restore with a seed phrase
-    restore_with_seed_phrase_description: "Mevcut bir MyDoge cüzdanını geri yüklemek için Tohum Kelimelerinizi kullanın", // Use your seed phrase to Restore an existing MyDoge wallet
+    restore_with_seed_phrase_description:
+      "Mevcut bir MyDoge cüzdanını geri yüklemek için Tohum Kelimelerinizi kullanın", // Use your seed phrase to Restore an existing MyDoge wallet
     no_cloud_backup: "Bulut Yedeklemesi Yok", // No Cloud Backup
-    no_cloud_backup_body: "Bulut yedeklemesi bulunamadı. Lütfen bir Tohum Kelimesi ile geri yükleyin veya yeni bir cüzdan oluşturun", // Cloud backup not found. Please restore from a seed phrase, or create a new wallet
+    no_cloud_backup_body:
+      "Bulut yedeklemesi bulunamadı. Lütfen bir Tohum Kelimesi ile geri yükleyin veya yeni bir cüzdan oluşturun", // Cloud backup not found. Please restore from a seed phrase, or create a new wallet
     create_wallet: "Bir cüzdan oluştur", // Create a wallet
     already_have_wallet: "Zaten bir cüzdanım var", // I already have a wallet
     buy_send_receive_dogecoin: "Dogecoin Satın Al, Gönder ve Al", // Buy, Send & Receive Dogecoin
-    send_doge_tips: "𝕏'te Doge bahşişleri gönderin, Doge'larınızı güvenle saklayın ve kendi bankanız olun", // Send Doge tips on 𝕏, store your Doge safely, and be your own bank
+    send_doge_tips:
+      "𝕏'te Doge bahşişleri gönderin, Doge'larınızı güvenle saklayın ve kendi bankanız olun", // Send Doge tips on 𝕏, store your Doge safely, and be your own bank
     shop_gift_cards_apparel: "Hediye Kartları ve Giyim Alışverişi Yapın", // Shop Gift Cards and Apparel
-    buy_gift_cards: "Dogecoin ile hediye kartları satın alın veya en son Doge Modasını keşfedin", // Buy gift cards with Dogecoin, or shop the latest Doge Fashion
+    buy_gift_cards:
+      "Dogecoin ile hediye kartları satın alın veya en son Doge Modasını keşfedin", // Buy gift cards with Dogecoin, or shop the latest Doge Fashion
     enter_the_dogeverse: "Dogeverse'e Girin", // Enter the Dogeverse
-    claim_dogtag: "DogeTag'inizi alın, arkadaşlarınızı bulun, bağlantınızla ödemeler alın ve memeler paylaşın", // Claim Your DogeTag, find friends, receive payments with your link, and share memes
+    claim_dogtag:
+      "DogeTag'inizi alın, arkadaşlarınızı bulun, bağlantınızla ödemeler alın ve memeler paylaşın", // Claim Your DogeTag, find friends, receive payments with your link, and share memes
     so_much_tip: "Çok Bahşiş, Çok Vay!", // So Tip, Much Wow!
     success: "Başarılı", // Success
     sent_doge: "Gönderdiniz:", // You've sent
@@ -292,7 +315,8 @@ export const tr = {
     no_thanks: "Hayır, teşekkürler", // No thanks
     open_settings: "Ayarları Aç", // Open Settings
     swipe_for_more: "Daha fazlası için yukarı kaydırın", // Swipe up for more
-    transaction_confirmation_alert: "Onaylamadan önce her zaman kime gönderdiğinizi iki kez kontrol edin. Asla bir borsanın çekim adresine göndermeyin. Dogecoin işlemleri geri alınamaz!", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
+    transaction_confirmation_alert:
+      "Onaylamadan önce her zaman kime gönderdiğinizi iki kez kontrol edin. Asla bir borsanın çekim adresine göndermeyin. Dogecoin işlemleri geri alınamaz!", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
     clear_amount: "Miktarı Temizle", // Clear Amount
     set_amount: "Miktarı Ayarla", // Set Amount
     save_qr: "QR'ı Kaydet", // Save QR
@@ -304,7 +328,8 @@ export const tr = {
     scan_qr_payment: "Ödeme yapmak için QR kodunu tarayın", // Scan QR code to make a payment
     select_image: "Resim Seç", // Select Image
     find_friends_heading: "MyDoge'da Arkadaşları Bul", // Find Friends on MyDoge
-    find_friends_description: "Kişi erişimine izin verin ve MyDoge'da arkadaşlarınızı ve kişilerinizi kolayca bulun.", // Allow contact access and make it easy to find friends and contacts on MyDoge.
+    find_friends_description:
+      "Kişi erişimine izin verin ve MyDoge'da arkadaşlarınızı ve kişilerinizi kolayca bulun.", // Allow contact access and make it easy to find friends and contacts on MyDoge.
     find_friends_button: "Arkadaşları Bul", // Find Friends
     later_button: "Bunu daha sonra yapacağım", // I'll do this later
     own_address_error: "Kendi adresinize gönderemezsiniz", // You cannot send to your own address
@@ -318,7 +343,8 @@ export const tr = {
     enter_wallet_pin: "Cüzdan PIN'inizi girin", // Enter your Wallet PIN
     forgot_pin: "PIN'i Unuttum", // Forgot PIN
     forgot_pin_title: "PIN'i Unuttum", // Forgot PIN
-    forgot_pin_body: "Cüzdanınızın kilidini açmak için biyometriyi kullanmak istiyor musunuz?", // Do you want to use biometrics to unlock your wallet?
+    forgot_pin_body:
+      "Cüzdanınızın kilidini açmak için biyometriyi kullanmak istiyor musunuz?", // Do you want to use biometrics to unlock your wallet?
     share: "Paylaş", // Share
     address_copied_to_clipboard: "Adres panoya kopyalandı", // Address copied to clipboard
     follows_you: "Sizi Takip Ediyor", // Follows You
@@ -333,16 +359,20 @@ export const tr = {
     unblock: "Engeli Kaldır", // Unblock
     block_or_report: "Engelle veya Bildir", // Block or Report
     copy_profile_url: "Profil URL'sini Kopyala", // Copy Profile URL
-    memes_error: "Memeler yüklenirken hata oluştu. Lütfen geri dönün ve tekrar deneyin.", // Error loading memes. Please go back and try again.
+    memes_error:
+      "Memeler yüklenirken hata oluştu. Lütfen geri dönün ve tekrar deneyin.", // Error loading memes. Please go back and try again.
     user_profile_hidden: "Kullanıcı profili gizli", // User profile is hidden
-    error_loading_profile: "Profil yüklenirken hata oluştu. Lütfen geri dönün ve tekrar deneyin.", // Error loading profile. Please go back and try again.
+    error_loading_profile:
+      "Profil yüklenirken hata oluştu. Lütfen geri dönün ve tekrar deneyin.", // Error loading profile. Please go back and try again.
     uid_not_specified: "Hata: uid belirtilmedi. Lütfen desteğe bildirin.", // Error: uid not specified. Please notify support.
-    block_or_report_description: "MyDoge, bildirilen tüm profilleri yönergelerimize aykırı herhangi bir faaliyet için inceleyecektir. Ayrıca, gönderilerini görmemek için profili engelleyebilirsiniz.", // MyDoge will review all reported profiles for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    block_or_report_description:
+      "MyDoge, bildirilen tüm profilleri yönergelerimize aykırı herhangi bir faaliyet için inceleyecektir. Ayrıca, gönderilerini görmemek için profili engelleyebilirsiniz.", // MyDoge will review all reported profiles for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     nevermind: "Boş ver", // Nevermind
     report: "Bildir", // Report
     block: "Engelle", // Block
     unblock_user: "Kullanıcının Engelini Kaldır?", // Unblock User?
-    unblock_user_description: "Bu, kullanıcının engelini kaldıracak ve gönderilerini görmeye devam edeceksiniz.", // This will unblock the user and you will continue to see their posts.
+    unblock_user_description:
+      "Bu, kullanıcının engelini kaldıracak ve gönderilerini görmeye devam edeceksiniz.", // This will unblock the user and you will continue to see their posts.
     you_have_no_posts_yet: "Henüz gönderiniz yok", // You have no posts yet
     no_posts_yet: "Henüz gönderi yok", // No posts yet
     amount: "Miktar", // Amount
@@ -352,7 +382,8 @@ export const tr = {
     cancel: "İptal", // Cancel
     i_understand_continue: "Anlıyorum, devam et", // I understand, continue
     hey_are_you_sure: "Hey! Emin misiniz?", // Hey! Are you sure?
-    delete_backup_confirmation: "Bu yedeklemeyi sildiğinizde, bulut yedeklemenizi kaybedersiniz, bu işlem geri alınamaz", // Once you delete this backup, you lose your cloud backup, this action cannot be undone
+    delete_backup_confirmation:
+      "Bu yedeklemeyi sildiğinizde, bulut yedeklemenizi kaybedersiniz, bu işlem geri alınamaz", // Once you delete this backup, you lose your cloud backup, this action cannot be undone
     all_transactions: "Tüm İşlemler", // All Transactions
     pending_transactions: "Bekleyen İşlemler", // Pending Transactions
     view_on: "Görüntüle:", // View on
@@ -361,32 +392,40 @@ export const tr = {
     invoice_id: "Fatura ID", // Invoice ID
     support: "Destek", // Support
     phone_number: "Telefon numarası", // Phone number
-    whatsapp_verification_notice: "Bir doğrulama kodu WhatsApp üzerinden telefonunuza gönderilecek", // A verification code will be sent to your phone via WhatsApp
+    whatsapp_verification_notice:
+      "Bir doğrulama kodu WhatsApp üzerinden telefonunuza gönderilecek", // A verification code will be sent to your phone via WhatsApp
     via_whatsapp: "WhatsApp üzerinden", // via WhatsApp
-    you_may_not_have_backed_up_your_wallet: "Bulutta mevcut bir yedeklemeniz var, ancak mevcut cüzdanınızı yedeklememiş olabilirsiniz.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
+    you_may_not_have_backed_up_your_wallet:
+      "Bulutta mevcut bir yedeklemeniz var, ancak mevcut cüzdanınızı yedeklememiş olabilirsiniz.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
     signed_in_as: "Şu şekilde giriş yapıldı:", // Signed in as
     sign_in_to_restore_backup: "Yedeklemeyi geri yüklemek için giriş yapın", // Sign in to restore backup
     sign_in_with_google: "Google ile giriş yap", // Sign in with Google
     sign_in_to_backup: "Yedeklemek için giriş yapın", // Sign in to backup
     delete_meme: "Meme'i sil?", // Delete meme?
-    delete_meme_confirmation: "Bu, meme'i profilinizden ve Dogeverse'den kaldıracaktır.", // This will remove the meme from your profile and the Dogeverse.
+    delete_meme_confirmation:
+      "Bu, meme'i profilinizden ve Dogeverse'den kaldıracaktır.", // This will remove the meme from your profile and the Dogeverse.
     meme_saved_to_gallery: "Meme galeriye kaydedildi!", // Meme saved to gallery!
     error_saving_meme: "Meme kaydedilirken hata oluştu.", // Error saving meme.
     report_or_block: "Bildir veya Engelle?", // Report or Block?
-    report_block_description: "MyDoge, bildirilen tüm memeleri yönergelerimize aykırı herhangi bir faaliyet için inceleyecektir. Ayrıca, gönderilerini görmemek için profili engelleyebilirsiniz.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_block_description:
+      "MyDoge, bildirilen tüm memeleri yönergelerimize aykırı herhangi bir faaliyet için inceleyecektir. Ayrıca, gönderilerini görmemek için profili engelleyebilirsiniz.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     report_or_block_user: "Bildir veya Engelle?", // Report or Block?
-    are_you_sure_you_want_to_cancel_this_tip: "Bu bahşişi iptal etmek istediğinizden emin misiniz?", // Are you sure you want to cancel this tip?
+    are_you_sure_you_want_to_cancel_this_tip:
+      "Bu bahşişi iptal etmek istediğinizden emin misiniz?", // Are you sure you want to cancel this tip?
     yes_cancel: "Evet, iptal et", // Yes, cancel
     allow_photos_access: "Fotoğraf Erişimine İzin Ver?", // Allow Photos Access?
-    enable_photo_access_in_order_to_post_memes: "Meme paylaşmak için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to post memes.
-    cannot_upload_a_video_longer_than_60_seconds: "60 saniyeden uzun video yüklenemez", // Cannot upload a video longer than 60 seconds
+    enable_photo_access_in_order_to_post_memes:
+      "Meme paylaşmak için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds:
+      "60 saniyeden uzun video yüklenemez", // Cannot upload a video longer than 60 seconds
     sign_in_to_post_memes: "Meme paylaşmak için giriş yapın", // Sign in to post memes
     hidden_profiles_cannot_post: "Gizli profiller paylaşım yapamaz", // Hidden profiles cannot post
     error_posting_meme: "Meme paylaşılırken hata oluştu", // Error posting meme
     unsupported_file: "Desteklenmeyen dosya", // Unsupported file
     unsupported_media_type: "Desteklenmeyen medya türü", // Unsupported media type
     no_security_enabled: "Güvenlik Etkinleştirilmedi", // No Security Enabled
-    passcode_touch_id_face_id_required_to_use_your_wallet: "Cüzdanınızı kullanmak için Şifre/Touch ID/Face ID gereklidir. Nasıl etkinleştirileceğini görmek ister misiniz?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    passcode_touch_id_face_id_required_to_use_your_wallet:
+      "Cüzdanınızı kullanmak için Şifre/Touch ID/Face ID gereklidir. Nasıl etkinleştirileceğini görmek ister misiniz?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
     yes_show_me_how: "Evet, nasıl yapılacağını göster", // Yes, show me how
     the_meme_will_no_longer_be_posted: "Meme artık paylaşılmayacak", // The meme will no longer be posted
     retry_post: "Gönderiyi yeniden dene?", // Retry post?
@@ -394,41 +433,54 @@ export const tr = {
     pins_dont_match_please_retry: "PIN'ler eşleşmiyor. Lütfen tekrar deneyin", // Pins don't match. Please retry
     invalid_phrase: "Geçersiz ifade", // Invalid phrase
     WARNING: "UYARI", // WARNING
-    username_must_be_at_least_4_characters: "Kullanıcı adı en az 4 karakter olmalıdır", // Usernames must be at least 4 characters
-    username_must_contain_only_a_z_0_9_and_underscore: "Kullanıcı adı sadece A-Z, 0-9 ve _ içermelidir", // Usernames must contain only A-Z, 0-9, and _
+    username_must_be_at_least_4_characters:
+      "Kullanıcı adı en az 4 karakter olmalıdır", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore:
+      "Kullanıcı adı sadece A-Z, 0-9 ve _ içermelidir", // Usernames must contain only A-Z, 0-9, and _
     username_not_available: "Kullanıcı adı mevcut değil", // Username not available
     username_available: "Kullanıcı adı mevcut", // Username available
-    error_try_again_or_contact_support: "Hata. Tekrar deneyin veya destek ile iletişime geçin.", // Error. Try again or contact support.
-    enable_photo_access_in_order_to_change_your_avatar: "Avatarınızı değiştirmek için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to change your avatar.
+    error_try_again_or_contact_support:
+      "Hata. Tekrar deneyin veya destek ile iletişime geçin.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar:
+      "Avatarınızı değiştirmek için fotoğraf erişimini etkinleştirin.", // Enable photo access in order to change your avatar.
     invalid_seed_phrase_word: "Geçersiz tohum kelimesi", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "MyDoge tohum kelimesi değil", // is not a MyDoge seed phrase word
     wallet_not_found: "Cüzdan Bulunamadı!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Bir veya daha fazla standart olmayan kelime girdiniz! Bu, uyumluluk sorunları olabilecek bir cüzdanı içe aktaracaktır. Yalnızca bu ifadenin sizin olduğundan eminseniz devam edin.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+      "Bir veya daha fazla standart olmayan kelime girdiniz! Bu, uyumluluk sorunları olabilecek bir cüzdanı içe aktaracaktır. Yalnızca bu ifadenin sizin olduğundan eminseniz devam edin.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Uyarı", // Warning
     import: "İçe Aktar", // Import
     iCloud_Drive_not_enabled: "iCloud Drive etkinleştirilmedi", // iCloud Drive not enabled
-    do_you_want_to_see_how_to_enable_it: "Nasıl etkinleştirileceğini görmek ister misiniz?", // Do you want to see how to enable it?
+    do_you_want_to_see_how_to_enable_it:
+      "Nasıl etkinleştirileceğini görmek ister misiniz?", // Do you want to see how to enable it?
     backup_deleted: "Yedekleme silindi", // Backup deleted
     error_deleting_backup: "Yedekleme silinirken hata oluştu", // Error deleting backup
     ban_user: "Kullanıcıyı yasakla", // Ban user
-    ban_user_confirmation: "Bu kullanıcıyı yasaklamak istediğinizden emin misiniz?", // Are you sure you want to ban this user?
+    ban_user_confirmation:
+      "Bu kullanıcıyı yasaklamak istediğinizden emin misiniz?", // Are you sure you want to ban this user?
     ban: "Yasakla", // Ban
-    x_account_linked_to_another_user: "𝕏 hesabı başka bir kullanıcıya bağlıdır. Bağlantıyı kaldırmak için lütfen diğer telefon numarasını kullanarak giriş yapın ve bu ekrandan geri dönün", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
-    unexpected_error_contact_support: "Beklenmeyen hata, destek ile iletişime geçin", // Unexpected error, contact support
+    x_account_linked_to_another_user:
+      "𝕏 hesabı başka bir kullanıcıya bağlıdır. Bağlantıyı kaldırmak için lütfen diğer telefon numarasını kullanarak giriş yapın ve bu ekrandan geri dönün", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support:
+      "Beklenmeyen hata, destek ile iletişime geçin", // Unexpected error, contact support
     not_a_valid_dogecoin_address: "Geçerli bir Dogecoin adresi değil", // Not a valid Dogecoin address
-    balance_too_low_deposit_more_doge: "Bakiye çok düşük. Daha fazla DOGE yatırın.", // Balance too low. Deposit more DOGE.
+    balance_too_low_deposit_more_doge:
+      "Bakiye çok düşük. Daha fazla DOGE yatırın.", // Balance too low. Deposit more DOGE.
     error_preparing_transaction: "İşlem hazırlanırken hata oluştu", // Error preparing transaction
     error_sending_transaction: "İşlem gönderilirken hata oluştu", // Error sending transaction
     max_transaction_size_allowed_for: "İzin verilen maksimum işlem boyutu:", // Max transaction size allowed for
     qr_code_saved_to_gallery: "QR kodu galeriye kaydedildi", // QR code saved to gallery
     error_saving_qr_code: "QR kodu kaydedilirken hata oluştu", // Error saving QR code
     cannot_send_to_your_own_address: "Kendi adresinize gönderemezsiniz", // Cannot send to your own address
-    unsupported_format_or_not_a_doge_address: "Desteklenmeyen format veya DOGE adresi değil", // Unsupported format or not a DOGE address
+    unsupported_format_or_not_a_doge_address:
+      "Desteklenmeyen format veya DOGE adresi değil", // Unsupported format or not a DOGE address
     qr_not_found_in_file: "Dosyada QR bulunamadı", // QR not found in file
     unknown_file_error: "Bilinmeyen dosya hatası", // Unknown file error
     invalid_address: "Geçersiz adres", // Invalid address
-    error_preparing_transaction_try_again: "İşlem hazırlanırken hata oluştu. Lütfen tekrar deneyin.", // Error preparing transaction. Please try again.
-    error_processing_transaction_please_try_again: "İşlem işlenirken hata oluştu. Lütfen tekrar deneyin.", // Error processing transaction. Please try again.
+    error_preparing_transaction_try_again:
+      "İşlem hazırlanırken hata oluştu. Lütfen tekrar deneyin.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again:
+      "İşlem işlenirken hata oluştu. Lütfen tekrar deneyin.", // Error processing transaction. Please try again.
     minimum_tip_amount_is: "Minimum bahşiş miktarı:", // Minimum tip amount is
     backup_failed: "Yedekleme başarısız oldu", // Backup failed
     backup_successful: "Yedekleme başarılı", // Backup successful
@@ -437,14 +489,21 @@ export const tr = {
     incorrect_phrase: "Yanlış ifade", // Incorrect phrase
     incorrect_pin: "Yanlış PIN", // Incorrect PIN
     pin_updated: "PIN güncellendi", // PIN updated
-    wallet_unlocked_you_may_enter_your_new_pin: "Cüzdan kilidi açıldı. Yeni PIN'inizi girebilirsiniz", // Wallet unlocked. You may enter your new PIN
+    wallet_unlocked_you_may_enter_your_new_pin:
+      "Cüzdan kilidi açıldı. Yeni PIN'inizi girebilirsiniz", // Wallet unlocked. You may enter your new PIN
     label_cannot_be_empty: "Etiket boş olamaz", // Label cannot be empty
     address_saved: "Adres kaydedildi", // Address saved
     label_already_exists: "Etiket zaten mevcut", // Label already exists
-    too_many_requests_please_try_again_later: "Çok fazla istek. Lütfen daha sonra tekrar deneyin.", // Too many requests. Please try again later.
+    too_many_requests_please_try_again_later:
+      "Çok fazla istek. Lütfen daha sonra tekrar deneyin.", // Too many requests. Please try again later.
     invalid_code: "Geçersiz kod.", // Invalid code.
     unsupported_country: "Desteklenmeyen ülke", // Unsupported country
-    invalid_phone_number: "Geçersiz telefon numarası.\n\"+<ülke kodu><telefon numarası>\" formatını kullanın.\nVOIP veya sabit telefon numaraları kullanılamaz.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
-    invalid_phone_number_error: "Geçersiz telefon numarası. Lütfen \"+<ülke kodu><telefon numarası>\" formatını kullanın ve VOIP veya sabit telefon numaraları olmadığından emin olun.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    invalid_phone_number:
+      "Geçersiz telefon numarası.\n\"+<ülke kodu><telefon numarası>\" formatını kullanın.\nVOIP veya sabit telefon numaraları kullanılamaz.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error:
+      "Geçersiz telefon numarası. Lütfen \"+<ülke kodu><telefon numarası>\" formatını kullanın ve VOIP veya sabit telefon numaraları olmadığından emin olun.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    amount_mismatch: "Tutar uyuşmuyor. Lütfen tekrar deneyin.", // Amount mismatch. Please try again.
+    amount_mismatch_warning:
+      "Tutar uyumsuzluğu muhtemelen sınırlı harcanabilir işlemlerden kaynaklanmaktadır. Başka bir işlem göndermeden önce bu işlemin onaylanmasını bekleyin.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
   },
 };

@@ -404,45 +404,59 @@ export const es = {
     you_may_not_have_backed_up_your_wallet:
       "Tienes una copia de seguridad en la nube, pero puede que no hayas respaldado tu billetera actual.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
     signed_in_as: "Iniciado como", // Signed in as
-    sign_in_to_restore_backup: "Iniciar sesión para restaurar la copia de seguridad", // Sign in to restore backup
+    sign_in_to_restore_backup:
+      "Iniciar sesión para restaurar la copia de seguridad", // Sign in to restore backup
     sign_in_with_google: "Iniciar sesión con Google", // Sign in with Google
     sign_in_to_backup: "Iniciar sesión para respaldar", // Sign in to backup
     delete_meme: "¿Eliminar meme?", // Delete meme?
-    delete_meme_confirmation: "Esto eliminará el meme de tu perfil y del Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    delete_meme_confirmation:
+      "Esto eliminará el meme de tu perfil y del Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
     meme_saved_to_gallery: "¡Meme guardado en la galería!", // Meme saved to gallery!
     error_saving_meme: "Error al guardar el meme.", // Error saving meme.
     report_or_block: "¿Reportar o bloquear?", // Report or Block?
-    report_block_description: "MyDoge revisará todos los memes reportados para detectar cualquier actividad que incumpla con nuestras pautas. También puedes bloquear el perfil para dejar de ver sus publicaciones.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_block_description:
+      "MyDoge revisará todos los memes reportados para detectar cualquier actividad que incumpla con nuestras pautas. También puedes bloquear el perfil para dejar de ver sus publicaciones.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     report_or_block_user: "¿Reportar o bloquear?", // Report or Block?
-    are_you_sure_you_want_to_cancel_this_tip: "¿Estás seguro de que quieres cancelar esta propina?", // Are you sure you want to cancel this tip?
+    are_you_sure_you_want_to_cancel_this_tip:
+      "¿Estás seguro de que quieres cancelar esta propina?", // Are you sure you want to cancel this tip?
     yes_cancel: "Sí, cancelar", // Yes, cancel
     allow_photos_access: "¿Permitir acceso a fotos?", // Allow Photos Access?
-    enable_photo_access_in_order_to_post_memes: "Habilita el acceso a fotos para publicar memes.", // Enable photo access in order to post memes.
-    cannot_upload_a_video_longer_than_60_seconds: "No se puede subir un video de más de 60 segundos", // Cannot upload a video longer than 60 seconds
+    enable_photo_access_in_order_to_post_memes:
+      "Habilita el acceso a fotos para publicar memes.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds:
+      "No se puede subir un video de más de 60 segundos", // Cannot upload a video longer than 60 seconds
     sign_in_to_post_memes: "Inicia sesión para publicar memes", // Sign in to post memes
     hidden_profiles_cannot_post: "Los perfiles ocultos no pueden publicar", // Hidden profiles cannot post
     error_posting_meme: "Error al publicar el meme", // Error posting meme
     unsupported_file: "Archivo no compatible", // Unsupported file
     unsupported_media_type: "Tipo de medio no compatible", // Unsupported media type
     no_security_enabled: "Sin seguridad habilitada", // No Security Enabled
-    passcode_touch_id_face_id_required_to_use_your_wallet: "Se requiere código de acceso/Touch ID/Face ID para usar tu billetera. ¿Quieres ver cómo habilitarlo?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    passcode_touch_id_face_id_required_to_use_your_wallet:
+      "Se requiere código de acceso/Touch ID/Face ID para usar tu billetera. ¿Quieres ver cómo habilitarlo?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
     yes_show_me_how: "Sí, muéstrame cómo", // Yes, show me how
     the_meme_will_no_longer_be_posted: "El meme ya no se publicará", // The meme will no longer be posted
     retry_post: "¿Reintentar publicación?", // Retry post?
     retry_post_confirmation: "El meme se publicará de nuevo", // The meme will be posted again
-    pins_dont_match_please_retry: "Los PIN no coinciden. Por favor, inténtalo de nuevo", // Pins don't match. Please retry
+    pins_dont_match_please_retry:
+      "Los PIN no coinciden. Por favor, inténtalo de nuevo", // Pins don't match. Please retry
     invalid_phrase: "Frase inválida", // Invalid phrase
     WARNING: "ADVERTENCIA", // WARNING
-    username_must_be_at_least_4_characters: "Los nombres de usuario deben tener al menos 4 caracteres", // Usernames must be at least 4 characters
-    username_must_contain_only_a_z_0_9_and_underscore: "Los nombres de usuario solo deben contener A-Z, 0-9 y _", // Usernames must contain only A-Z, 0-9, and _
+    username_must_be_at_least_4_characters:
+      "Los nombres de usuario deben tener al menos 4 caracteres", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore:
+      "Los nombres de usuario solo deben contener A-Z, 0-9 y _", // Usernames must contain only A-Z, 0-9, and _
     username_not_available: "Nombre de usuario no disponible", // Username not available
     username_available: "Nombre de usuario disponible", // Username available
-    error_try_again_or_contact_support: "Error. Inténtalo de nuevo o contacta con soporte.", // Error. Try again or contact support.
-    enable_photo_access_in_order_to_change_your_avatar: "Habilita el acceso a fotos para cambiar tu avatar.", // Enable photo access in order to change your avatar.
+    error_try_again_or_contact_support:
+      "Error. Inténtalo de nuevo o contacta con soporte.", // Error. Try again or contact support.
+    enable_photo_access_in_order_to_change_your_avatar:
+      "Habilita el acceso a fotos para cambiar tu avatar.", // Enable photo access in order to change your avatar.
     invalid_seed_phrase_word: "Palabra de frase semilla inválida", // Invalid seed phrase word
-    is_not_a_mydoge_seed_phrase_word: "no es una palabra de frase semilla de MyDoge", // is not a MyDoge seed phrase word
+    is_not_a_mydoge_seed_phrase_word:
+      "no es una palabra de frase semilla de MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "¡Billetera no encontrada!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "¡Has introducido una o más palabras no estándar! Esto importará una billetera que puede tener problemas de compatibilidad. Solo procede si estás seguro de que esta es tu frase.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+      "¡Has introducido una o más palabras no estándar! Esto importará una billetera que puede tener problemas de compatibilidad. Solo procede si estás seguro de que esta es tu frase.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Advertencia", // Warning
     import: "Importar", // Import
     iCloud_Drive_not_enabled: "iCloud Drive no está habilitado", // iCloud Drive not enabled
@@ -450,24 +464,30 @@ export const es = {
     backup_deleted: "Copia de seguridad eliminada", // Backup deleted
     error_deleting_backup: "Error al eliminar la copia de seguridad", // Error deleting backup
     ban_user: "Banear usuario", // Ban user
-    ban_user_confirmation: "¿Estás seguro de que quieres banear a este usuario?", // Are you sure you want to ban this user?
+    ban_user_confirmation:
+      "¿Estás seguro de que quieres banear a este usuario?", // Are you sure you want to ban this user?
     ban: "Banear", // Ban
-    x_account_linked_to_another_user: "𝕏 cuenta vinculada a otro usuario. Para desvincular, inicia sesión con el otro número de teléfono y vuelve a esta pantalla", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    x_account_linked_to_another_user:
+      "𝕏 cuenta vinculada a otro usuario. Para desvincular, inicia sesión con el otro número de teléfono y vuelve a esta pantalla", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
     unexpected_error_contact_support: "Error inesperado, contacta con soporte", // Unexpected error, contact support
     not_a_valid_dogecoin_address: "No es una dirección de Dogecoin válida", // Not a valid Dogecoin address
     balance_too_low_deposit_more_doge: "Saldo insuficiente. Deposita más DOGE.", // Balance too low. Deposit more DOGE.
     error_preparing_transaction: "Error al preparar la transacción", // Error preparing transaction
     error_sending_transaction: "Error al enviar la transacción", // Error sending transaction
-    max_transaction_size_allowed_for: "Tamaño máximo de transacción permitido para", // Max transaction size allowed for
+    max_transaction_size_allowed_for:
+      "Tamaño máximo de transacción permitido para", // Max transaction size allowed for
     qr_code_saved_to_gallery: "Código QR guardado en la galería", // QR code saved to gallery
     error_saving_qr_code: "Error al guardar el código QR", // Error saving QR code
     cannot_send_to_your_own_address: "No se puede enviar a su propia dirección", // Cannot send to your own address
-    unsupported_format_or_not_a_doge_address: "Formato no compatible o no una dirección DOGE", // Unsupported format or not a DOGE address
+    unsupported_format_or_not_a_doge_address:
+      "Formato no compatible o no una dirección DOGE", // Unsupported format or not a DOGE address
     qr_not_found_in_file: "QR no encontrado en el archivo", // QR not found in file
     unknown_file_error: "Error de archivo desconocido", // Unknown file error
     invalid_address: "Dirección inválida", // Invalid address
-    error_preparing_transaction_try_again: "Error al preparar la transacción. Por favor, inténtalo de nuevo.", // Error preparing transaction. Please try again.
-    error_processing_transaction_please_try_again: "Error al procesar la transacción. Por favor, inténtalo de nuevo.", // Error processing transaction. Please try again.
+    error_preparing_transaction_try_again:
+      "Error al preparar la transacción. Por favor, inténtalo de nuevo.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again:
+      "Error al procesar la transacción. Por favor, inténtalo de nuevo.", // Error processing transaction. Please try again.
     minimum_tip_amount_is: "El mínimo de propina es", // Minimum tip amount is
     backup_failed: "Copia de seguridad fallida", // Backup failed
     backup_successful: "Copia de seguridad exitosa", // Backup successful
@@ -476,14 +496,21 @@ export const es = {
     incorrect_phrase: "Frase incorrecta", // Incorrect phrase
     incorrect_pin: "PIN incorrecto", // Incorrect PIN
     pin_updated: "PIN actualizado", // PIN updated
-    wallet_unlocked_you_may_enter_your_new_pin: "Billetera desbloqueada. Puedes entrar tu nuevo PIN", // Wallet unlocked. You may enter your new PIN
+    wallet_unlocked_you_may_enter_your_new_pin:
+      "Billetera desbloqueada. Puedes entrar tu nuevo PIN", // Wallet unlocked. You may enter your new PIN
     label_cannot_be_empty: "El label no puede estar vacío", // Label cannot be empty
     address_saved: "Dirección guardada", // Address saved
     label_already_exists: "El label ya existe", // Label already exists
-    too_many_requests_please_try_again_later: "Demasiadas solicitudes. Por favor, inténtalo de nuevo más tarde.", // Too many requests. Please try again later.
+    too_many_requests_please_try_again_later:
+      "Demasiadas solicitudes. Por favor, inténtalo de nuevo más tarde.", // Too many requests. Please try again later.
     invalid_code: "Código inválido.", // Invalid code.
     unsupported_country: "País no compatible", // Unsupported country
-    invalid_phone_number: "Número de teléfono no válido.\nUsa el formato \"+<Código del país><Número de teléfono>\"\nNo se puede usar VOIP o números de teléfono fijos.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
-    invalid_phone_number_error: "Número de teléfono no válido. Por favor, usa el formato \"+<Código del país><Número de teléfono>\" y asegúrate de que no sea un número VOIP o de teléfono fijo.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    invalid_phone_number:
+      "Número de teléfono no válido.\nUsa el formato \"+<Código del país><Número de teléfono>\"\nNo se puede usar VOIP o números de teléfono fijos.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error:
+      "Número de teléfono no válido. Por favor, usa el formato \"+<Código del país><Número de teléfono>\" y asegúrate de que no sea un número VOIP o de teléfono fijo.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    amount_mismatch: "No hay coincidencia de importe. Inténtelo de nuevo.", // Amount mismatch. Please try again.
+    amount_mismatch_warning:
+      "Es probable que la diferencia de montos se deba a que hay transacciones disponibles limitadas. Espere a que se confirme esta transacción antes de enviar otra.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
   },
 };
