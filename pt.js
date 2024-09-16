@@ -237,7 +237,7 @@ export const pt = {
     imported_wallet_success: "Importou a sua carteira com sucesso!", // You've successfully imported your wallet!
     secure_new_wallet: "Proteja a sua nova carteira", // Secure your new wallet
     set_pin: "Defina um PIN de 6 dígitos", // Set a 6-digit PIN
-    reenter_pin: "Insira novamente o PIN_LENGTH de 6 dígitos", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "Insira novamente o PIN de 6 dígitos", // Re-enter 6-digit
     pin_payment_note: "Irá precisar do seu PIN para enviar pagamentos", // You'll need your PIN to send payments
     use_biometric: "Utilizar a impressão digital e/ou a identificação facial", // Use Fingerprint/Face ID
     ask_every_time: "Perguntar sempre que eu abrir a aplicação", // Ask every time I open the app

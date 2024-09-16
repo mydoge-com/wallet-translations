@@ -240,7 +240,7 @@ export const ru = {
     imported_wallet_success: "Вы успешно импортировали свой кошелек!", // You've successfully imported your wallet!
     secure_new_wallet: "Защитите свой новый кошелек", // Secure your new wallet
     set_pin: "Установите 6-значный PIN-код", // Set a 6-digit PIN
-    reenter_pin: "Повторно введите 6-значный PIN-код", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "Повторно введите 6-значный PIN", // Re-enter 6-digit PIN
     pin_payment_note: "Вам понадобится ваш PIN-код для отправки платежей", // You'll need your PIN to send payments
     use_biometric: "Использовать отпечаток пальца/Face ID", // Use Fingerprint/Face ID
     ask_every_time: "Спрашивать каждый раз при открытии приложения", // Ask every time I open the app

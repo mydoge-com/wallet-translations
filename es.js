@@ -241,7 +241,7 @@ export const es = {
     imported_wallet_success: "¡Has importado exitosamente tu billetera!", // You've successfully imported your wallet!
     secure_new_wallet: "Asegura tu nueva billetera", // Secure your new wallet
     set_pin: "Establecer un PIN de 6 dígitos", // Set a 6-digit PIN
-    reenter_pin: "Vuelve a ingresar un PIN de 6 dígitos", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "Vuelve a ingresar un PIN de 6 dígitos", // Re-enter 6-digit PIN
     pin_payment_note: "Necesitarás tu PIN para enviar pagos", // You'll need your PIN to send payments
     use_biometric: "Usar huella digital/Face ID", // Use Fingerprint/Face ID
     ask_every_time: "Preguntar cada vez que abro la aplicación", // Ask every time I open the app

@@ -219,7 +219,7 @@ export const zh = {
     imported_wallet_success: "您已成功导入您的钱包！", // You've successfully imported your wallet!
     secure_new_wallet: "保护你的新钱包", // Secure your new wallet
     set_pin: "设置 6 位 PIN 码", // Set a 6-digit PIN
-    reenter_pin: "重新输入 6 位字符的 PIN", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "重新输入 6 位字符的 PIN", // Re-enter 6-digit PIN
     pin_payment_note: "您需要输入 PIN 码才能付款", // You'll need your PIN to send payments
     use_biometric: "使用指纹/面部识别", // Use Fingerprint/Face ID
     ask_every_time: "每次打开应用程序时询问", // Ask every time I open the app
