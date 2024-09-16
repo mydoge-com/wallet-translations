@@ -39,7 +39,8 @@ export const zh = {
     pin: "PIN", // PIN
     back_up_to: "备份至", // Back up to
     back_up_your_wallet: "备份你的钱包", // Back up your wallet
-    back_up_your_wallet_description: "将钱包保存到云端并用密码保护。您也可以记下助记词或将其复制到密码管理器中。", // Save your wallet to the cloud and protect it with a password. You can also write down your Seed Phrase or copy it to a password manager.
+    back_up_your_wallet_description:
+      "将钱包保存到云端并用密码保护。您也可以记下助记词或将其复制到密码管理器中。", // Save your wallet to the cloud and protect it with a password. You can also write down your Seed Phrase or copy it to a password manager.
     pin_description: "如果您忘记了 PIN，您将需要从备份中恢复您的钱包。", // If your forget your PIN, you will need to restore your wallet from a backup.
     change_pin: "更改 PIN", // Change PIN
     your_pin_is_required: "您需要输入 PIN 码才能付款和执行敏感操作。", // Your PIN is required to make payments and perform sensitive actions.
@@ -48,10 +49,12 @@ export const zh = {
     this_will_remove_all_wallet: "这将从您的设备中删除所有与钱包相关的数据。", // This will remove all wallet related data from your device.
     delete_wallet: "删除钱包", // Delete Wallet
     sign_in_to_the_dogeverse: "登录 Dogeverse", // Sign in to the Dogeverse
-    dogeverse_intro_description: "领取您的 DogeTag、寻找好友、通过您的链接接收付款并参与 Dogeverse 中的内容。", // Claim Your DogeTag, find friends, receive payments with your link, and engage with content in the Dogeverse.
+    dogeverse_intro_description:
+      "领取您的 DogeTag、寻找好友、通过您的链接接收付款并参与 Dogeverse 中的内容。", // Claim Your DogeTag, find friends, receive payments with your link, and engage with content in the Dogeverse.
     sign_in: "登入", // Sign in
     sign_in_description: "您的电话号码仅用于登录，不会公开。", // Your phone number is only used to sign in and will not be made public.
-    create_account_description: "加入 Dogeverse 并与庞大的 Shibes 网络建立联系。", // Join the Dogeverse and connect with a huge network of Shibes.
+    create_account_description:
+      "加入 Dogeverse 并与庞大的 Shibes 网络建立联系。", // Join the Dogeverse and connect with a huge network of Shibes.
     send_verification: "发送验证", // Send Verification
     verify_your_phone_number: "验证您的电话号码", // Verify Your Phone Number
     enter_the_code_sent_to: "输入发送的代码", // Enter the code sent to
@@ -109,7 +112,8 @@ export const zh = {
     confirm_transaction: "确认交易", // Confirm Transaction
     scan_qr_code: "扫描二维码", // Scan QR Code
     new_post: "最新帖子", // New Post
-    send_doge_alert_box_message: "您可以将 DOGE 发送给您的朋友，输入钱包地址或 MyDoge 用户名", // You can send DOGE to your friends, enter a wallet address or a MyDoge username
+    send_doge_alert_box_message:
+      "您可以将 DOGE 发送给您的朋友，输入钱包地址或 MyDoge 用户名", // You can send DOGE to your friends, enter a wallet address or a MyDoge username
     wallet_address_or_username: "钱包地址或用户名", // Wallet address or username
     saved_addresses: "已保存的地址", // Saved Addresses
     add_new: "添加", // Add New
@@ -120,8 +124,10 @@ export const zh = {
     max: "最大限额", // Max
     next: "下一个", // Next
     network_fee: "网络费", // Network Fee
-    max_tx_size_warning: "警告：已达到最大交易限额。这是您一次可以发送的最大金额。", // WARNING: Max transaction size reached. This is the most you can send at once.
-    confirm_transaction_warning: "确认之前，请务必仔细检查您要发送给谁。切勿发送到交易所提款地址。狗狗币交易无法撤销！", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
+    max_tx_size_warning:
+      "警告：已达到最大交易限额。这是您一次可以发送的最大金额。", // WARNING: Max transaction size reached. This is the most you can send at once.
+    confirm_transaction_warning:
+      "确认之前，请务必仔细检查您要发送给谁。切勿发送到交易所提款地址。狗狗币交易无法撤销！", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
     add_note: "添加留言", // Add Note
     wallet_address: "钱包地址", // Wallet Address
     wallet_label: "钱包标签", // Wallet Label
@@ -137,12 +143,15 @@ export const zh = {
     biometrics_confirmation: "您想使用生物识别技术来解锁您的钱包吗？", // Do you want to use biometrics to unlock your wallet?
     use_biometrics: "使用生物识别技术", // Use Biometrics
     dismiss: "取消", // Dismiss
-    remove_wallet_data_description: "这将从您的设备中删除所有与钱包相关的数据。", // This will remove all wallet related data from your device.
+    remove_wallet_data_description:
+      "这将从您的设备中删除所有与钱包相关的数据。", // This will remove all wallet related data from your device.
     delete_profile_forever: "永久删除您的 MyDoge 个人资料", // Delete your MyDoge Profile forever
     sign_out: "登出", // Sign Out
     delete_wallet_confirmation: "嘿！你确定要删除钱包吗？", // Hey! Are you sure?
-    remove_wallet_description: "您当前的钱包将从此应用程序中删除，但它将始终存在于区块链上。", // Your current wallet will be removed from this app, however it will always exist on the blockchain.
-    remove_profile_assets_description: "您的用户个人资料和资产将被永久移除和删除。此操作无法撤消。", // Your user profile and assets will be removed and deleted permanently. This action cannot be undone.
+    remove_wallet_description:
+      "您当前的钱包将从此应用程序中删除，但它将始终存在于区块链上。", // Your current wallet will be removed from this app, however it will always exist on the blockchain.
+    remove_profile_assets_description:
+      "您的用户个人资料和资产将被永久移除和删除。此操作无法撤消。", // Your user profile and assets will be removed and deleted permanently. This action cannot be undone.
     wallet_recovery_description: "您只能通过以下方式恢复此钱包：", // You can ONLY recover this wallet with your
     seed_phrase: "助记词", // SEED PHRASE
     no_seed_phrase: "MyDoge 不会保存您的助记词。", // MyDoge does not have your seed phrase.
@@ -156,16 +165,20 @@ export const zh = {
     edit: "编辑", // Edit
     new_address: "新地址", // New Address
     your_seed_phrase: "你的助记词✍️", // Your Seed Phrase ✍️
-    save_seed_phrase_instructions: "按顺序保存这些单词。写下来并保存在安全的地方，或复制到密码管理器中。", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
-    seed_phrase_warning: "您的助记词是您钱包的钥匙。任何拥有此短语的人都可以访问您的资金。点击以了解更多信息", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
+    save_seed_phrase_instructions:
+      "按顺序保存这些单词。写下来并保存在安全的地方，或复制到密码管理器中。", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
+    seed_phrase_warning:
+      "您的助记词是您钱包的钥匙。任何拥有此短语的人都可以访问您的资金。点击以了解更多信息", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
     copy: "复制", // Copy
     hide: "隐藏", // Hide
     show: "展示", // Show
     screenshot_detected: "检测到屏幕截图", // Screenshot detected
-    screenshot_warning: "您的助记词的屏幕截图或其他数字副本可能会泄露给第三方。", // Screenshots or other digital copies of your seed phrase could leak to a third party.
+    screenshot_warning:
+      "您的助记词的屏幕截图或其他数字副本可能会泄露给第三方。", // Screenshots or other digital copies of your seed phrase could leak to a third party.
     okay: "好的", // Okay
     seed_phrase_importance: "我的助记词有多重要？", // How important is my Seed Phrase?
-    seed_phrase_explanation: "任何拥有您的助记词的人都可以访问您的资金。不要与任何人分享您的助记词。MyDoge 不会为您保存您的助记词。如果您的设备损坏、丢失或被盗，或无法访问，您的助记词是恢复钱包的唯一方法。", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
+    seed_phrase_explanation:
+      "任何拥有您的助记词的人都可以访问您的资金。不要与任何人分享您的助记词。MyDoge 不会为您保存您的助记词。如果您的设备损坏、丢失或被盗，或无法访问，您的助记词是恢复钱包的唯一方法。", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
     send_receive_tips_x: "通过𝕏发送和接收小费", // Send and receive tips via 𝕏
     read_mydogetip_faq: "阅读 MyDogeTip 常见问题解答", // Read the MyDogeTip FAQ
     connect_with_x: "与𝕏 链接", // Connect with 𝕏
@@ -183,7 +196,8 @@ export const zh = {
     save_wallet_to_cloud: "将钱包保存到云端并使用密码保护", // Save your wallet to the cloud and protect it with a password
     write_on_paper: "在纸上书写", // Write on paper
     write_down_seed_phrase: "记下你的助记词或将其保存在密码管理器中", // Write down your Seed Phrase or save it in a password manager
-    why_backups_important_description: "自我保管意味着其他人都无法访问您的资金，即使是 MyDoge 团队也不行。如果您的设备损坏、丢失、被盗或被清除，备份是恢复钱包的唯一方法。", // Self-custody means that nobody else can access your funds, not even the MyDoge team. A backup is the only way to restore your wallet if your device is damaged, lost or stolen, or erased.
+    why_backups_important_description:
+      "自我保管意味着其他人都无法访问您的资金，即使是 MyDoge 团队也不行。如果您的设备损坏、丢失、被盗或被清除，备份是恢复钱包的唯一方法。", // Self-custody means that nobody else can access your funds, not even the MyDoge team. A backup is the only way to restore your wallet if your device is damaged, lost or stolen, or erased.
     choose_password: "选择密码", // Choose a password
     use_memorable_password: "请使用您能记住的密码。", // Please use a password you can remember. Longer passwords are more secure.
     more_secure_password: "请使用更安全的密码。", // Please use a password you can remember. Longer passwords are more secure.
@@ -217,11 +231,14 @@ export const zh = {
     dogeverse_entry_title: "你已经进入了诗句", // You've entered the verse
     dogeverse_entry_body: "您现在就可以探索 Dogeverse 了！", // You're now ready to explore the Dogeverse!
     manual_backup_title: "写下助记词", // Write down Seed Phrase
-    save_words_order: "按顺序保存这些单词。写下来并保存在安全的地方，或复制到密码管理器中。", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
-    seed_phrase_key: "您的助记词是您钱包的钥匙。任何拥有此短语的人都可以访问您的资金。点击以了解更多信息", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
+    save_words_order:
+      "按顺序保存这些单词。写下来并保存在安全的地方，或复制到密码管理器中。", // Save these words, in order. Write them down and keep them somewhere safe, or copy them to a password manager.
+    seed_phrase_key:
+      "您的助记词是您钱包的钥匙。任何拥有此短语的人都可以访问您的资金。点击以了解更多信息", // Your Seed Phrase is the key to your wallet. Anyone with this phrase can access your funds. Tap to learn more
     written_down: "我记下来了", // I've written it down
     screenshot_alert: "您的助记词的屏幕截图或其他数字副本可能会泄露给第三方。", // Screenshots or other digital copies of your seed phrase could leak to a third party.
-    seed_phrase_access: "任何拥有您的助记词的人都可以访问您的资金。不要与任何人分享您的种子短语。MyDoge 不会为您保存您的助记词。如果您的设备损坏、丢失或被盗，或无法访问，您的助记词是恢复钱包的唯一方法。", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
+    seed_phrase_access:
+      "任何拥有您的助记词的人都可以访问您的资金。不要与任何人分享您的种子短语。MyDoge 不会为您保存您的助记词。如果您的设备损坏、丢失或被盗，或无法访问，您的助记词是恢复钱包的唯一方法。", // Anyone with your Seed Phrase can access your funds. Do not share your Seed Phrase with anyone. MyDoge does not save your Seed Phrase for you. Should your device be damaged, lost or stolen, or otherwise inaccessible, your Seed Phrase is the only way to recover your wallet.
     icloud_backup: "iCloud 备份", // iCloud Backup
     cloud_backup: "云备份", // Cloud Backup
     dont_lose_wallet: "别丢了你的钱包！", // Don't lose your wallet!
@@ -232,17 +249,20 @@ export const zh = {
     confirm_seed_phrase: "确认助记词", // Confirm seed phrase
     select_correct_word: "请从下面的列表中选择每个位置上的正确单词。", // Please select the correct word in each position from the list below.
     enter_seed_phrase: "输入助记词", // Enter Seed Phrase
-    enter_seed_phrase_instructions: "输入你的 12 个单词的助记词来恢复你现有的钱包", // Enter your 12 word Seed Phrase to restore your existing wallet
+    enter_seed_phrase_instructions:
+      "输入你的 12 个单词的助记词来恢复你现有的钱包", // Enter your 12 word Seed Phrase to restore your existing wallet
     paste: "粘贴", // Paste
     restore_wallet: "恢复钱包", // Restore Wallet
     wallet_imported: "钱包已导入！", // Wallet imported!
     wallet_imported_body: "您的钱包已可以使用。", // Your wallet is ready to use.
     restore_existing_wallet: "恢复您现有的钱包", // Restore your existing wallet
-    restore_existing_wallet_instructions: "你已经有一个钱包了？那我们再来谈谈它吧！", // So you've got a wallet already? Let's bring it back up then!
+    restore_existing_wallet_instructions:
+      "你已经有一个钱包了？那我们再来谈谈它吧！", // So you've got a wallet already? Let's bring it back up then!
     restore_from: "恢复自", // Restore from
     restore_from_cloud_description: "从您的云端", // Restore your wallet from your
     restore_with_seed_phrase: "使用助记词恢复", // Restore with a seed phrase
-    restore_with_seed_phrase_description: "使用你的助记词恢复现有的 MyDoge 钱包", // Use your seed phrase to Restore an existing MyDoge wallet
+    restore_with_seed_phrase_description:
+      "使用你的助记词恢复现有的 MyDoge 钱包", // Use your seed phrase to Restore an existing MyDoge wallet
     no_cloud_backup: "没有云备份", // No Cloud Backup
     no_cloud_backup_body: "未找到云备份。请从助记词恢复，或创建新钱包", // Cloud backup not found. Please restore from a seed phrase, or create a new wallet
     create_wallet: "创建钱包", // Create a wallet
@@ -252,7 +272,8 @@ export const zh = {
     shop_gift_cards_apparel: "购买礼品卡和服装", // Shop Gift Cards and Apparel
     buy_gift_cards: "使用狗狗币购买礼品卡，或购买最新的狗狗时尚周边", // Buy gift cards with Dogecoin, or shop the latest Doge Fashion
     enter_the_dogeverse: "进入 Dogeverse", // Enter the Dogeverse
-    claim_dogtag: "领取您的 DogeTag、寻找朋友、通过您的链接接收付款并分享表情包", // Claim Your DogeTag, find friends, receive payments with your link, and share memes
+    claim_dogtag:
+      "领取您的 DogeTag、寻找朋友、通过您的链接接收付款并分享表情包", // Claim Your DogeTag, find friends, receive payments with your link, and share memes
     so_much_tip: "感谢打赏，太棒了！", // So Tip, Much Wow!
     success: "成功", // Success
     sent_doge: "您已发送", // You've sent
@@ -271,7 +292,8 @@ export const zh = {
     no_thanks: "不，谢谢", // No thanks
     open_settings: "打开设置", // Open Settings
     swipe_for_more: "向上滑动查看更多", // Swipe up for more
-    transaction_confirmation_alert: "确认之前，请务必仔细检查您要发送给谁。切勿发送到交易所提款地址。狗狗币交易无法撤销！", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
+    transaction_confirmation_alert:
+      "确认之前，请务必仔细检查您要发送给谁。切勿发送到交易所提款地址。狗狗币交易无法撤销！", // Always double check who you are sending to before confirming. Never send to an exchange withdrawal address. Dogecoin transactions can not be reversed!
     clear_amount: "清除数量", // Clear Amount
     set_amount: "设定金额", // Set Amount
     save_qr: "保存二维码", // Save QR
@@ -283,7 +305,8 @@ export const zh = {
     scan_qr_payment: "扫描二维码付款", // Scan QR code to make a payment
     select_image: "选择图像", // Select Image
     find_friends_heading: "在 MyDoge 上寻找好友", // Find Friends on MyDoge
-    find_friends_description: "允许联系人访问并轻松在 MyDoge 上查找朋友和联系人。", // Allow contact access and make it easy to find friends and contacts on MyDoge.
+    find_friends_description:
+      "允许联系人访问并轻松在 MyDoge 上查找朋友和联系人。", // Allow contact access and make it easy to find friends and contacts on MyDoge.
     find_friends_button: "找朋友", // Find Friends
     later_button: "稍后", // I'll do this later
     own_address_error: "您无法发送到您自己的地址", // You cannot send to your own address
@@ -316,12 +339,14 @@ export const zh = {
     user_profile_hidden: "用户个人资料已隐藏", // User profile is hidden
     error_loading_profile: "加载个人资料时出错。请返回并重试。", // Error loading profile. Please go back and try again.
     uid_not_specified: "错误：未指定 uid。请通知支持人员。", // Error: uid not specified. Please notify support.
-    block_or_report_description: "MyDoge 将审查所有被举报的个人资料，看是否有任何违反我们准则的行为。您还可以屏蔽该个人资料，以阻止他们查看帖子。", // MyDoge will review all reported profiles for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    block_or_report_description:
+      "MyDoge 将审查所有被举报的个人资料，看是否有任何违反我们准则的行为。您还可以屏蔽该个人资料，以阻止他们查看帖子。", // MyDoge will review all reported profiles for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     nevermind: "算了", // Nevermind
     report: "举报", // Report
     block: "屏蔽", // Block
     unblock_user: "解除对用户的屏蔽？", // Unblock User?
-    unblock_user_description: "这将解除对该用户的屏蔽，您将继续看到他们的帖子。", // This will unblock the user and you will continue to see their posts.
+    unblock_user_description:
+      "这将解除对该用户的屏蔽，您将继续看到他们的帖子。", // This will unblock the user and you will continue to see their posts.
     you_have_no_posts_yet: "您还没有发布任何帖子", // You have no posts yet
     no_posts_yet: "还没有帖子", // No posts yet
     amount: "数量", // Amount
@@ -331,7 +356,8 @@ export const zh = {
     cancel: "取消", // Cancel
     i_understand_continue: "我明白，继续", // I understand, continue
     hey_are_you_sure: "嘿！你确定吗？", // Hey! Are you sure?
-    delete_backup_confirmation: "一旦删除此备份，您将丢失云备份，此操作无法撤消", // Once you delete this backup, you lose your cloud backup, this action cannot be undone
+    delete_backup_confirmation:
+      "一旦删除此备份，您将丢失云备份，此操作无法撤消", // Once you delete this backup, you lose your cloud backup, this action cannot be undone
     all_transactions: "所有交易", // All Transactions
     pending_transactions: "待交易", // Pending Transactions
     view_on: "查看于", // View on
@@ -353,12 +379,14 @@ export const zh = {
     meme_saved_to_gallery: "表情包已保存到相册！", // Meme saved to gallery!
     error_saving_meme: "保存表情包时出错。", // Error saving meme.
     report_or_block: "举报或屏蔽？", // Report or Block?
-    report_block_description: "MyDoge 将审查所有被举报的表情包，看是否有任何违反我们准则的行为。您还可以屏蔽该个人资料，以阻止看到他们的帖子。", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_block_description:
+      "MyDoge 将审查所有被举报的表情包，看是否有任何违反我们准则的行为。您还可以屏蔽该个人资料，以阻止看到他们的帖子。", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     report_or_block_user: "举报或屏蔽？", // Report or Block?
     are_you_sure_you_want_to_cancel_this_tip: "您确定要取消这笔小费吗？", // Are you sure you want to cancel this tip?
     yes_cancel: "是的，取消", // Yes, cancel
     allow_photos_access: "允许照片访问权限？", // Allow Photos Access?
-    enable_photo_access_in_order_to_post_memes: "启用照片访问权限以发布表情包。", // Enable photo access in order to post memes.
+    enable_photo_access_in_order_to_post_memes:
+      "启用照片访问权限以发布表情包。", // Enable photo access in order to post memes.
     cannot_upload_a_video_longer_than_60_seconds: "无法上传超过 60 秒的视频", // Cannot upload a video longer than 60 seconds
     sign_in_to_post_memes: "登录以发布表情包", // Sign in to post memes
     hidden_profiles_cannot_post: "隐藏的个人资料无法发帖", // Hidden profiles cannot post
@@ -366,7 +394,8 @@ export const zh = {
     unsupported_file: "不支持的文件", // Unsupported file
     unsupported_media_type: "不支持的媒体类型", // Unsupported media type
     no_security_enabled: "未启用安全措施", // No Security Enabled
-    passcode_touch_id_face_id_required_to_use_your_wallet: "使用您的钱包需要密码/Touch ID/Face ID。您想了解如何启用它吗？", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    passcode_touch_id_face_id_required_to_use_your_wallet:
+      "使用您的钱包需要密码/Touch ID/Face ID。您想了解如何启用它吗？", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
     yes_show_me_how: "是的，告诉我怎么做", // Yes, show me how
     the_meme_will_no_longer_be_posted: "表情包将不再发布", // The meme will no longer be posted
     retry_post: "重试发布？", // Retry post?
@@ -375,15 +404,18 @@ export const zh = {
     invalid_phrase: "无效短语", // Invalid phrase
     WARNING: "警告", // WARNING
     username_must_be_at_least_4_characters: "用户名必须至少包含 4 个字符", // Usernames must be at least 4 characters
-    username_must_contain_only_a_z_0_9_and_underscore: "用户名只能包含 A-Z、0-9 和 _", // Usernames must contain only A-Z, 0-9, and _
+    username_must_contain_only_a_z_0_9_and_underscore:
+      "用户名只能包含 A-Z、0-9 和 _", // Usernames must contain only A-Z, 0-9, and _
     username_not_available: "用户名不可用", // Username not available
     username_available: "用户名可用", // Username available
     error_try_again_or_contact_support: "错误。请重试或联系支持。", // Error. Try again or contact support.
-    enable_photo_access_in_order_to_change_your_avatar: "启用照片访问权限以更改您的头像。", // Enable photo access in order to change your avatar.
+    enable_photo_access_in_order_to_change_your_avatar:
+      "启用照片访问权限以更改您的头像。", // Enable photo access in order to change your avatar.
     invalid_seed_phrase_word: "无效的助记词", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "不是 MyDoge 助记词", // is not a MyDoge seed phrase word
     wallet_not_found: "未找到钱包！", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "您输入了一个或多个非标准单词！这将导入可能存在兼容性问题的钱包。只有在确定这是您的短语时才继续。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+      "您输入了一个或多个非标准单词！这将导入可能存在兼容性问题的钱包。只有在确定这是您的短语时才继续。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "警告", // Warning
     import: "导入", // Import
     iCloud_Drive_not_enabled: "未启用 iCloud Drive", // iCloud Drive not enabled
@@ -393,7 +425,8 @@ export const zh = {
     ban_user: "封禁用户", // Ban user
     ban_user_confirmation: "您确定要封禁这个用户吗？", // Are you sure you want to ban this user?
     ban: "封禁", // Ban
-    x_account_linked_to_another_user: "𝕏 账户已链接到另一个用户。要取消链接，请使用另一个电话号码登录并返回此屏幕", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    x_account_linked_to_another_user:
+      "𝕏 账户已链接到另一个用户。要取消链接，请使用另一个电话号码登录并返回此屏幕", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
     unexpected_error_contact_support: "意外错误，请联系支持", // Unexpected error, contact support
     not_a_valid_dogecoin_address: "不是有效的狗狗币地址", // Not a valid Dogecoin address
     balance_too_low_deposit_more_doge: "余额太低。请存入更多 DOGE。", // Balance too low. Deposit more DOGE.
@@ -417,14 +450,20 @@ export const zh = {
     incorrect_phrase: "短语不正确", // Incorrect phrase
     incorrect_pin: "PIN 不正确", // Incorrect PIN
     pin_updated: "PIN 已更新", // PIN updated
-    wallet_unlocked_you_may_enter_your_new_pin: "钱包已解锁。您可以输入新的 PIN", // Wallet unlocked. You may enter your new PIN
+    wallet_unlocked_you_may_enter_your_new_pin:
+      "钱包已解锁。您可以输入新的 PIN", // Wallet unlocked. You may enter your new PIN
     label_cannot_be_empty: "标签不能为空", // Label cannot be empty
     address_saved: "地址已保存", // Address saved
     label_already_exists: "标签已存在", // Label already exists
     too_many_requests_please_try_again_later: "请求次数过多。请稍后再试。", // Too many requests. Please try again later.
     invalid_code: "无效的代码。", // Invalid code.
     unsupported_country: "不支持的国家", // Unsupported country
-    invalid_phone_number: "无效的电话号码。\n使用格式 \"+<国家代码><电话号码>\"\n不能使用 VOIP 或固定电话号码。", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
-    invalid_phone_number_error: "无效的电话号码。请使用格式 \"+<国家代码><电话号码>\" 并确保它不是 VOIP 或固定电话号码。", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    invalid_phone_number:
+      "无效的电话号码。\n使用格式 \"+<国家代码><电话号码>\"\n不能使用 VOIP 或固定电话号码。", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error:
+      "无效的电话号码。请使用格式 \"+<国家代码><电话号码>\" 并确保它不是 VOIP 或固定电话号码。", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    amount_mismatch: "金额不匹配。请重试。", // Amount mismatch. Please try again.
+    amount_mismatch_warning:
+      "由于可花费交易有限，金额可能不匹配。请等待此交易确认后再发送另一笔交易。", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
   },
 };

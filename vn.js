@@ -189,7 +189,8 @@ export const vn = {
     read_mydogetip_faq: "Đọc FAQ về MyDogeTip", // Read the MyDogeTip FAQ
     connect_with_x: "Kết nối với 𝕏", // Connect with 𝕏
     start_receive_tips_twitch: "Bắt đầu nhận tiền tip trên Twitch", // Start receiving tips on Twitch
-    visit_mydogetv_twitch: "Truy cập MyDogeTV trên Twitch để biết thêm thông tin", // Visit MyDogeTV on Twitch for more info
+    visit_mydogetv_twitch:
+      "Truy cập MyDogeTV trên Twitch để biết thêm thông tin", // Visit MyDogeTV on Twitch for more info
     connect_with_twitch: "Kết nối với Twitch", // Connect with Twitch
     screen_not_exist: "Màn hình này không tồn tại.", // This screen doesn't exist.
     go_to_home_screen: "Đi đến Màn hình Chính", // Go to Home Screen
@@ -199,29 +200,35 @@ export const vn = {
     why_backups_important: "Tại sao sao lưu lại quan trọng?", // Why are backups important?
     learn_about_backups: "Nhấn để tìm hiểu về sao lưu", // Tap to learn about backups
     backup_to: "Sao lưu vào:", // Backup to
-    save_wallet_to_cloud:
-      "Lưu ví của bạn vào đám mây và bảo vệ bằng mật khẩu", // Save your wallet to the cloud and protect it with a password
+    save_wallet_to_cloud: "Lưu ví của bạn vào đám mây và bảo vệ bằng mật khẩu", // Save your wallet to the cloud and protect it with a password
     write_on_paper: "Viết ra giấy", // Write on paper
     write_down_seed_phrase:
       "Ghi lại Cụm từ khôi phục của bạn hoặc lưu vào trình quản lý mật khẩu", // Write down your Seed Phrase or save it in a password manager
     why_backups_important_description:
       "Tự quản lý có nghĩa là không ai khác có thể truy cập vào tiền của bạn, kể cả đội ngũ MyDoge. Sao lưu là cách duy nhất để khôi phục ví của bạn nếu thiết bị của bạn bị hỏng, mất hoặc bị đánh cắp, hoặc bị xóa.", // Self-custody means that nobody else can access your funds, not even the MyDoge team. A backup is the only way to restore your wallet if your device is damaged, lost or stolen, or erased.
     choose_password: "Chọn một mật khẩu", // Choose a password
-    use_memorable_password: "Vui lòng sử dụng mật khẩu bạn có thể nhớ. Mật khẩu dài hơn sẽ an toàn hơn.", // Please use a password you can remember. Longer passwords are more secure.
-    more_secure_password: "Vui lòng sử dụng mật khẩu bạn có thể nhớ. Mật khẩu dài hơn sẽ an toàn hơn.", // Please use a password you can remember. Longer passwords are more secure.
-    lose_password_lose_backup: "Nếu bạn mất mật khẩu này, bạn sẽ mất bản sao lưu ví của mình.", // If you lose this password you will lose your wallet backup.
+    use_memorable_password:
+      "Vui lòng sử dụng mật khẩu bạn có thể nhớ. Mật khẩu dài hơn sẽ an toàn hơn.", // Please use a password you can remember. Longer passwords are more secure.
+    more_secure_password:
+      "Vui lòng sử dụng mật khẩu bạn có thể nhớ. Mật khẩu dài hơn sẽ an toàn hơn.", // Please use a password you can remember. Longer passwords are more secure.
+    lose_password_lose_backup:
+      "Nếu bạn mất mật khẩu này, bạn sẽ mất bản sao lưu ví của mình.", // If you lose this password you will lose your wallet backup.
     password: "Mật khẩu", // Password
     confirm_password: "Xác nhận Mật khẩu", // Confirm Password
     confirm_backup: "Xác nhận Sao lưu", // Confirm Backup
     overwrite_backup_title: "Ghi đè lên bản sao lưu hiện có?", // Overwrite existing backup?
-    existing_wallet_overwrite_prompt: "Bạn đã có một ví được sao lưu trước đó trên đám mây. Bạn có muốn ghi đè lên nó không?", // You have an existing wallet previously backed up to the cloud. Do you want to overwrite it?
+    existing_wallet_overwrite_prompt:
+      "Bạn đã có một ví được sao lưu trước đó trên đám mây. Bạn có muốn ghi đè lên nó không?", // You have an existing wallet previously backed up to the cloud. Do you want to overwrite it?
     overwrite_backup: "Ghi đè lên bản sao lưu", // Overwrite backup
     import_existing_wallet: "Nhập ví hiện có", // Import existing wallet
     unknown_cloud_error: "Lỗi Đám mây Không xác định", // Unknown Cloud Error
-    unknown_cloud_error_body: "Đã xảy ra lỗi không xác định khi sao lưu lên đám mây.", // There was an unknown error while backing up to the cloud.
-    try_again_or_notify_support: "Vui lòng thử lại hoặc thông báo cho bộ phận hỗ trợ MyDoge.", // Please try again or notify MyDoge support.
+    unknown_cloud_error_body:
+      "Đã xảy ra lỗi không xác định khi sao lưu lên đám mây.", // There was an unknown error while backing up to the cloud.
+    try_again_or_notify_support:
+      "Vui lòng thử lại hoặc thông báo cho bộ phận hỗ trợ MyDoge.", // Please try again or notify MyDoge support.
     enter_recovery_password: "Nhập mật khẩu khôi phục", // Enter Recovery Password
-    enter_cloud_password_description: "Nhập mật khẩu bạn đã sử dụng để lưu trữ cụm từ khôi phục của mình trên đám mây", // Enter the password you used to store your seed phrase on the cloud
+    enter_cloud_password_description:
+      "Nhập mật khẩu bạn đã sử dụng để lưu trữ cụm từ khôi phục của mình trên đám mây", // Enter the password you used to store your seed phrase on the cloud
     import_wallet: "Nhập ví", // Import wallet
     imported_wallet_title: "Bạn đã nhập ví của mình", // You've imported your wallet
     imported_wallet_success: "Bạn đã nhập ví của mình thành công!", // You've successfully imported your wallet!
@@ -266,7 +273,8 @@ export const vn = {
     wallet_imported: "Đã nhập ví!", // Wallet imported!
     wallet_imported_body: "Ví của bạn đã sẵn sàng sử dụng.", // Your wallet is ready to use.
     restore_existing_wallet: "Khôi phục ví hiện có của bạn", // Restore your existing wallet
-    restore_existing_wallet_instructions: "Bạn đã có một ví rồi? Hãy khôi phục nó!", // So you've got a wallet already? Let's bring it back up then!
+    restore_existing_wallet_instructions:
+      "Bạn đã có một ví rồi? Hãy khôi phục nó!", // So you've got a wallet already? Let's bring it back up then!
     restore_from: "Khôi phục từ", // Restore from
     restore_from_cloud_description: "Khôi phục ví của bạn từ", // Restore your wallet from your
     restore_with_seed_phrase: "Khôi phục bằng Cụm từ khôi phục", // Restore with a seed phrase
@@ -387,29 +395,34 @@ export const vn = {
     you_may_not_have_backed_up_your_wallet:
       "Bạn hiện có bản sao lưu trên đám mây nhưng có thể bạn chưa sao lưu ví hiện tại của mình.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
     signed_in_as: "Đăng nhập như", // Signed in as
-    sign_in_to_restore_backup:
-      "Đăng nhập để khôi phục bản sao lưu", // Sign in to restore backup
+    sign_in_to_restore_backup: "Đăng nhập để khôi phục bản sao lưu", // Sign in to restore backup
     sign_in_with_google: "Đăng nhập với Google", // Sign in with Google
     sign_in_to_backup: "Đăng nhập để sao lưu", // Sign in to backup
     delete_meme: "Xóa meme?", // Delete meme?
-    delete_meme_confirmation: "Điều này sẽ xóa meme khỏi hồ sơ của bạn và Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
+    delete_meme_confirmation:
+      "Điều này sẽ xóa meme khỏi hồ sơ của bạn và Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
     meme_saved_to_gallery: "Meme đã được lưu vào thư viện!", // Meme saved to gallery!
     error_saving_meme: "Lỗi khi lưu meme.", // Error saving meme.
     report_or_block: "Báo cáo hoặc Chặn?", // Report or Block?
-    report_block_description: "MyDoge sẽ xem xét tất cả các meme bị báo cáo về bất kỳ hoạt động nào vi phạm hướng dẫn của chúng tôi. Bạn cũng có thể chặn hồ sơ để ngừng nhìn thấy các bài đăng của họ.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
+    report_block_description:
+      "MyDoge sẽ xem xét tất cả các meme bị báo cáo về bất kỳ hoạt động nào vi phạm hướng dẫn của chúng tôi. Bạn cũng có thể chặn hồ sơ để ngừng nhìn thấy các bài đăng của họ.", // MyDoge will review all reported memes for any activity against our guidelines. You can also block the profile to stop seeing their posts.
     report_or_block_user: "Báo cáo hoặc Chặn?", // Report or Block?
-    are_you_sure_you_want_to_cancel_this_tip: "Bạn có chắc chắn muốn hủy tiền tip này không?", // Are you sure you want to cancel this tip?
+    are_you_sure_you_want_to_cancel_this_tip:
+      "Bạn có chắc chắn muốn hủy tiền tip này không?", // Are you sure you want to cancel this tip?
     yes_cancel: "Có, hủy bỏ", // Yes, cancel
     allow_photos_access: "Cho phép truy cập Ảnh?", // Allow Photos Access?
-    enable_photo_access_in_order_to_post_memes: "Bật quyền truy cập ảnh để đăng meme.", // Enable photo access in order to post memes.
-    cannot_upload_a_video_longer_than_60_seconds: "Không thể tải lên video dài hơn 60 giây", // Cannot upload a video longer than 60 seconds
+    enable_photo_access_in_order_to_post_memes:
+      "Bật quyền truy cập ảnh để đăng meme.", // Enable photo access in order to post memes.
+    cannot_upload_a_video_longer_than_60_seconds:
+      "Không thể tải lên video dài hơn 60 giây", // Cannot upload a video longer than 60 seconds
     sign_in_to_post_memes: "Đăng nhập để đăng meme", // Sign in to post memes
     hidden_profiles_cannot_post: "Hồ sơ ẩn không thể đăng bài", // Hidden profiles cannot post
     error_posting_meme: "Lỗi khi đăng meme", // Error posting meme
     unsupported_file: "Tệp không được hỗ trợ", // Unsupported file
     unsupported_media_type: "Loại phương tiện không được hỗ trợ", // Unsupported media type
     no_security_enabled: "Chưa bật Bảo mật", // No Security Enabled
-    passcode_touch_id_face_id_required_to_use_your_wallet: "Yêu cầu Mã khóa/Touch ID/Face ID để sử dụng ví của bạn. Bạn có muốn xem cách bật nó không?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
+    passcode_touch_id_face_id_required_to_use_your_wallet:
+      "Yêu cầu Mã khóa/Touch ID/Face ID để sử dụng ví của bạn. Bạn có muốn xem cách bật nó không?", // Passcode/Touch ID/Face ID is required to use your wallet. Do you want to see how to enable it?
     yes_show_me_how: "Có, chỉ cho tôi cách", // Yes, show me how
     the_meme_will_no_longer_be_posted: "Meme sẽ không còn được đăng nữa", // The meme will no longer be posted
     retry_post: "Thử đăng lại?", // Retry post?
@@ -417,16 +430,21 @@ export const vn = {
     pins_dont_match_please_retry: "Mã PIN không khớp. Vui lòng thử lại", // Pins don't match. Please retry
     invalid_phrase: "Cụm từ không hợp lệ", // Invalid phrase
     WARNING: "CẢNH BÁO", // WARNING
-    username_must_be_at_least_4_characters: "Tên người dùng phải có ít nhất 4 ký tự", // Usernames must be at least 4 characters
-    username_must_contain_only_a_z_0_9_and_underscore: "Tên người dùng chỉ được chứa A-Z, 0-9 và _", // Usernames must contain only A-Z, 0-9, and _
+    username_must_be_at_least_4_characters:
+      "Tên người dùng phải có ít nhất 4 ký tự", // Usernames must be at least 4 characters
+    username_must_contain_only_a_z_0_9_and_underscore:
+      "Tên người dùng chỉ được chứa A-Z, 0-9 và _", // Usernames must contain only A-Z, 0-9, and _
     username_not_available: "Tên người dùng không khả dụng", // Username not available
     username_available: "Tên người dùng khả dụng", // Username available
     error_try_again_or_contact_support: "Lỗi. Thử lại hoặc liên hệ hỗ trợ.", // Error. Try again or contact support.
-    enable_photo_access_in_order_to_change_your_avatar: "Bật quyền truy cập ảnh để thay đổi ảnh đại diện của bạn.", // Enable photo access in order to change your avatar.
+    enable_photo_access_in_order_to_change_your_avatar:
+      "Bật quyền truy cập ảnh để thay đổi ảnh đại diện của bạn.", // Enable photo access in order to change your avatar.
     invalid_seed_phrase_word: "Từ trong cụm từ khôi phục không hợp lệ", // Invalid seed phrase word
-    is_not_a_mydoge_seed_phrase_word: "không phải là từ trong cụm từ khôi phục MyDoge", // is not a MyDoge seed phrase word
+    is_not_a_mydoge_seed_phrase_word:
+      "không phải là từ trong cụm từ khôi phục MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "Không tìm thấy Ví!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase: "Bạn đã nhập một hoặc nhiều từ không chuẩn! Điều này sẽ nhập một ví có thể gặp vấn đề về tương thích. Chỉ tiếp tục nếu bạn chắc chắn đây là cụm từ của bạn.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
+    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+      "Bạn đã nhập một hoặc nhiều từ không chuẩn! Điều này sẽ nhập một ví có thể gặp vấn đề về tương thích. Chỉ tiếp tục nếu bạn chắc chắn đây là cụm từ của bạn.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Cảnh báo", // Warning
     import: "Nhập", // Import
     iCloud_Drive_not_enabled: "iCloud Drive chưa được bật", // iCloud Drive not enabled
@@ -436,22 +454,29 @@ export const vn = {
     ban_user: "Cấm người dùng", // Ban user
     ban_user_confirmation: "Bạn có chắc chắn muốn cấm người dùng này không?", // Are you sure you want to ban this user?
     ban: "Cấm", // Ban
-    x_account_linked_to_another_user: "Tài khoản 𝕏 được liên kết với một người dùng khác. Để bỏ liên kết, vui lòng đăng nhập bằng số điện thoại khác và trở lại màn hình này", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
-    unexpected_error_contact_support: "Lỗi không mong đợi, vui lòng liên hệ hỗ trợ", // Unexpected error, contact support
+    x_account_linked_to_another_user:
+      "Tài khoản 𝕏 được liên kết với một người dùng khác. Để bỏ liên kết, vui lòng đăng nhập bằng số điện thoại khác và trở lại màn hình này", // 𝕏 account linked to another user. To unlink, please log in using the other phone number and return to this screen
+    unexpected_error_contact_support:
+      "Lỗi không mong đợi, vui lòng liên hệ hỗ trợ", // Unexpected error, contact support
     not_a_valid_dogecoin_address: "Không phải là địa chỉ Dogecoin hợp lệ", // Not a valid Dogecoin address
-    balance_too_low_deposit_more_doge: "Số dư quá thấp. Vui lòng nạp thêm DOGE.", // Balance too low. Deposit more DOGE.
+    balance_too_low_deposit_more_doge:
+      "Số dư quá thấp. Vui lòng nạp thêm DOGE.", // Balance too low. Deposit more DOGE.
     error_preparing_transaction: "Lỗi khi chuẩn bị giao dịch", // Error preparing transaction
     error_sending_transaction: "Lỗi khi gửi giao dịch", // Error sending transaction
-    max_transaction_size_allowed_for: "Kích thước giao dịch tối đa cho phép cho", // Max transaction size allowed for
+    max_transaction_size_allowed_for:
+      "Kích thước giao dịch tối đa cho phép cho", // Max transaction size allowed for
     qr_code_saved_to_gallery: "Mã QR đã được lưu vào thư viện", // QR code saved to gallery
     error_saving_qr_code: "Lỗi khi lưu mã QR", // Error saving QR code
     cannot_send_to_your_own_address: "Không thể gửi đến địa chỉ của chính bạn", // Cannot send to your own address
-    unsupported_format_or_not_a_doge_address: "Định dạng không được hỗ trợ hoặc không phải là địa chỉ DOGE", // Unsupported format or not a DOGE address
+    unsupported_format_or_not_a_doge_address:
+      "Định dạng không được hỗ trợ hoặc không phải là địa chỉ DOGE", // Unsupported format or not a DOGE address
     qr_not_found_in_file: "Không tìm thấy mã QR trong tệp", // QR not found in file
     unknown_file_error: "Lỗi tệp không xác định", // Unknown file error
     invalid_address: "Địa chỉ không hợp lệ", // Invalid address
-    error_preparing_transaction_try_again: "Lỗi khi chuẩn bị giao dịch. Vui lòng thử lại.", // Error preparing transaction. Please try again.
-    error_processing_transaction_please_try_again: "Lỗi khi xử lý giao dịch. Vui lòng thử lại.", // Error processing transaction. Please try again.
+    error_preparing_transaction_try_again:
+      "Lỗi khi chuẩn bị giao dịch. Vui lòng thử lại.", // Error preparing transaction. Please try again.
+    error_processing_transaction_please_try_again:
+      "Lỗi khi xử lý giao dịch. Vui lòng thử lại.", // Error processing transaction. Please try again.
     minimum_tip_amount_is: "Số tiền tip tối thiểu là", // Minimum tip amount is
     backup_failed: "Sao lưu thất bại", // Backup failed
     backup_successful: "Sao lưu thành công", // Backup successful
@@ -460,14 +485,21 @@ export const vn = {
     incorrect_phrase: "Cụm từ không chính xác", // Incorrect phrase
     incorrect_pin: "Mã PIN không chính xác", // Incorrect PIN
     pin_updated: "Đã cập nhật mã PIN", // PIN updated
-    wallet_unlocked_you_may_enter_your_new_pin: "Ví đã được mở khóa. Bạn có thể nhập mã PIN mới", // Wallet unlocked. You may enter your new PIN
+    wallet_unlocked_you_may_enter_your_new_pin:
+      "Ví đã được mở khóa. Bạn có thể nhập mã PIN mới", // Wallet unlocked. You may enter your new PIN
     label_cannot_be_empty: "Nhãn không thể để trống", // Label cannot be empty
     address_saved: "Đã lưu địa chỉ", // Address saved
     label_already_exists: "Nhãn đã tồn tại", // Label already exists
-    too_many_requests_please_try_again_later: "Quá nhiều yêu cầu. Vui lòng thử lại sau.", // Too many requests. Please try again later.
+    too_many_requests_please_try_again_later:
+      "Quá nhiều yêu cầu. Vui lòng thử lại sau.", // Too many requests. Please try again later.
     invalid_code: "Mã không hợp lệ.", // Invalid code.
     unsupported_country: "Quốc gia không được hỗ trợ", // Unsupported country
-    invalid_phone_number: "Số điện thoại không hợp lệ.\nSử dụng định dạng \"+<mã quốc gia><số điện thoại>\"\nKhông thể sử dụng VOIP hoặc số điện thoại cố định.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
-    invalid_phone_number_error: "Số điện thoại không hợp lệ. Vui lòng sử dụng định dạng \"+<mã quốc gia><số điện thoại>\" và đảm bảo nó không phải là số VOIP hoặc điện thoại cố định.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    invalid_phone_number:
+      "Số điện thoại không hợp lệ.\nSử dụng định dạng \"+<mã quốc gia><số điện thoại>\"\nKhông thể sử dụng VOIP hoặc số điện thoại cố định.", // Invalid phone number. Use the format \"+<Country code><Phone number>\" Cannot use VOIP or landline numbers.
+    invalid_phone_number_error:
+      "Số điện thoại không hợp lệ. Vui lòng sử dụng định dạng \"+<mã quốc gia><số điện thoại>\" và đảm bảo nó không phải là số VOIP hoặc điện thoại cố định.", // Invalid phone number. Please use the format \"+<Country code><Phone number>\" and make sure it is not a VOIP or landline number.
+    amount_mismatch: "Số tiền không khớp. Vui lòng thử lại.", // Amount mismatch. Please try again.
+    amount_mismatch_warning:
+      "Số tiền không khớp có thể là do số lượng giao dịch có thể chi tiêu hạn chế. Hãy đợi giao dịch này xác nhận trước khi gửi giao dịch khác.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
   },
 };
