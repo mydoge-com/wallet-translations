@@ -236,7 +236,7 @@ export const ja = {
     imported_wallet_success: "ウォレットのインポートに成功しました。", // You've successfully imported your wallet!
     secure_new_wallet: "新しいウォレットを安全にする", // Secure your new wallet
     set_pin: "6桁のPINを設定する", // Set a 6-digit PIN
-    reenter_pin: "6桁のPINを再入力してください", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "6桁のPINを再入力してください", // Re-enter 6-digit
     pin_payment_note: "支払いを送信するにはPINが必要です", // You'll need your PIN to send payments
     use_biometric: "指紋/顔認証を使用する", // Use Fingerprint/Face ID
     ask_every_time: "アプリを開くたびに確認する", // Ask every time I open the app

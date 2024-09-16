@@ -237,7 +237,7 @@ export const tr = {
     imported_wallet_success: "Cüzdanınızı başarıyla içe aktardınız!", // You've successfully imported your wallet!
     secure_new_wallet: "Yeni cüzdanınızı güvence altına alın", // Secure your new wallet
     set_pin: "6 haneli bir PIN belirleyin", // Set a 6-digit PIN
-    reenter_pin: "6 haneli PIN'i tekrar girin", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "6 haneli PIN'i tekrar girin", // Re-enter 6-digit PIN
     pin_payment_note: "Ödeme göndermek için PIN'inize ihtiyacınız olacak", // You'll need your PIN to send payments
     use_biometric: "Parmak İzi/Yüz Kimliği Kullan", // Use Fingerprint/Face ID
     ask_every_time: "Uygulamayı her açtığımda sor", // Ask every time I open the app

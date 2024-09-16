@@ -233,7 +233,7 @@ export const ko = {
     imported_wallet_success: "지갑을 성공적으로 가져왔습니다!", // You've successfully imported your wallet!
     secure_new_wallet: "새 지갑을 안전하게 보호하세요", // Secure your new wallet
     set_pin: "6자리 PIN 암호를 설정하세요", // Set a 6-digit PIN
-    reenter_pin: "6자리 PIN 암호를 다시 ​입력하세요.", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "6자리 PIN 암호를 다시 ​입력하세요.", // Re-enter 6-digit
     pin_payment_note: "지불금을 보내려면 PIN 암호가 필요합니다.", // You'll need your PIN to send payments
     use_biometric: "지문/얼굴 ID 사용", // Use Fingerprint/Face ID
     ask_every_time: "앱을 열 때마다 묻습니다.", // Ask every time I open the app

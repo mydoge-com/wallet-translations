@@ -242,7 +242,7 @@ export const fr = {
       "Vous avez importé votre portefeuille avec succès !", // You've successfully imported your wallet!
     secure_new_wallet: "Sécurisez votre nouveau portefeuille", // Secure your new wallet
     set_pin: "Définissez un code PIN à 6 chiffres", // Set a 6-digit PIN
-    reenter_pin: "Ré-entrez le code PIN à 6 chiffres", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "Ré-entrez le code PIN à 6 chiffres", // Re-enter 6-digit PIN
     pin_payment_note:
       "Vous aurez besoin de votre code PIN pour envoyer des paiements", // You'll need your PIN to send payments
     use_biometric: "Utiliser l'empreinte digitale/Face ID", // Use Fingerprint/Face ID

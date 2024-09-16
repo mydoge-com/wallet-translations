@@ -238,7 +238,7 @@ export const de = {
     imported_wallet_success: "Du hast deine Wallet erfolgreich importiert!", // You've successfully imported your wallet!
     secure_new_wallet: "Sichere deine neue Wallet ab", // Secure your new wallet
     set_pin: "6-stellige PIN vergeben", // Set a 6-digit PIN
-    reenter_pin: "6-stellige PIN wiederholen", // Re-enter 6-digit PIN_LENGTH
+    reenter_pin: "6-stellige PIN wiederholen", // Re-enter 6-digit
     pin_payment_note: "Du benötigst deine PIN um Zahlungen zu senden", // You'll need your PIN to send payments
     use_biometric: "Fingerabdruck/Gesichtserkennung benutzen", // Use Fingerprint/Face ID
     ask_every_time: "Jedes Mal fragen wenn ich die App öffne", // Ask every time I open the app
