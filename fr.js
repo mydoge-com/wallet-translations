@@ -386,7 +386,7 @@ export const fr = {
     you_have_no_posts_yet: "Vous n'avez pas encore de messages", // You have no posts yet
     no_posts_yet: "Pas encore de messages", // No posts yet
     amount: "Montant", // Amount
-    custom: "Coutume", // Custom
+    custom: "Personnalisé", // Custom
     add_a_message: "Ajouter un message", // Add a message
     find_friends: "Retrouver des amis", // Find friends
     cancel: "Annuler", // Cancel
