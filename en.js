@@ -42,14 +42,14 @@ export const en = {
     back_up_your_wallet_description:
       "Save your wallet to the cloud and protect it with a password. You can also write down your Seed Phrase or copy it to a password manager.",
     pin_description:
-      "If your forget your PIN, you will need to restore your wallet from a backup.",
+      "If you forget your PIN, you will need to restore your wallet from a backup.",
     change_pin: "Change PIN",
     your_pin_is_required:
       "Your PIN is required to make payments and perform sensitive actions.",
     use_fingerprint: "Use Fingerprint/Face ID",
     ask_every_time_i_open_the_app: "Ask every time I open the app",
     this_will_remove_all_wallet:
-      "This will remove all wallet related data from your device.",
+      "This will remove all wallet-related data from your device.",
     delete_wallet: "Delete Wallet",
     sign_in_to_the_dogeverse: "Sign in to the Dogeverse",
     dogeverse_intro_description:
@@ -150,7 +150,7 @@ export const en = {
     use_biometrics: "Use Biometrics",
     dismiss: "Dismiss",
     remove_wallet_data_description:
-      " This will remove all wallet related data from your device.",
+      " This will remove all wallet-related data from your device.",
     delete_profile_forever: "Delete your MyDoge Profile forever",
     sign_out: "Sign Out",
     delete_wallet_confirmation: "Hey! Are you sure?",
@@ -440,7 +440,7 @@ export const en = {
     is_not_a_mydoge_seed_phrase_word: "is not a MyDoge seed phrase word",
     wallet_not_found: "Wallet Not Found!",
     you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
-      "You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.",
+      "You have entered one or more non-standard words! This will import a wallet which may have compatibility issues. Only proceed if you are sure this is your phrase.",
     warning: "Warning",
     import: "Import",
     iCloud_Drive_not_enabled: "iCloud Drive not enabled",
