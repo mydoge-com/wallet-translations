@@ -446,7 +446,7 @@ export const ja = {
     is_not_a_mydoge_seed_phrase_word:
       "はMyDogeのシードフレーズの単語ではありません", // is not a MyDoge seed phrase word
     wallet_not_found: "ウォレットが見つかりません！", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "1つ以上の非標準の単語を入力しました！これにより、互換性の問題がある可能性のあるウォレットがインポートされます。これがあなたのフレーズであることを確信している場合のみ続行してください。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "警告", // Warning
     import: "インポート", // Import

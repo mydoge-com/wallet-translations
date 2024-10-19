@@ -455,7 +455,7 @@ export const es = {
     is_not_a_mydoge_seed_phrase_word:
       "no es una palabra de frase semilla de MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "¡Billetera no encontrada!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "¡Has introducido una o más palabras no estándar! Esto importará una billetera que puede tener problemas de compatibilidad. Solo procede si estás seguro de que esta es tu frase.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Advertencia", // Warning
     import: "Importar", // Import

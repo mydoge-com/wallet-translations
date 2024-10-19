@@ -446,7 +446,7 @@ export const tr = {
     invalid_seed_phrase_word: "Geçersiz tohum kelimesi", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "MyDoge tohum kelimesi değil", // is not a MyDoge seed phrase word
     wallet_not_found: "Cüzdan Bulunamadı!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Bir veya daha fazla standart olmayan kelime girdiniz! Bu, uyumluluk sorunları olabilecek bir cüzdanı içe aktaracaktır. Yalnızca bu ifadenin sizin olduğundan eminseniz devam edin.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Uyarı", // Warning
     import: "İçe Aktar", // Import

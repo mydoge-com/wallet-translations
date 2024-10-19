@@ -451,7 +451,7 @@ export const ru = {
     invalid_seed_phrase_word: "Недействительное слово сид-фразы", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "не является словом сид-фразы MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "Кошелек не найден!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Вы ввели одно или несколько нестандартных слов! Это импортирует кошелек, который может иметь проблемы совместимости. Продолжайте только если вы уверены, что это ваша фраза.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Предупреждение", // Warning
     import: "Импорт", // Import

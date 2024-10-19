@@ -414,7 +414,7 @@ export const zh = {
     invalid_seed_phrase_word: "无效的助记词", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "不是 MyDoge 助记词", // is not a MyDoge seed phrase word
     wallet_not_found: "未找到钱包！", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "您输入了一个或多个非标准单词！这将导入可能存在兼容性问题的钱包。只有在确定这是您的短语时才继续。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "警告", // Warning
     import: "导入", // Import

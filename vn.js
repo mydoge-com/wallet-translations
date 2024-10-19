@@ -443,7 +443,7 @@ export const vn = {
     is_not_a_mydoge_seed_phrase_word:
       "không phải là từ trong cụm từ khôi phục MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "Không tìm thấy Ví!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Bạn đã nhập một hoặc nhiều từ không chuẩn! Điều này sẽ nhập một ví có thể gặp vấn đề về tương thích. Chỉ tiếp tục nếu bạn chắc chắn đây là cụm từ của bạn.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Cảnh báo", // Warning
     import: "Nhập", // Import

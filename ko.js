@@ -439,7 +439,7 @@ export const ko = {
     invalid_seed_phrase_word: "유효하지 않은 시드 구문 단어", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "는 MyDoge 시드 구문 단어가 아닙니다", // is not a MyDoge seed phrase word
     wallet_not_found: "지갑을 찾을 수 없습니다!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "하나 이상의 비표준 단어를 입력했습니다! 이는 호환성 문제가 있을 수 있는 지갑을 가져옵니다. 이것이 귀하의 구문이라고 확신하는 경우에만 진행하세요.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "경고", // Warning
     import: "가져오기", // Import
