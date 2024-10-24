@@ -501,5 +501,27 @@ export const vn = {
     amount_mismatch: "Số tiền không khớp. Vui lòng thử lại.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Số tiền không khớp có thể là do số lượng giao dịch có thể chi tiêu hạn chế. Hãy đợi giao dịch này xác nhận trước khi gửi giao dịch khác.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID nhận dạng", // Inscription ID
+    address: "Địa chỉ", // Address
+    output_value: "Giá trị xuất", // Output Value
+    preview: "Xem trước", // Preview
+    content: "Nội dung", // Content
+    content_type: "Loại nội dung", // Content Type
+    genesis_transaction: "Giao dịch Genesis", // Genesis Transaction
+    nft_details: "Chi tiết NFT", // NFT Details
+    transfer: "Chuyển", // Transfer
+    transactions: "Giao dịch", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "Xác nhận chuyển NFT", // Confirm NFT Transfer
+    confirm_transfer: "Xác nhận chuyển", // Confirm Transfer
+    creating_transaction: "Đang tạo giao dịch...", // Creating transaction...
+    error_creating_transaction: "Lỗi khi tạo giao dịch", // Error creating transaction
+    youve_sent: "Bạn đã gửi", // You've sent
+    nft_sent: "NFT đã gửi", // NFT sent
+    transfer_nft: "Chuyển NFT", // Transfer NFT
+    transaction_history: "Lịch sử giao dịch", // Transaction History
+    view_all: "Xem tất cả", // View All
+    posts: "Bài đăng", // Posts
+    no_nfts_found: "Không tìm thấy NFT", // No NFTs found
   },
 };

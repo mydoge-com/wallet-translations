@@ -511,5 +511,27 @@ export const ru = {
     amount_mismatch: "Несоответствие суммы. Попробуйте еще раз.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Несоответствие сумм, вероятно, вызвано ограниченным количеством расходуемых транзакций. Подождите подтверждения этой транзакции, прежде чем отправлять другую.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID инскрипции", // Inscription ID
+    address: "Адрес", // Address
+    output_value: "Значение вывода", // Output Value
+    preview: "Предварительный просмотр", // Preview
+    content: "Контент", // Content
+    content_type: "Тип контента", // Content Type
+    genesis_transaction: "Транзакция Genesis", // Genesis Transaction
+    nft_details: "Детали NFT", // NFT Details
+    transfer: "Передать", // Transfer
+    transactions: "Транзакции", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "Подтвердить передачу NFT", // Confirm NFT Transfer
+    confirm_transfer: "Подтвердить передачу", // Confirm Transfer
+    creating_transaction: "Создание транзакции...", // Creating transaction...
+    error_creating_transaction: "Ошибка при создании транзакции", // Error creating transaction
+    youve_sent: "Вы отправили", // You've sent
+    nft_sent: "NFT отправлен", // NFT sent
+    transfer_nft: "Передать NFT", // Transfer NFT
+    transaction_history: "История транзакций", // Transaction History
+    view_all: "Просмотреть все", // View All
+    posts: "Посты", // Posts
+    no_nfts_found: "NFT не найдены", // No NFTs found
   },
 };

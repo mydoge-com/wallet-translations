@@ -491,5 +491,27 @@ export const ja = {
     amount_mismatch: "金額が一致しません。もう一度お試しください", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "金額の不一致は、使用可能な取引が限られていることが原因である可能性があります。別の取引を送信する前に、この取引が確認されるまでお待ちください。", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "インスクリプションID", // Inscription ID
+    address: "アドレス", // Address
+    output_value: "出力値", // Output Value
+    preview: "プレビュー", // Preview
+    content: "コンテンツ", // Content
+    content_type: "コンテンツタイプ", // Content Type
+    genesis_transaction: "ジェネシストランザクション", // Genesis Transaction
+    nft_details: "NFTの詳細", // NFT Details
+    transfer: "転送", // Transfer
+    transactions: "取引", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT転送を確認する", // Confirm NFT Transfer
+    confirm_transfer: "転送を確認する", // Confirm Transfer
+    creating_transaction: "取引を作成中...", // Creating transaction...
+    error_creating_transaction: "取引の作成中にエラーが発生しました", // Error creating transaction
+    youve_sent: "送信しました", // You've sent
+    nft_sent: "NFT送信済み", // NFT sent
+    transfer_nft: "NFT転送", // Transfer NFT
+    transaction_history: "取引履歴", // Transaction History
+    view_all: "すべて見る", // View All
+    posts: "投稿", // Posts
+    no_nfts_found: "NFTが見つかりません", // No NFTs found
   },
 };

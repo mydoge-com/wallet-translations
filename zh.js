@@ -465,5 +465,27 @@ export const zh = {
     amount_mismatch: "金额不匹配。请重试。", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "由于可花费交易有限，金额可能不匹配。请等待此交易确认后再发送另一笔交易。", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID 识别", // Inscription ID
+    address: "地址", // Address
+    output_value: "输出值", // Output Value
+    preview: "预览", // Preview
+    content: "内容", // Content
+    content_type: "内容类型", // Content Type
+    genesis_transaction: "创世交易", // Genesis Transaction
+    nft_details: "NFT 详情", // NFT Details
+    transfer: "转移", // Transfer
+    transactions: "交易", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "确认转移 NFT", // Confirm NFT Transfer
+    confirm_transfer: "确认转移", // Confirm Transfer
+    creating_transaction: "正在创建交易...", // Creating transaction...
+    error_creating_transaction: "创建交易时出错", // Error creating transaction
+    youve_sent: "你已发送", // You've sent
+    nft_sent: "NFT 已发送", // NFT sent
+    transfer_nft: "转移 NFT", // Transfer NFT
+    transaction_history: "交易历史", // Transaction History
+    view_all: "查看全部", // View All
+    posts: "帖子", // Posts
+    no_nfts_found: "未找到 NFT", // No NFTs found
   },
 };

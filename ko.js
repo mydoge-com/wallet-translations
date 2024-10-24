@@ -496,5 +496,27 @@ export const ko = {
     amount_mismatch: "금액이 일치하지 않습니다. 다시 시도해 주세요.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "금액 불일치는 지출 가능한 거래가 제한되어 있을 가능성이 높습니다. 다른 거래를 보내기 전에 이 거래가 확인될 때까지 기다리세요.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "인스크립션 ID", // Inscription ID
+    address: "주소", // Address
+    output_value: "출력 값", // Output Value
+    preview: "미리보기", // Preview
+    content: "콘텐츠", // Content
+    content_type: "콘텐츠 유형", // Content Type
+    genesis_transaction: "제네시스 거래", // Genesis Transaction
+    nft_details: "NFT 세부 정보", // NFT Details
+    transfer: "전송", // Transfer
+    transactions: "거래", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT 전송 확인", // Confirm NFT Transfer
+    confirm_transfer: "전송 확인", // Confirm Transfer
+    creating_transaction: "거래 생성 중...", // Creating transaction...
+    error_creating_transaction: "거래 생성 중 오류가 발생했습니다", // Error creating transaction
+    youve_sent: "보냈습니다", // You've sent
+    nft_sent: "NFT 전송됨", // NFT sent
+    transfer_nft: "NFT 전송", // Transfer NFT
+    transaction_history: "거래 기록", // Transaction History
+    view_all: "모두 보기", // View All
+    posts: "게시물", // Posts
+    no_nfts_found: "NFT를 찾을 수 없습니다", // No NFTs found
   },
 };

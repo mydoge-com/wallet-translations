@@ -505,5 +505,27 @@ export const tr = {
     amount_mismatch: "Tutar uyuşmuyor. Lütfen tekrar deneyin.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Tutar uyumsuzluğu muhtemelen sınırlı harcanabilir işlemlerden kaynaklanmaktadır. Başka bir işlem göndermeden önce bu işlemin onaylanmasını bekleyin.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "İnscription ID", // Inscription ID
+    address: "Adres", // Address
+    output_value: "Çıkış değeri", // Output Value
+    preview: "Önizleme", // Preview
+    content: "İçerik", // Content
+    content_type: "İçerik tipi", // Content Type
+    genesis_transaction: "Genesis işlemi", // Genesis Transaction
+    nft_details: "NFT detayları", // NFT Details
+    transfer: "Transfer", // Transfer
+    transactions: "İşlemler", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT transferini onayla", // Confirm NFT Transfer
+    confirm_transfer: "Transferi onayla", // Confirm Transfer
+    creating_transaction: "İşlem oluşturuluyor...", // Creating transaction...
+    error_creating_transaction: "İşlem oluşturulurken hata oluştu", // Error creating transaction
+    youve_sent: "Gönderildi", // You've sent
+    nft_sent: "NFT gönderildi", // NFT sent
+    transfer_nft: "NFT transferi", // Transfer NFT
+    transaction_history: "İşlem geçmişi", // Transaction History
+    view_all: "Tümünü gör", // View All
+    posts: "Gönderiler", // Posts
+    no_nfts_found: "NFT bulunamadı", // No NFTs found
   },
 };

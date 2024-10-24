@@ -508,5 +508,27 @@ export const pt = {
     amount_mismatch: "Incompatibilidade de valor. Por favor, tente novamente.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "A incompatibilidade de valores deve-se provavelmente a transações limitadas para gastar. Aguarde a confirmação desta transação antes de enviar outra.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID de inscrição", // Inscription ID
+    address: "Endereço", // Address
+    output_value: "Valor de saída", // Output Value
+    preview: "Visualizar", // Preview
+    content: "Conteúdo", // Content
+    content_type: "Tipo de conteúdo", // Content Type
+    genesis_transaction: "Transação de Genesis", // Genesis Transaction
+    nft_details: "Detalhes do NFT", // NFT Details
+    transfer: "Transferir", // Transfer
+    transactions: "Transações", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "Confirmar transferência de NFT", // Confirm NFT Transfer
+    confirm_transfer: "Confirmar transferência", // Confirm Transfer
+    creating_transaction: "Criando transação...", // Creating transaction...
+    error_creating_transaction: "Erro ao criar a transação", // Error creating transaction
+    youve_sent: "Você enviou", // You've sent
+    nft_sent: "NFT enviado", // NFT sent
+    transfer_nft: "Transferir NFT", // Transfer NFT
+    transaction_history: "Histórico de transações", // Transaction History
+    view_all: "Ver tudo", // View All
+    posts: "Publicações", // Posts
+    no_nfts_found: "NFTs não encontrados", // No NFTs found
   },
 };
