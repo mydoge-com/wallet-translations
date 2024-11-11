@@ -530,5 +530,23 @@ export const pt = {
     view_all: "Ver tudo", // View All
     posts: "Publicações", // Posts
     no_nfts_found: "NFTs não encontrados", // No NFTs found
+    tokens: "Fichas", // Tokens
+    transferable: "Transferível", // Transferable
+    token_details: "Detalhes do token", // Token Details
+    inscribe: "Inscrever", // Inscribe
+    floor_price: "Preço de piso", // Floor Price
+    twenty_four_hour_volume: "Volume de 24 horas", // 24H Volume
+    twenty_four_hour_change: "Alteração de 24 horas", // 24H Change
+    holders: "Titulares", // Holders
+    sales: "Vendas", // Sales
+    minted: "Mintado", // Minted
+    supply: "Suministro", // Supply
+    inscribe_for_transfer: "Inscrever para transferir", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Inicia o primeiro passo da transferência do seu", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Este passo torna a quantidade inscrita dos tokens disponível para transferência.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Último preço", // Last Price
+    info: "Informação", // Info
   },
 };

@@ -516,5 +516,31 @@ export const en = {
     view_all: "View All",
     posts: "Posts",
     no_nfts_found: "No NFTs found",
+    tokens: "Tokens",
+    transferable: "Transferable",
+    token_details: "Token Details",
+    inscribe: "Inscribe",
+    floor_price: "Floor Price",
+    twenty_four_hour_volume: "24H Volume",
+    twenty_four_hour_change: "24H Change",
+    holders: "Holders",
+    sales: "Sales",
+    minted: "Minted",
+    supply: "Supply",
+    inscribe_for_transfer: "Inscribe for Transfer",
+    inscribe_for_transfer_description_1:
+      "Initiate the first step of transferring your",
+    inscribe_for_transfer_description_2:
+      "This step makes the inscribed amount of tokens available for transfer.",
+    last_price: "Last Price",
+    error_creating_transaction_please_try_again:
+      "Error creating transaction. Please try again.",
+    error_creating_inscription_transaction_please_try_again:
+      "Error creating inscription transaction. Please try again.",
+    token_inscribed_successfully: "Token inscribed successfully",
+    error_inscribing_token_please_try_again:
+      "Error inscribing token. Please try again.",
+    token_inscription_amount: "Token Inscription Amount",
+    info: "Info",
   },
 };

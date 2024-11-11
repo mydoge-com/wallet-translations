@@ -523,5 +523,23 @@ export const vn = {
     view_all: "Xem tất cả", // View All
     posts: "Bài đăng", // Posts
     no_nfts_found: "Không tìm thấy NFT", // No NFTs found
+    tokens: "Fichas", // Tokens
+    transferable: "Chuyển được", // Transferable
+    token_details: "Chi tiết token", // Token Details
+    inscribe: "Nhận dạng", // Inscribe
+    floor_price: "Giá thấp", // Floor Price
+    twenty_four_hour_volume: "Thể tích 24 giờ", // 24H Volume
+    twenty_four_hour_change: "Thay đổi 24 giờ", // 24H Change
+    holders: "Người sở hữu", // Holders
+    sales: "Bán hàng", // Sales
+    minted: "Đã đúc", // Minted
+    supply: "Suministro", // Supply
+    inscribe_for_transfer: "Nhận dạng để chuyển", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Khởi đầu bước đầu tiên của việc chuyển đổi của bạn", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Bước này làm cho số lượng được nhận dạng của token có sẵn cho việc chuyển đổi.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Giá cuối cùng", // Last Price
+    info: "Thông tin", // Info
   },
 };

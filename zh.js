@@ -487,5 +487,23 @@ export const zh = {
     view_all: "查看全部", // View All
     posts: "帖子", // Posts
     no_nfts_found: "未找到 NFT", // No NFTs found
+    tokens: "代币", // Tokens
+    transferable: "可转移", // Transferable
+    token_details: "代币详情", // Token Details
+    inscribe: "识别", // Inscribe
+    floor_price: "地板价", // Floor Price
+    twenty_four_hour_volume: "24小时交易量", // 24H Volume
+    twenty_four_hour_change: "24小时变化", // 24H Change
+    holders: "持有者", // Holders
+    sales: "销售", // Sales
+    minted: "已铸造", // Minted
+    supply: "供应量", // Supply
+    inscribe_for_transfer: "识别以转移", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "开始转移你的", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "这一步使可识别的代币数量可用于转移。", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "最后价格", // Last Price
+    info: "信息", // Info
   },
 };

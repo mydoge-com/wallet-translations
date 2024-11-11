@@ -533,5 +533,23 @@ export const ru = {
     view_all: "Просмотреть все", // View All
     posts: "Посты", // Posts
     no_nfts_found: "NFT не найдены", // No NFTs found
+    tokens: "Токены", // Tokens
+    transferable: "Передаваемые", // Transferable
+    token_details: "Детали токена", // Token Details
+    inscribe: "Инскрипция", // Inscribe
+    floor_price: "Цена залога", // Floor Price
+    twenty_four_hour_volume: "Объем за 24 часа", // 24H Volume
+    twenty_four_hour_change: "Изменение за 24 часа", // 24H Change
+    holders: "Владельцы", // Holders
+    sales: "Продажи", // Sales
+    minted: "Минтировано", // Minted
+    supply: "Предложение", // Supply
+    inscribe_for_transfer: "Инскрипция для передачи", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Начинает первый шаг передачи вашего", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Этот шаг делает количество инскрипций доступным для передачи.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Последняя цена", // Last Price
+    info: "Информация", // Info
   },
 };

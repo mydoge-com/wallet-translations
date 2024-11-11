@@ -518,5 +518,23 @@ export const ko = {
     view_all: "모두 보기", // View All
     posts: "게시물", // Posts
     no_nfts_found: "NFT를 찾을 수 없습니다", // No NFTs found
+    tokens: "토큰", // Tokens
+    transferable: "전송 가능", // Transferable
+    token_details: "토큰 세부 정보", // Token Details
+    inscribe: "인스크립션", // Inscribe
+    floor_price: "바닥 가격", // Floor Price
+    twenty_four_hour_volume: "24시간 거래량", // 24H Volume
+    twenty_four_hour_change: "24시간 변경", // 24H Change
+    holders: "보유자", // Holders
+    sales: "판매", // Sales
+    minted: "민트됨", // Minted
+    supply: "공급", // Supply
+    inscribe_for_transfer: "전송을 위한 인스크립션", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "전송의 첫 번째 단계를 시작합니다", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "이 단계는 인스크립션된 토큰 양을 전송 가능하게 만듭니다.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "최종 가격", // Last Price
+    info: "정보", // Info
   },
 };

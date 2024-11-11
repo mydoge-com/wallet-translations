@@ -527,5 +527,23 @@ export const tr = {
     view_all: "Tümünü gör", // View All
     posts: "Gönderiler", // Posts
     no_nfts_found: "NFT bulunamadı", // No NFTs found
+    tokens: "Fichas", // Tokens
+    transferable: "Transferível", // Transferable
+    token_details: "Detalhes do token", // Token Details
+    inscribe: "Inscrever", // Inscribe
+    floor_price: "Taban fiyatı", // Floor Price
+    twenty_four_hour_volume: "24 saatlik hacim", // 24H Volume
+    twenty_four_hour_change: "24 saatlik değişim", // 24H Change
+    holders: "Sahipçiler", // Holders
+    sales: "Satışlar", // Sales
+    minted: "Minted", // Minted
+    supply: "Suministro", // Supply
+    inscribe_for_transfer: "Inscrever para transferir", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Inicia o primeiro passo da transferência do seu", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Este passo torna a quantidade inscrita dos tokens disponível para transferência.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Último preço", // Last Price
+    info: "Bilgi", // Info
   },
 };

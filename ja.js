@@ -513,5 +513,23 @@ export const ja = {
     view_all: "すべて見る", // View All
     posts: "投稿", // Posts
     no_nfts_found: "NFTが見つかりません", // No NFTs found
+    tokens: "トークン", // Tokens
+    transferable: "転送可能", // Transferable
+    token_details: "トークンの詳細", // Token Details
+    inscribe: "インスクリプション", // Inscribe
+    floor_price: "フロア価格", // Floor Price
+    twenty_four_hour_volume: "24時間の取引量", // 24H Volume
+    twenty_four_hour_change: "24時間の変更", // 24H Change
+    holders: "ホールダー", // Holders
+    sales: "販売", // Sales
+    minted: "ミント済み", // Minted
+    supply: "供給", // Supply
+    inscribe_for_transfer: "インスクリプションで転送", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "転送の最初のステップを開始します", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "このステップにより、インスクリプションされたトークンの量が転送可能になります。", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "最終価格", // Last Price
+    info: "情報", // Info
   },
 };
