@@ -309,7 +309,7 @@ export const tr = {
     to_post_a_comment: "yorum yapmak için", // to post a comment
     your_comment: "Yorumunuz", // Your comment
     post: "Gönder", // Post
-    delete: "Sil", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "Push Bildirimleri Etkinleştirilsin mi?", // Enable Push Notifications?
     get_notifications_for_tips: "Bahşişler ve Mesajlar için bildirim alın", // Get notifications for Tips and Messages
     no_thanks: "Hayır, teşekkürler", // No thanks

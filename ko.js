@@ -304,7 +304,7 @@ export const ko = {
     to_post_a_comment: "댓글을 게시하려면", // to post a comment
     your_comment: "귀하의 의견", // Your comment
     post: "Post", // Post
-    delete: "삭제", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "푸시 알림을 활성화하시겠습니까?", // Enable Push Notifications?
     get_notifications_for_tips: "팁과 메시지에 대한 알림 받기", // Get notifications for Tips and Messages
     no_thanks: "아니요, 괜찮아요.", // No thanks
@@ -530,8 +530,7 @@ export const ko = {
     minted: "민트됨", // Minted
     supply: "공급", // Supply
     inscribe_for_transfer: "전송을 위한 인스크립션", // Inscribe for Transfer
-    inscribe_for_transfer_description_1:
-      "전송의 첫 번째 단계를 시작합니다", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_1: "전송의 첫 번째 단계를 시작합니다", // Initiates the first step of transferring your
     inscribe_for_transfer_description_2:
       "이 단계는 인스크립션된 토큰 양을 전송 가능하게 만듭니다.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "최종 가격", // Last Price

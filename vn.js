@@ -306,7 +306,7 @@ export const vn = {
     to_post_a_comment: "để đăng một bình luận", // to post a comment
     your_comment: "Bình luận của bạn", // Your comment
     post: "Đăng", // Post
-    delete: "Xóa", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "Bật thông báo đẩy?", // Enable push notifications?
     get_notifications_for_tips: "Nhận thông báo cho gợi ý và tin nhắn", // Get notifications for Tips and Messages
     no_thanks: "Không, cảm ơn", // No thanks

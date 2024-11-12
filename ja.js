@@ -308,7 +308,7 @@ export const ja = {
     to_post_a_comment: "コメントする", // to post a comment
     your_comment: "あなたのコメント", // Your comment
     post: "ポストする", // Post
-    delete: "消去する", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "プッシュ通知を有効にしますか?", // Enable Push Notifications?
     get_notifications_for_tips: "チップとメッセージの通知を受け取る", // Get notifications for Tips and Messages
     no_thanks: "いいえ、結構です", // No thanks
@@ -525,8 +525,7 @@ export const ja = {
     minted: "ミント済み", // Minted
     supply: "供給", // Supply
     inscribe_for_transfer: "インスクリプションで転送", // Inscribe for Transfer
-    inscribe_for_transfer_description_1:
-      "転送の最初のステップを開始します", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_1: "転送の最初のステップを開始します", // Initiates the first step of transferring your
     inscribe_for_transfer_description_2:
       "このステップにより、インスクリプションされたトークンの量が転送可能になります。", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "最終価格", // Last Price

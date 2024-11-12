@@ -309,7 +309,7 @@ export const pt = {
     to_post_a_comment: "publicar um comentário", // to post a comment
     your_comment: "Seu comentário", // Your comment
     post: "Publicar", // Post
-    delete: "Excluir", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "Ativar notificações push?", // Enable Push Notifications?
     get_notifications_for_tips: "Receba notificações de dicas e mensagens", // Get notifications for Tips and Messages
     no_thanks: "Não, obrigado", // No thanks
@@ -388,21 +388,21 @@ export const pt = {
       "Depois de apagar este backup não poderá recuperar o backup na nuvem, esta ação não pode ser revertida", // Once you delete this backup, you lose your cloud backup, this action cannot be undone
     all_transactions: "todas as transacções", // All Transactions
     pending_transactions: "Transações pendentes", // Pending Transactions
-    view_on: "보기", // View on
-    invoice_id_copied: "송장 번호가 복사되었습니다.", // Invoice ID copied
-    gift_card: "기프트 카드", // Gift Card
-    invoice_id: "송장 번호", // Invoice ID
-    support: "지원하다", // Support
-    phone_number: "전화 번호", // Phone number
+    view_on: "Ver em", // View on
+    invoice_id_copied: "ID da fatura copiado.", // Invoice ID copied
+    gift_card: "Vale-presente", // Gift Card
+    invoice_id: "ID da fatura", // Invoice ID
+    support: "Apoio", // Support
+    phone_number: "Número de telefone", // Phone number
     whatsapp_verification_notice:
-      "WhatsApp을 통해 인증 코드가 휴대폰으로 전송됩니다.", // A verification code will be sent to your phone via WhatsApp
-    via_whatsapp: "WhatsApp을 통해", // via WhatsApp
+      "Um código de verificação será enviado para o seu telefone através do WhatsApp", // A verification code will be sent to your phone via WhatsApp
+    via_whatsapp: "através do WhatsApp", // via WhatsApp
     you_may_not_have_backed_up_your_wallet:
-      "클라우드에 기존 백업이 있지만 현재 지갑을 백업하지 않았을 수 있습니다.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
-    signed_in_as: "로그인되었습니다", // Signed in as
-    sign_in_to_restore_backup: "백업을 복원하려면 로그인하세요", // Sign in to restore backup
-    sign_in_with_google: "Google로 로그인", // Sign in with Google
-    sign_in_to_backup: "백업하려면 로그인하세요", // Sign in to backup
+      "Já tem um backup na nuvem, mas pode não ter feito backup da sua carteira atual.", // You have an existing backup on the cloud, but you may not have backed up your current wallet.
+    signed_in_as: "Ligado como", // Signed in as
+    sign_in_to_restore_backup: "Faça login para restaurar o backup", // Sign in to restore backup
+    sign_in_with_google: "Faça login com o Google", // Sign in with Google
+    sign_in_to_backup: "Faça login para fazer cópias de segurança", // Sign in to backup
     delete_meme: "Excluir meme?", // Delete meme?
     delete_meme_confirmation:
       "Isso removerá o meme do seu perfil e do Dogeverse.", // This will remove the meme from your profile and the Dogeverse.
@@ -502,9 +502,9 @@ export const pt = {
     invalid_code: "Código inválido.",
     unsupported_country: "País não suportado",
     invalid_phone_number:
-      "Número de telefone inválido.\nUse o formato \"+<código do país><número de telefone>\"\nNão pode usar VOIP ou números de telefone fixos.",
+      'Número de telefone inválido.\nUse o formato "+<código do país><número de telefone>"\nNão pode usar VOIP ou números de telefone fixos.',
     invalid_phone_number_error:
-      "Número de telefone inválido. Por favor, use o formato \"+<código do país><número de telefone>\" e certifique-se de que não é um número VOIP ou de telefone fixo.",
+      'Número de telefone inválido. Por favor, use o formato "+<código do país><número de telefone>" e certifique-se de que não é um número VOIP ou de telefone fixo.',
     amount_mismatch: "Incompatibilidade de valor. Por favor, tente novamente.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "A incompatibilidade de valores deve-se provavelmente a transações limitadas para gastar. Aguarde a confirmação desta transação antes de enviar outra.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
