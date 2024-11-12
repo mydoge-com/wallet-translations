@@ -315,7 +315,7 @@ export const fr = {
     to_post_a_comment: "pour poster un commentaire", // to post a comment
     your_comment: "Votre commentaire", // Your comment
     post: "Publier", // Post
-    delete: "Supprimer", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "Activer les notifications push ?", // Enable Push Notifications?
     get_notifications_for_tips:
       "Recevez des notifications pour les pourboires et les messages", // Get notifications for Tips and Messages

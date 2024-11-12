@@ -313,7 +313,7 @@ export const es = {
     to_post_a_comment: "Para publicar un comentario", // to post a comment
     your_comment: "Tu comentario", // Your comment
     post: "Correo", // Post
-    delete: "Borrar", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "¿Habilitar notificaciones automáticas?", // Enable Push Notifications?
     get_notifications_for_tips: "Recibir notificaciones de propinas y mensajes", // Get notifications for Tips and Messages
     no_thanks: "No, gracias", // No thanks

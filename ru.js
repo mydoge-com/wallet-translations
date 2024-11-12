@@ -312,7 +312,7 @@ export const ru = {
     to_post_a_comment: "чтобы оставить комментарий", // to post a comment
     your_comment: "Ваш комментарий", // Your comment
     post: "Опубликовать", // Post
-    delete: "Удалить", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "Включить push-уведомления?", // Enable Push Notifications?
     get_notifications_for_tips: "Получайте уведомления о чаевых и сообщениях", // Get notifications for Tips and Messages
     no_thanks: "Нет, спасибо", // No thanks
@@ -545,8 +545,7 @@ export const ru = {
     minted: "Минтировано", // Minted
     supply: "Предложение", // Supply
     inscribe_for_transfer: "Инскрипция для передачи", // Inscribe for Transfer
-    inscribe_for_transfer_description_1:
-      "Начинает первый шаг передачи вашего", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_1: "Начинает первый шаг передачи вашего", // Initiates the first step of transferring your
     inscribe_for_transfer_description_2:
       "Этот шаг делает количество инскрипций доступным для передачи.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Последняя цена", // Last Price

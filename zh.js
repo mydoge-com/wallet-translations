@@ -286,7 +286,7 @@ export const zh = {
     to_post_a_comment: "发表评论", // to post a comment
     your_comment: "你的评论", // Your comment
     post: "帖子", // Post
-    delete: "删除", // Delete
+    delete: "Delete", // Delete // Stays in English for UI compatibility
     enable_push_notifications: "启用推送通知吗？", // Enable Push Notifications?
     get_notifications_for_tips: "接收提示和消息的通知", // Get notifications for Tips and Messages
     no_thanks: "不，谢谢", // No thanks
@@ -499,10 +499,8 @@ export const zh = {
     minted: "已铸造", // Minted
     supply: "供应量", // Supply
     inscribe_for_transfer: "识别以转移", // Inscribe for Transfer
-    inscribe_for_transfer_description_1:
-      "开始转移你的", // Initiates the first step of transferring your
-    inscribe_for_transfer_description_2:
-      "这一步使可识别的代币数量可用于转移。", // This step makes the inscribed amount of tokens available for transfer.
+    inscribe_for_transfer_description_1: "开始转移你的", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2: "这一步使可识别的代币数量可用于转移。", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "最后价格", // Last Price
     info: "信息", // Info
   },
