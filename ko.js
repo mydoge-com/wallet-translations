@@ -439,7 +439,7 @@ export const ko = {
     invalid_seed_phrase_word: "유효하지 않은 시드 구문 단어", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "는 MyDoge 시드 구문 단어가 아닙니다", // is not a MyDoge seed phrase word
     wallet_not_found: "지갑을 찾을 수 없습니다!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "하나 이상의 비표준 단어를 입력했습니다! 이는 호환성 문제가 있을 수 있는 지갑을 가져옵니다. 이것이 귀하의 구문이라고 확신하는 경우에만 진행하세요.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "경고", // Warning
     import: "가져오기", // Import
@@ -496,5 +496,45 @@ export const ko = {
     amount_mismatch: "금액이 일치하지 않습니다. 다시 시도해 주세요.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "금액 불일치는 지출 가능한 거래가 제한되어 있을 가능성이 높습니다. 다른 거래를 보내기 전에 이 거래가 확인될 때까지 기다리세요.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "인스크립션 ID", // Inscription ID
+    address: "주소", // Address
+    output_value: "출력 값", // Output Value
+    preview: "미리보기", // Preview
+    content: "콘텐츠", // Content
+    content_type: "콘텐츠 유형", // Content Type
+    genesis_transaction: "제네시스 거래", // Genesis Transaction
+    nft_details: "NFT 세부 정보", // NFT Details
+    transfer: "전송", // Transfer
+    transactions: "거래", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT 전송 확인", // Confirm NFT Transfer
+    confirm_transfer: "전송 확인", // Confirm Transfer
+    creating_transaction: "거래 생성 중...", // Creating transaction...
+    error_creating_transaction: "거래 생성 중 오류가 발생했습니다", // Error creating transaction
+    youve_sent: "보냈습니다", // You've sent
+    nft_sent: "NFT 전송됨", // NFT sent
+    transfer_nft: "NFT 전송", // Transfer NFT
+    transaction_history: "거래 기록", // Transaction History
+    view_all: "모두 보기", // View All
+    posts: "게시물", // Posts
+    no_nfts_found: "NFT를 찾을 수 없습니다", // No NFTs found
+    tokens: "토큰", // Tokens
+    transferable: "전송 가능", // Transferable
+    token_details: "토큰 세부 정보", // Token Details
+    inscribe: "인스크립션", // Inscribe
+    floor_price: "바닥 가격", // Floor Price
+    twenty_four_hour_volume: "24시간 거래량", // 24H Volume
+    twenty_four_hour_change: "24시간 변경", // 24H Change
+    holders: "보유자", // Holders
+    sales: "판매", // Sales
+    minted: "민트됨", // Minted
+    supply: "공급", // Supply
+    inscribe_for_transfer: "전송을 위한 인스크립션", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "전송의 첫 번째 단계를 시작합니다", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "이 단계는 인스크립션된 토큰 양을 전송 가능하게 만듭니다.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "최종 가격", // Last Price
+    info: "정보", // Info
   },
 };

@@ -453,7 +453,7 @@ export const de = {
     invalid_seed_phrase_word: "Ungültiges Seed-Phrase-Wort", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "ist kein MyDoge-Seed-Phrase-Wort", // is not a MyDoge seed phrase word
     wallet_not_found: "Wallet nicht gefunden!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Du hast ein oder mehrere nicht standardmäßige Wörter eingegeben! Dies wird eine Wallet importieren, die möglicherweise Kompatibilitätsprobleme hat. Fahre nur fort, wenn du sicher bist, dass dies deine Phrase ist.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Warnung", // Warning
     import: "Importieren", // Import
@@ -513,5 +513,45 @@ export const de = {
       "Der Betrag stimmt nicht überein. Versuchen Sie es erneut.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Die Nichtübereinstimmung des Betrags ist wahrscheinlich auf eine begrenzte Anzahl von auszugebenden Transaktionen zurückzuführen. Warten Sie, bis diese Transaktion bestätigt wurde, bevor Sie eine weitere senden.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "Inscription ID", // Inscription ID
+    address: "Adresse", // Address
+    output_value: "Ausgabewert", // Output Value
+    preview: "Vorschau", // Preview
+    content: "Inhalt", // Content
+    content_type: "Inhaltstyp", // Content Type
+    genesis_transaction: "Genesis-Transaktion", // Genesis Transaction
+    nft_details: "NFT-Details", // NFT Details
+    transfer: "Übertragen", // Transfer
+    transactions: "Transaktionen", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT-Übertrag bestätigen", // Confirm NFT Transfer
+    confirm_transfer: "Übertragen", // Confirm Transfer
+    creating_transaction: "Transaktion erstellen...", // Creating transaction...
+    error_creating_transaction: "Fehler beim Erstellen der Transaktion", // Error creating transaction
+    youve_sent: "Du hast gesendet", // You've sent
+    nft_sent: "NFT gesendet", // NFT sent
+    transfer_nft: "NFT übertragen", // Transfer NFT
+    transaction_history: "Transaktionsverlauf", // Transaction History
+    view_all: "Alle ansehen", // View All
+    posts: "Beiträge", // Posts
+    no_nfts_found: "Keine NFTs gefunden", // No NFTs found
+    tokens: "Tokens", // Tokens
+    transferable: "Übertragbar", // Transferable
+    token_details: "Token-Details", // Token Details
+    inscribe: "Inskribieren", // Inscribe
+    floor_price: "Floor-Preis", // Floor Price
+    twenty_four_hour_volume: "24H-Volumen", // 24H Volume
+    twenty_four_hour_change: "24H-Veränderung", // 24H Change
+    holders: "Halter", // Holders
+    sales: "Verkäufe", // Sales
+    minted: "Minted", // Minted
+    supply: "Versorgung", // Supply
+    inscribe_for_transfer: "Inskribieren für Übertragung", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Initiiert den ersten Schritt der Übertragung Ihrer", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Dieser Schritt macht die eingeschriebene Menge der Tokens für die Übertragung verfügbar.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Letzter Preis", // Last Price
+    info: "Info", // Info
   },
 };

@@ -451,7 +451,7 @@ export const ru = {
     invalid_seed_phrase_word: "Недействительное слово сид-фразы", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "не является словом сид-фразы MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "Кошелек не найден!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Вы ввели одно или несколько нестандартных слов! Это импортирует кошелек, который может иметь проблемы совместимости. Продолжайте только если вы уверены, что это ваша фраза.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Предупреждение", // Warning
     import: "Импорт", // Import
@@ -511,5 +511,45 @@ export const ru = {
     amount_mismatch: "Несоответствие суммы. Попробуйте еще раз.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Несоответствие сумм, вероятно, вызвано ограниченным количеством расходуемых транзакций. Подождите подтверждения этой транзакции, прежде чем отправлять другую.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID инскрипции", // Inscription ID
+    address: "Адрес", // Address
+    output_value: "Значение вывода", // Output Value
+    preview: "Предварительный просмотр", // Preview
+    content: "Контент", // Content
+    content_type: "Тип контента", // Content Type
+    genesis_transaction: "Транзакция Genesis", // Genesis Transaction
+    nft_details: "Детали NFT", // NFT Details
+    transfer: "Передать", // Transfer
+    transactions: "Транзакции", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "Подтвердить передачу NFT", // Confirm NFT Transfer
+    confirm_transfer: "Подтвердить передачу", // Confirm Transfer
+    creating_transaction: "Создание транзакции...", // Creating transaction...
+    error_creating_transaction: "Ошибка при создании транзакции", // Error creating transaction
+    youve_sent: "Вы отправили", // You've sent
+    nft_sent: "NFT отправлен", // NFT sent
+    transfer_nft: "Передать NFT", // Transfer NFT
+    transaction_history: "История транзакций", // Transaction History
+    view_all: "Просмотреть все", // View All
+    posts: "Посты", // Posts
+    no_nfts_found: "NFT не найдены", // No NFTs found
+    tokens: "Токены", // Tokens
+    transferable: "Передаваемые", // Transferable
+    token_details: "Детали токена", // Token Details
+    inscribe: "Инскрипция", // Inscribe
+    floor_price: "Цена залога", // Floor Price
+    twenty_four_hour_volume: "Объем за 24 часа", // 24H Volume
+    twenty_four_hour_change: "Изменение за 24 часа", // 24H Change
+    holders: "Владельцы", // Holders
+    sales: "Продажи", // Sales
+    minted: "Минтировано", // Minted
+    supply: "Предложение", // Supply
+    inscribe_for_transfer: "Инскрипция для передачи", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Начинает первый шаг передачи вашего", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Этот шаг делает количество инскрипций доступным для передачи.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Последняя цена", // Last Price
+    info: "Информация", // Info
   },
 };

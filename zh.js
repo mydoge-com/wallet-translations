@@ -414,7 +414,7 @@ export const zh = {
     invalid_seed_phrase_word: "无效的助记词", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "不是 MyDoge 助记词", // is not a MyDoge seed phrase word
     wallet_not_found: "未找到钱包！", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "您输入了一个或多个非标准单词！这将导入可能存在兼容性问题的钱包。只有在确定这是您的短语时才继续。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "警告", // Warning
     import: "导入", // Import
@@ -465,5 +465,45 @@ export const zh = {
     amount_mismatch: "金额不匹配。请重试。", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "由于可花费交易有限，金额可能不匹配。请等待此交易确认后再发送另一笔交易。", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID 识别", // Inscription ID
+    address: "地址", // Address
+    output_value: "输出值", // Output Value
+    preview: "预览", // Preview
+    content: "内容", // Content
+    content_type: "内容类型", // Content Type
+    genesis_transaction: "创世交易", // Genesis Transaction
+    nft_details: "NFT 详情", // NFT Details
+    transfer: "转移", // Transfer
+    transactions: "交易", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "确认转移 NFT", // Confirm NFT Transfer
+    confirm_transfer: "确认转移", // Confirm Transfer
+    creating_transaction: "正在创建交易...", // Creating transaction...
+    error_creating_transaction: "创建交易时出错", // Error creating transaction
+    youve_sent: "你已发送", // You've sent
+    nft_sent: "NFT 已发送", // NFT sent
+    transfer_nft: "转移 NFT", // Transfer NFT
+    transaction_history: "交易历史", // Transaction History
+    view_all: "查看全部", // View All
+    posts: "帖子", // Posts
+    no_nfts_found: "未找到 NFT", // No NFTs found
+    tokens: "代币", // Tokens
+    transferable: "可转移", // Transferable
+    token_details: "代币详情", // Token Details
+    inscribe: "识别", // Inscribe
+    floor_price: "地板价", // Floor Price
+    twenty_four_hour_volume: "24小时交易量", // 24H Volume
+    twenty_four_hour_change: "24小时变化", // 24H Change
+    holders: "持有者", // Holders
+    sales: "销售", // Sales
+    minted: "已铸造", // Minted
+    supply: "供应量", // Supply
+    inscribe_for_transfer: "识别以转移", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "开始转移你的", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "这一步使可识别的代币数量可用于转移。", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "最后价格", // Last Price
+    info: "信息", // Info
   },
 };

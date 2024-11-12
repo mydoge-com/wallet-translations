@@ -446,7 +446,7 @@ export const ja = {
     is_not_a_mydoge_seed_phrase_word:
       "はMyDogeのシードフレーズの単語ではありません", // is not a MyDoge seed phrase word
     wallet_not_found: "ウォレットが見つかりません！", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "1つ以上の非標準の単語を入力しました！これにより、互換性の問題がある可能性のあるウォレットがインポートされます。これがあなたのフレーズであることを確信している場合のみ続行してください。", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "警告", // Warning
     import: "インポート", // Import
@@ -491,5 +491,45 @@ export const ja = {
     amount_mismatch: "金額が一致しません。もう一度お試しください", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "金額の不一致は、使用可能な取引が限られていることが原因である可能性があります。別の取引を送信する前に、この取引が確認されるまでお待ちください。", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "インスクリプションID", // Inscription ID
+    address: "アドレス", // Address
+    output_value: "出力値", // Output Value
+    preview: "プレビュー", // Preview
+    content: "コンテンツ", // Content
+    content_type: "コンテンツタイプ", // Content Type
+    genesis_transaction: "ジェネシストランザクション", // Genesis Transaction
+    nft_details: "NFTの詳細", // NFT Details
+    transfer: "転送", // Transfer
+    transactions: "取引", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT転送を確認する", // Confirm NFT Transfer
+    confirm_transfer: "転送を確認する", // Confirm Transfer
+    creating_transaction: "取引を作成中...", // Creating transaction...
+    error_creating_transaction: "取引の作成中にエラーが発生しました", // Error creating transaction
+    youve_sent: "送信しました", // You've sent
+    nft_sent: "NFT送信済み", // NFT sent
+    transfer_nft: "NFT転送", // Transfer NFT
+    transaction_history: "取引履歴", // Transaction History
+    view_all: "すべて見る", // View All
+    posts: "投稿", // Posts
+    no_nfts_found: "NFTが見つかりません", // No NFTs found
+    tokens: "トークン", // Tokens
+    transferable: "転送可能", // Transferable
+    token_details: "トークンの詳細", // Token Details
+    inscribe: "インスクリプション", // Inscribe
+    floor_price: "フロア価格", // Floor Price
+    twenty_four_hour_volume: "24時間の取引量", // 24H Volume
+    twenty_four_hour_change: "24時間の変更", // 24H Change
+    holders: "ホールダー", // Holders
+    sales: "販売", // Sales
+    minted: "ミント済み", // Minted
+    supply: "供給", // Supply
+    inscribe_for_transfer: "インスクリプションで転送", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "転送の最初のステップを開始します", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "このステップにより、インスクリプションされたトークンの量が転送可能になります。", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "最終価格", // Last Price
+    info: "情報", // Info
   },
 };

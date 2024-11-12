@@ -446,7 +446,7 @@ export const tr = {
     invalid_seed_phrase_word: "Geçersiz tohum kelimesi", // Invalid seed phrase word
     is_not_a_mydoge_seed_phrase_word: "MyDoge tohum kelimesi değil", // is not a MyDoge seed phrase word
     wallet_not_found: "Cüzdan Bulunamadı!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Bir veya daha fazla standart olmayan kelime girdiniz! Bu, uyumluluk sorunları olabilecek bir cüzdanı içe aktaracaktır. Yalnızca bu ifadenin sizin olduğundan eminseniz devam edin.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Uyarı", // Warning
     import: "İçe Aktar", // Import
@@ -505,5 +505,45 @@ export const tr = {
     amount_mismatch: "Tutar uyuşmuyor. Lütfen tekrar deneyin.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Tutar uyumsuzluğu muhtemelen sınırlı harcanabilir işlemlerden kaynaklanmaktadır. Başka bir işlem göndermeden önce bu işlemin onaylanmasını bekleyin.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "İnscription ID", // Inscription ID
+    address: "Adres", // Address
+    output_value: "Çıkış değeri", // Output Value
+    preview: "Önizleme", // Preview
+    content: "İçerik", // Content
+    content_type: "İçerik tipi", // Content Type
+    genesis_transaction: "Genesis işlemi", // Genesis Transaction
+    nft_details: "NFT detayları", // NFT Details
+    transfer: "Transfer", // Transfer
+    transactions: "İşlemler", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "NFT transferini onayla", // Confirm NFT Transfer
+    confirm_transfer: "Transferi onayla", // Confirm Transfer
+    creating_transaction: "İşlem oluşturuluyor...", // Creating transaction...
+    error_creating_transaction: "İşlem oluşturulurken hata oluştu", // Error creating transaction
+    youve_sent: "Gönderildi", // You've sent
+    nft_sent: "NFT gönderildi", // NFT sent
+    transfer_nft: "NFT transferi", // Transfer NFT
+    transaction_history: "İşlem geçmişi", // Transaction History
+    view_all: "Tümünü gör", // View All
+    posts: "Gönderiler", // Posts
+    no_nfts_found: "NFT bulunamadı", // No NFTs found
+    tokens: "Fichas", // Tokens
+    transferable: "Transferível", // Transferable
+    token_details: "Detalhes do token", // Token Details
+    inscribe: "Inscrever", // Inscribe
+    floor_price: "Taban fiyatı", // Floor Price
+    twenty_four_hour_volume: "24 saatlik hacim", // 24H Volume
+    twenty_four_hour_change: "24 saatlik değişim", // 24H Change
+    holders: "Sahipçiler", // Holders
+    sales: "Satışlar", // Sales
+    minted: "Minted", // Minted
+    supply: "Suministro", // Supply
+    inscribe_for_transfer: "Inscrever para transferir", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Inicia o primeiro passo da transferência do seu", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Este passo torna a quantidade inscrita dos tokens disponível para transferência.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Último preço", // Last Price
+    info: "Bilgi", // Info
   },
 };

@@ -443,7 +443,7 @@ export const vn = {
     is_not_a_mydoge_seed_phrase_word:
       "không phải là từ trong cụm từ khôi phục MyDoge", // is not a MyDoge seed phrase word
     wallet_not_found: "Không tìm thấy Ví!", // Wallet Not Found!
-    you_have_entered_one_or_more_non_standard_words_this_will_import_a_wallet_which_may_have_compatibilty_issues_only_proceed_if_you_are_sure_this_is_your_phrase:
+    non_standard_words:
       "Bạn đã nhập một hoặc nhiều từ không chuẩn! Điều này sẽ nhập một ví có thể gặp vấn đề về tương thích. Chỉ tiếp tục nếu bạn chắc chắn đây là cụm từ của bạn.", // You have entered one or more non-standard words! This will import a wallet which may have compatibilty issues. Only proceed if you are sure this is your phrase.
     warning: "Cảnh báo", // Warning
     import: "Nhập", // Import
@@ -501,5 +501,45 @@ export const vn = {
     amount_mismatch: "Số tiền không khớp. Vui lòng thử lại.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "Số tiền không khớp có thể là do số lượng giao dịch có thể chi tiêu hạn chế. Hãy đợi giao dịch này xác nhận trước khi gửi giao dịch khác.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
+    inscription_id: "ID nhận dạng", // Inscription ID
+    address: "Địa chỉ", // Address
+    output_value: "Giá trị xuất", // Output Value
+    preview: "Xem trước", // Preview
+    content: "Nội dung", // Content
+    content_type: "Loại nội dung", // Content Type
+    genesis_transaction: "Giao dịch Genesis", // Genesis Transaction
+    nft_details: "Chi tiết NFT", // NFT Details
+    transfer: "Chuyển", // Transfer
+    transactions: "Giao dịch", // Transactions
+    nfts: "NFTs", // NFTs
+    confirm_nft_transfer: "Xác nhận chuyển NFT", // Confirm NFT Transfer
+    confirm_transfer: "Xác nhận chuyển", // Confirm Transfer
+    creating_transaction: "Đang tạo giao dịch...", // Creating transaction...
+    error_creating_transaction: "Lỗi khi tạo giao dịch", // Error creating transaction
+    youve_sent: "Bạn đã gửi", // You've sent
+    nft_sent: "NFT đã gửi", // NFT sent
+    transfer_nft: "Chuyển NFT", // Transfer NFT
+    transaction_history: "Lịch sử giao dịch", // Transaction History
+    view_all: "Xem tất cả", // View All
+    posts: "Bài đăng", // Posts
+    no_nfts_found: "Không tìm thấy NFT", // No NFTs found
+    tokens: "Fichas", // Tokens
+    transferable: "Chuyển được", // Transferable
+    token_details: "Chi tiết token", // Token Details
+    inscribe: "Nhận dạng", // Inscribe
+    floor_price: "Giá thấp", // Floor Price
+    twenty_four_hour_volume: "Thể tích 24 giờ", // 24H Volume
+    twenty_four_hour_change: "Thay đổi 24 giờ", // 24H Change
+    holders: "Người sở hữu", // Holders
+    sales: "Bán hàng", // Sales
+    minted: "Đã đúc", // Minted
+    supply: "Suministro", // Supply
+    inscribe_for_transfer: "Nhận dạng để chuyển", // Inscribe for Transfer
+    inscribe_for_transfer_description_1:
+      "Khởi đầu bước đầu tiên của việc chuyển đổi của bạn", // Initiates the first step of transferring your
+    inscribe_for_transfer_description_2:
+      "Bước này làm cho số lượng được nhận dạng của token có sẵn cho việc chuyển đổi.", // This step makes the inscribed amount of tokens available for transfer.
+    last_price: "Giá cuối cùng", // Last Price
+    info: "Thông tin", // Info
   },
 };
