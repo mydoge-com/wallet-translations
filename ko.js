@@ -535,5 +535,11 @@ export const ko = {
       "이 단계는 인스크립션된 토큰 양을 전송 가능하게 만듭니다.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "최종 가격", // Last Price
     info: "정보", // Info
+    retry: "다시 시도", // Retry
+    select: "선택", // Select
+    inscription: "인스크립션", // Inscription
+    error_fetching_user_details: "사용자 세부 정보 가져오기 중 오류가 발생했습니다", // Error fetching user details
+    transfer_token: "토큰 전송", // Transfer Token
+    no_inscriptions_found: "인스크립션을 찾을 수 없습니다", // No inscriptions found
   },
 };

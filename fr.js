@@ -541,5 +541,11 @@ export const fr = {
       "Ce pas rend la quantité inscrite des tokens disponibles pour la transfert.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Dernier prix", // Last Price
     info: "Info", // Info
+    retry: "Réessayer", // Retry
+    select: "Sélectionner", // Select
+    inscription: "Inscription", // Inscription
+    error_fetching_user_details: "Erreur lors de l'obtention des détails de l'utilisateur", // Error fetching user details
+    transfer_token: "Transférer le token", // Transfer Token
+    no_inscriptions_found: "Aucune inscription trouvée", // No inscriptions found
   },
 };

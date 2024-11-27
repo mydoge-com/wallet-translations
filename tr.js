@@ -545,5 +545,11 @@ export const tr = {
       "Este passo torna a quantidade inscrita dos tokens disponível para transferência.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Último preço", // Last Price
     info: "Bilgi", // Info
+    retry: "Tekrar deneyin", // Retry
+    select: "Seçin", // Select
+    inscription: "İnscription", // Inscription
+    error_fetching_user_details: "Kullanıcı detayları alırken hata oluştu", // Error fetching user details
+    transfer_token: "Token transferi", // Transfer Token
+    no_inscriptions_found: "İnscription bulunamadı", // No inscriptions found
   },
 };

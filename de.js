@@ -553,5 +553,11 @@ export const de = {
       "Dieser Schritt macht die eingeschriebene Menge der Tokens für die Übertragung verfügbar.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Letzter Preis", // Last Price
     info: "Info", // Info
+    retry: "Wiederholen", // Retry
+    select: "Auswählen", // Select
+    inscription: "Inskription", // Inscription
+    error_fetching_user_details: "Fehler beim Abrufen der Benutzerdetails", // Error fetching user details
+    transfer_token: "Token übertragen", // Transfer Token
+    no_inscriptions_found: "Keine Inskriptionen gefunden", // No inscriptions found
   },
 };
