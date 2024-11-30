@@ -550,5 +550,11 @@ export const ru = {
       "Этот шаг делает количество инскрипций доступным для передачи.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Последняя цена", // Last Price
     info: "Информация", // Info
+    retry: "Повторить", // Retry
+    select: "Выбрать", // Select
+    inscription: "Инскрипция", // Inscription
+    error_fetching_user_details: "Ошибка при получении данных пользователя", // Error fetching user details
+    transfer_token: "Передать токен", // Transfer Token
+    no_inscriptions_found: "Инскрипции не найдены", // No inscriptions found
   },
 };

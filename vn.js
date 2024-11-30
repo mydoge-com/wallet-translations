@@ -541,5 +541,11 @@ export const vn = {
       "Bước này làm cho số lượng được nhận dạng của token có sẵn cho việc chuyển đổi.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Giá cuối cùng", // Last Price
     info: "Thông tin", // Info
+    retry: "Thử lại", // Retry
+    select: "Chọn", // Select
+    inscription: "Nhận dạng", // Inscription
+    error_fetching_user_details: "Lỗi khi lấy thông tin người dùng", // Error fetching user details
+    transfer_token: "Chuyển token", // Transfer Token
+    no_inscriptions_found: "Không tìm thấy nhận dạng", // No inscriptions found
   },
 };

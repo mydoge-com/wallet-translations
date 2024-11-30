@@ -530,5 +530,11 @@ export const ja = {
       "このステップにより、インスクリプションされたトークンの量が転送可能になります。", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "最終価格", // Last Price
     info: "情報", // Info
+    retry: "再試行", // Retry
+    select: "選択", // Select
+    inscription: "インスクリプション", // Inscription
+    error_fetching_user_details: "ユーザーの詳細を取得中にエラーが発生しました", // Error fetching user details
+    transfer_token: "トークン転送", // Transfer Token
+    no_inscriptions_found: "インスクリプションが見つかりません", // No inscriptions found
   },
 };

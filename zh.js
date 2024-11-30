@@ -503,5 +503,11 @@ export const zh = {
     inscribe_for_transfer_description_2: "这一步使可识别的代币数量可用于转移。", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "最后价格", // Last Price
     info: "信息", // Info
+    retry: "重试", // Retry
+    select: "选择", // Select
+    inscription: "识别", // Inscription
+    error_fetching_user_details: "获取用户详情时出错", // Error fetching user details
+    transfer_token: "转移代币", // Transfer Token
+    no_inscriptions_found: "未找到识别", // No inscriptions found
   },
 };

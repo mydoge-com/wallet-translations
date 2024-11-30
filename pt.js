@@ -502,9 +502,9 @@ export const pt = {
     invalid_code: "Código inválido.",
     unsupported_country: "País não suportado",
     invalid_phone_number:
-      'Número de telefone inválido.\nUse o formato "+<código do país><número de telefone>"\nNão pode usar VOIP ou números de telefone fixos.',
+      "Número de telefone inválido.\nUse o formato \"+<código do país><número de telefone>\"\nNão pode usar VOIP ou números de telefone fixos.",
     invalid_phone_number_error:
-      'Número de telefone inválido. Por favor, use o formato "+<código do país><número de telefone>" e certifique-se de que não é um número VOIP ou de telefone fixo.',
+      "Número de telefone inválido.\nUse o formato \"+<código do país><número de telefone>\"\nNão pode usar VOIP ou números de telefone fixos.",
     amount_mismatch: "Incompatibilidade de valor. Por favor, tente novamente.", // Amount mismatch. Please try again.
     amount_mismatch_warning:
       "A incompatibilidade de valores deve-se provavelmente a transações limitadas para gastar. Aguarde a confirmação desta transação antes de enviar outra.", // Amount mismatch is likely due to limited spendable transactions. Wait for this transaction to confirm before sending another.
@@ -548,5 +548,11 @@ export const pt = {
       "Este passo torna a quantidade inscrita dos tokens disponível para transferência.", // This step makes the inscribed amount of tokens available for transfer.
     last_price: "Último preço", // Last Price
     info: "Informação", // Info
+    retry: "Tentar novamente", // Retry
+    select: "Selecionar", // Select
+    inscription: "Inscrição", // Inscription
+    error_fetching_user_details: "Erro ao obter os detalhes do usuário", // Error fetching user details
+    transfer_token: "Transferir token", // Transfer Token
+    no_inscriptions_found: "Nenhuma inscrição encontrada", // No inscriptions found
   },
 };
