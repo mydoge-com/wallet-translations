@@ -540,6 +540,7 @@ export const ru = {
     floor_price: "Цена залога", // Floor Price
     twenty_four_hour_volume: "Объем за 24 часа", // 24H Volume
     twenty_four_hour_change: "Изменение за 24 часа", // 24H Change
+    volume: "Общий объем", // Total Volume
     holders: "Владельцы", // Holders
     sales: "Продажи", // Sales
     minted: "Минтировано", // Minted

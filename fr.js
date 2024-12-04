@@ -530,6 +530,7 @@ export const fr = {
     floor_price: "Prix de plancher", // Floor Price
     twenty_four_hour_volume: "Volume de 24 heures", // 24H Volume
     twenty_four_hour_change: "Changement de 24 heures", // 24H Change
+    volume: "Volume Total", // Total Volume
     holders: "Titulaires", // Holders
     sales: "Ventes", // Sales
     minted: "Minted", // Minted
@@ -544,7 +545,8 @@ export const fr = {
     retry: "Réessayer", // Retry
     select: "Sélectionner", // Select
     inscription: "Inscription", // Inscription
-    error_fetching_user_details: "Erreur lors de l'obtention des détails de l'utilisateur", // Error fetching user details
+    error_fetching_user_details:
+      "Erreur lors de l'obtention des détails de l'utilisateur", // Error fetching user details
     transfer_token: "Transférer le token", // Transfer Token
     no_inscriptions_found: "Aucune inscription trouvée", // No inscriptions found
   },

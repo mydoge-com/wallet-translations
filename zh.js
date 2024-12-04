@@ -494,6 +494,7 @@ export const zh = {
     floor_price: "地板价", // Floor Price
     twenty_four_hour_volume: "24小时交易量", // 24H Volume
     twenty_four_hour_change: "24小时变化", // 24H Change
+    volume: "总交易量", // Total Volume
     holders: "持有者", // Holders
     sales: "销售", // Sales
     minted: "已铸造", // Minted

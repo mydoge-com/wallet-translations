@@ -534,6 +534,7 @@ export const tr = {
     floor_price: "Taban fiyatı", // Floor Price
     twenty_four_hour_volume: "24 saatlik hacim", // 24H Volume
     twenty_four_hour_change: "24 saatlik değişim", // 24H Change
+    volume: "Toplam Hacim", // Total Volume
     holders: "Sahipçiler", // Holders
     sales: "Satışlar", // Sales
     minted: "Minted", // Minted

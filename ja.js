@@ -520,6 +520,7 @@ export const ja = {
     floor_price: "フロア価格", // Floor Price
     twenty_four_hour_volume: "24時間の取引量", // 24H Volume
     twenty_four_hour_change: "24時間の変更", // 24H Change
+    volume: "総量", // Total Volume
     holders: "ホールダー", // Holders
     sales: "販売", // Sales
     minted: "ミント済み", // Minted

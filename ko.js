@@ -525,6 +525,7 @@ export const ko = {
     floor_price: "바닥 가격", // Floor Price
     twenty_four_hour_volume: "24시간 거래량", // 24H Volume
     twenty_four_hour_change: "24시간 변경", // 24H Change
+    volume: "총 볼륨", // Total Volume
     holders: "보유자", // Holders
     sales: "판매", // Sales
     minted: "민트됨", // Minted
@@ -538,7 +539,8 @@ export const ko = {
     retry: "다시 시도", // Retry
     select: "선택", // Select
     inscription: "인스크립션", // Inscription
-    error_fetching_user_details: "사용자 세부 정보 가져오기 중 오류가 발생했습니다", // Error fetching user details
+    error_fetching_user_details:
+      "사용자 세부 정보 가져오기 중 오류가 발생했습니다", // Error fetching user details
     transfer_token: "토큰 전송", // Transfer Token
     no_inscriptions_found: "인스크립션을 찾을 수 없습니다", // No inscriptions found
   },
