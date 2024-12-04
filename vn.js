@@ -530,6 +530,7 @@ export const vn = {
     floor_price: "Giá thấp", // Floor Price
     twenty_four_hour_volume: "Thể tích 24 giờ", // 24H Volume
     twenty_four_hour_change: "Thay đổi 24 giờ", // 24H Change
+    volume: "Tổng khối lượng", // Total Volume
     holders: "Người sở hữu", // Holders
     sales: "Bán hàng", // Sales
     minted: "Đã đúc", // Minted
