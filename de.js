@@ -542,6 +542,7 @@ export const de = {
     floor_price: "Floor-Preis", // Floor Price
     twenty_four_hour_volume: "24H-Volumen", // 24H Volume
     twenty_four_hour_change: "24H-Veränderung", // 24H Change
+    volume: "Gesamtvolumen", // Total Volume
     holders: "Halter", // Holders
     sales: "Verkäufe", // Sales
     minted: "Minted", // Minted

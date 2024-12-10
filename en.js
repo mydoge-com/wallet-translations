@@ -523,6 +523,7 @@ export const en = {
     floor_price: "Floor Price",
     twenty_four_hour_volume: "24H Volume",
     twenty_four_hour_change: "24H Change",
+    volume: "Total Volume",
     holders: "Holders",
     sales: "Sales",
     minted: "Minted",
