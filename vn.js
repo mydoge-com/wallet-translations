@@ -163,7 +163,7 @@ export const vn = {
     no_seed_phrase: "MyDoge không có Cụm từ khôi phục của bạn.", // MyDoge does not have your seed phrase.
     understand_continue: "Tôi hiểu, tiếp tục", // I understand, continue
     enter: "Nhập", // Enter
-    Delete: "Xóa", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "để xóa ví của bạn", // to erase your wallet
     and_profile_data: "và dữ liệu hồ sơ", // and profile data
     message: "Tin nhắn", // Message
@@ -306,7 +306,7 @@ export const vn = {
     to_post_a_comment: "để đăng một bình luận", // to post a comment
     your_comment: "Bình luận của bạn", // Your comment
     post: "Đăng", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "Xóa", // Delete
     enable_push_notifications: "Bật thông báo đẩy?", // Enable push notifications?
     get_notifications_for_tips: "Nhận thông báo cho gợi ý và tin nhắn", // Get notifications for Tips and Messages
     no_thanks: "Không, cảm ơn", // No thanks

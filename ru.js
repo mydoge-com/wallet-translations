@@ -167,7 +167,7 @@ export const ru = {
     no_seed_phrase: "MyDoge не хранит вашу сид-фразу.", // MyDoge does not have your seed phrase.
     understand_continue: "Я понимаю, продолжить", // I understand, continue
     enter: "Введите", // Enter
-    Delete: "Удалить", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "для удаления вашего кошелька", // to erase your wallet
     and_profile_data: "и данных профиля", // and profile data
     message: "Сообщение", // Message
@@ -312,7 +312,7 @@ export const ru = {
     to_post_a_comment: "чтобы оставить комментарий", // to post a comment
     your_comment: "Ваш комментарий", // Your comment
     post: "Опубликовать", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "Удалить", // Delete
     enable_push_notifications: "Включить push-уведомления?", // Enable Push Notifications?
     get_notifications_for_tips: "Получайте уведомления о чаевых и сообщениях", // Get notifications for Tips and Messages
     no_thanks: "Нет, спасибо", // No thanks

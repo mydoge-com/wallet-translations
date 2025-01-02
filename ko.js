@@ -164,7 +164,7 @@ export const ko = {
     no_seed_phrase: "MyDoge에는 귀하의 시드 복구 구문가 없습니다.", // MyDoge does not have your seed phrase.
     understand_continue: "이해합니다. 계속하세요.", // I understand, continue
     enter: "입력하다", // Enter
-    Delete: "삭제", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "지갑을 지우려면", // to erase your wallet
     and_profile_data: "및 프로필 데이터", // and profile data
     message: "메시지", // Message
@@ -304,7 +304,7 @@ export const ko = {
     to_post_a_comment: "댓글을 게시하려면", // to post a comment
     your_comment: "귀하의 의견", // Your comment
     post: "Post", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "삭제", // Delete
     enable_push_notifications: "푸시 알림을 활성화하시겠습니까?", // Enable Push Notifications?
     get_notifications_for_tips: "팁과 메시지에 대한 알림 받기", // Get notifications for Tips and Messages
     no_thanks: "아니요, 괜찮아요.", // No thanks

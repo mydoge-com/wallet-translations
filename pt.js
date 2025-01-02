@@ -166,7 +166,7 @@ export const pt = {
     no_seed_phrase: "MyDoge não tem a sua frase-semente.", // MyDoge does not have your seed phrase.
     understand_continue: "entendi, continue", // I understand, continue
     enter: "Introduzir", // Enter
-    Delete: "Apagar", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "para apagar a sua carteira", // to erase your wallet
     and_profile_data: "e dados de perfil", // and profile data
     message: "Mensagem", // Message
@@ -309,7 +309,7 @@ export const pt = {
     to_post_a_comment: "publicar um comentário", // to post a comment
     your_comment: "Seu comentário", // Your comment
     post: "Publicar", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "Apagar", // Delete
     enable_push_notifications: "Ativar notificações push?", // Enable Push Notifications?
     get_notifications_for_tips: "Receba notificações de dicas e mensagens", // Get notifications for Tips and Messages
     no_thanks: "Não, obrigado", // No thanks

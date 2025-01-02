@@ -169,7 +169,7 @@ export const fr = {
     no_seed_phrase: "MyDoge n'a pas votre phrase de départ.", // MyDoge does not have your seed phrase.
     understand_continue: "Je comprends, continue", // I understand, continue
     enter: "Entrer", // Enter
-    Delete: "Supprimer", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "pour effacer ton portefeuille", // to erase your wallet
     and_profile_data: "et données de profil", // and profile data
     message: "Message", // Message
@@ -315,7 +315,7 @@ export const fr = {
     to_post_a_comment: "pour poster un commentaire", // to post a comment
     your_comment: "Votre commentaire", // Your comment
     post: "Publier", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "Supprimer", // Delete
     enable_push_notifications: "Activer les notifications push ?", // Enable Push Notifications?
     get_notifications_for_tips:
       "Recevez des notifications pour les pourboires et les messages", // Get notifications for Tips and Messages

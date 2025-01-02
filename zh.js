@@ -157,7 +157,7 @@ export const zh = {
     no_seed_phrase: "MyDoge 不会保存您的助记词。", // MyDoge does not have your seed phrase.
     understand_continue: "我明白，继续", // I understand, continue
     enter: "进入", // Enter
-    Delete: "删除", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "抹去你的钱包", // to erase your wallet
     and_profile_data: "和个人资料", // and profile data
     message: "信息", // Message
@@ -286,7 +286,7 @@ export const zh = {
     to_post_a_comment: "发表评论", // to post a comment
     your_comment: "你的评论", // Your comment
     post: "帖子", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "删除", // Delete
     enable_push_notifications: "启用推送通知吗？", // Enable Push Notifications?
     get_notifications_for_tips: "接收提示和消息的通知", // Get notifications for Tips and Messages
     no_thanks: "不，谢谢", // No thanks

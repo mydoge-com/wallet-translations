@@ -165,7 +165,7 @@ export const ja = {
     no_seed_phrase: "MyDogeはあなたのシードフレーズを管理していません。", // MyDoge does not have your seed phrase.
     understand_continue: "了解して続けます", // I understand, continue
     enter: "入力する", // Enter
-    Delete: "削除する", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "ウォレットを消去する", // to erase your wallet
     and_profile_data: "およびプロフィールデータ", // and profile data
     message: "メッセージ", // Message
@@ -308,7 +308,7 @@ export const ja = {
     to_post_a_comment: "コメントする", // to post a comment
     your_comment: "あなたのコメント", // Your comment
     post: "ポストする", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "削除する", // Delete
     enable_push_notifications: "プッシュ通知を有効にしますか?", // Enable Push Notifications?
     get_notifications_for_tips: "チップとメッセージの通知を受け取る", // Get notifications for Tips and Messages
     no_thanks: "いいえ、結構です", // No thanks

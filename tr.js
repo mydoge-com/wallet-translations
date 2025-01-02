@@ -165,7 +165,7 @@ export const tr = {
     no_seed_phrase: "MyDoge, tohum kelimelerinize sahip değildir.", // MyDoge does not have your seed phrase.
     understand_continue: "Anlıyorum, devam et", // I understand, continue
     enter: "Gir", // Enter
-    Delete: "Sil", // Delete
+    Delete: "Delete", // Delete // Stays in English for UI compatibility
     erase_wallet: "cüzdanınızı silmek için", // to erase your wallet
     and_profile_data: "ve profil verilerini", // and profile data
     message: "Mesaj", // Message
@@ -309,7 +309,7 @@ export const tr = {
     to_post_a_comment: "yorum yapmak için", // to post a comment
     your_comment: "Yorumunuz", // Your comment
     post: "Gönder", // Post
-    delete: "Delete", // Delete // Stays in English for UI compatibility
+    delete: "Sil", // Delete
     enable_push_notifications: "Push Bildirimleri Etkinleştirilsin mi?", // Enable Push Notifications?
     get_notifications_for_tips: "Bahşişler ve Mesajlar için bildirim alın", // Get notifications for Tips and Messages
     no_thanks: "Hayır, teşekkürler", // No thanks
