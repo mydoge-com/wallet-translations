@@ -557,5 +557,6 @@ export const ru = {
     error_fetching_user_details: "Ошибка при получении данных пользователя", // Error fetching user details
     transfer_token: "Передать токен", // Transfer Token
     no_inscriptions_found: "Инскрипции не найдены", // No inscriptions found
+    dune_sent: "DUNE отправлен", // DUNE sent
   },
 };

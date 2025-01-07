@@ -552,5 +552,6 @@ export const tr = {
     error_fetching_user_details: "Kullanıcı detayları alırken hata oluştu", // Error fetching user details
     transfer_token: "Token transferi", // Transfer Token
     no_inscriptions_found: "İnscription bulunamadı", // No inscriptions found
+    dune_sent: "DUNE gönderildi", // DUNE sent
   },
 };

@@ -549,5 +549,6 @@ export const fr = {
       "Erreur lors de l'obtention des détails de l'utilisateur", // Error fetching user details
     transfer_token: "Transférer le token", // Transfer Token
     no_inscriptions_found: "Aucune inscription trouvée", // No inscriptions found
+    dune_sent: "DUNE envoyé", // DUNE sent
   },
 };
