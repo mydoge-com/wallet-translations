@@ -510,5 +510,6 @@ export const zh = {
     error_fetching_user_details: "获取用户详情时出错", // Error fetching user details
     transfer_token: "转移代币", // Transfer Token
     no_inscriptions_found: "未找到识别", // No inscriptions found
+    dune_sent: "DUNE已发送", // DUNE sent
   },
 };

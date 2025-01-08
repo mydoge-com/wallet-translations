@@ -549,5 +549,6 @@ export const en = {
     error_fetching_user_details: "Error fetching user details",
     transfer_token: "Transfer Token",
     no_inscriptions_found: "No inscriptions found",
+    dune_sent: "Dune sent",
   },
 };

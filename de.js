@@ -560,5 +560,6 @@ export const de = {
     error_fetching_user_details: "Fehler beim Abrufen der Benutzerdetails", // Error fetching user details
     transfer_token: "Token übertragen", // Transfer Token
     no_inscriptions_found: "Keine Inskriptionen gefunden", // No inscriptions found
+    dune_sent: "DUNE gesendet", // DUNE sent
   },
 };

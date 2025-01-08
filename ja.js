@@ -537,5 +537,6 @@ export const ja = {
     error_fetching_user_details: "ユーザーの詳細を取得中にエラーが発生しました", // Error fetching user details
     transfer_token: "トークン転送", // Transfer Token
     no_inscriptions_found: "インスクリプションが見つかりません", // No inscriptions found
+    dune_sent: "DUNE送信済み", // DUNE sent
   },
 };
